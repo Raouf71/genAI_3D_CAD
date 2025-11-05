@@ -217,7 +217,8 @@ async def process_with_rag(
         text_queries = [
             #"What is the main content of the document?",
             #"What are the key topics discussed?",
-            "Give me the equation of the mantelfläche of a Kegelstumpf?",
+            #"Give me the equation of the mantelfläche of a Kegelstumpf?",
+            "What are the dimensions of the polyacetal spur gear with 20 teeth?",
         ]
 
         for query in text_queries:
