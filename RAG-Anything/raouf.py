@@ -25,13 +25,12 @@ from lightrag.llm.openai import openai_complete_if_cache, openai_embed
 from lightrag.utils import EmbeddingFunc, logger, set_verbose_debug
 from raganything import RAGAnything, RAGAnythingConfig
 
-from functools import partial
-from lightrag.rerank import cohere_rerank, jina_rerank
-
 from dotenv import load_dotenv
-
 load_dotenv(dotenv_path=".env", override=False)
 
+# ANSI escape codes for colors
+C_YELLOW = '\033[93m'
+C_END = '\033[0m'  # Resets the color back to default
 
 def configure_logging():
     """Configure logging for the application"""
@@ -88,13 +87,15 @@ def configure_logging():
     # Enable verbose debug if needed
     set_verbose_debug(os.getenv("VERBOSE", "false").lower() == "true")
 
-MASTER_SYSTEM_PROMPT = "You are a mechanical-engineering assistant specialized in 3D CAD modelling. Use only the information in the provided context. Combine related information that may be spread across multiple sections (e.g. dimension table of the same component can start at a page and end in another page. The location of further information to a component can be indicated by mentioning the page number on which it can be found). Stay document-loyal when extracting dimension information. Fits and tolerances are crucial for CAD modelling. For design or calculation questions, show the key formulas, variables, and steps, and check that the final answer is consistent with all given dimensions. Do not invent parameters, standards, or values that are not in the context. If required parameters are missing from the context, say clearly what is missing and stop instead of guessing. If there are multiple valid approaches or standards, briefly compare them."
-
 async def process_with_rag(
     file_path: str,
     output_dir: str,
-    api_key: str,
-    base_url: str = None,
+    api_key_llm: str,
+    api_key_embed: str,
+    api_key_vlm: str,
+    base_url_llm: str = None,
+    base_url_embed: str = None,
+    base_url_vlm: str = None,
     working_dir: str = None,
     parser: str = None,
 ):
@@ -107,7 +108,12 @@ async def process_with_rag(
         api_key: OpenAI API key
         base_url: Optional base URL for API
         working_dir: Working directory for RAG storage
-    """
+    """ 
+    print(f"{C_YELLOW} ----api_key_llm-----):{C_END}")
+    print(api_key_llm)
+    print(f"{C_YELLOW} ----api_key_embed-----):{C_END}")
+    print(api_key_embed)
+
     try:
         # Create RAGAnything configuration
         config = RAGAnythingConfig(
@@ -121,16 +127,14 @@ async def process_with_rag(
 
         # Define LLM model function
         def llm_model_func(prompt, system_prompt=None, history_messages=[], **kwargs):
-            if system_prompt is None:
-                system_prompt = MASTER_SYSTEM_PROMPT
-            
             return openai_complete_if_cache(
-                "gpt-4o-mini",
+                # "gpt-4o-mini",
+                "deepseek",
                 prompt,
                 system_prompt=system_prompt,
                 history_messages=history_messages,
-                api_key=api_key,
-                base_url=base_url,
+                api_key=api_key_llm,
+                base_url=base_url_llm,
                 **kwargs,
             )
 
@@ -143,25 +147,22 @@ async def process_with_rag(
             messages=None,
             **kwargs,
         ):
-            
             # If messages format is provided (for multimodal VLM enhanced query), use it directly
             if messages:
                 return openai_complete_if_cache(
-                    "gpt-4o",
-                    "",
-                    system_prompt=MASTER_SYSTEM_PROMPT,
+                    # "gpt-4o",
+                    system_prompt=None,
                     history_messages=[],
                     messages=messages,
-                    api_key=api_key,
-                    base_url=base_url,
+                    api_key=api_key_vlm,
+                    base_url=base_url_vlm,
                     **kwargs,
                 )
             # Traditional single image format
-            elif image_data:        
+            elif image_data:
                 return openai_complete_if_cache(
-                    "gpt-4o",
-                    "",
-                    system_prompt=MASTER_SYSTEM_PROMPT,
+                    # "gpt-4o",
+                    system_prompt=None,
                     history_messages=[],
                     messages=[
                         {"role": "system", "content": system_prompt}
@@ -182,8 +183,8 @@ async def process_with_rag(
                         if image_data
                         else {"role": "user", "content": prompt},
                     ],
-                    api_key=api_key,
-                    base_url=base_url,
+                    api_key=api_key_vlm,
+                    base_url=base_url_vlm,
                     **kwargs,
                 )
             # Pure text format
@@ -200,8 +201,8 @@ async def process_with_rag(
             func=lambda texts: openai_embed(
                 texts,
                 model=embedding_model,
-                api_key=api_key,
-                base_url=base_url,
+                api_key=api_key_embed,
+                base_url=base_url_embed,
             ),
         )
 
@@ -210,19 +211,12 @@ async def process_with_rag(
             config=config,
             llm_model_func=llm_model_func,
             vision_model_func=vision_model_func,
-            embedding_func=embedding_func, 
-            lightrag_kwargs={
-                "rerank_model_func": jina_rerank,  # Reranker
-                # "rerank_api_key": "your_jina_api_key",  # Optional: API key for Jina
-                # "rerank_top_n": 5  # Number of top results
-            }
+            embedding_func=embedding_func,
         )
 
         # Process document
         await rag.process_document_complete(
-            file_path=file_path, 
-            output_dir=output_dir, 
-            parse_method="auto"
+            file_path=file_path, output_dir=output_dir, parse_method="auto"
         )
 
         # Example queries - demonstrating different query approaches
@@ -232,20 +226,14 @@ async def process_with_rag(
         text_queries = [
             #"What is the main content of the document?",
             #"What are the key topics discussed?",
-            # "---------------"
             #"Give me the equation of the mantelfläche of a Kegelstumpf?",
-            # "---------------"
-            #"What are the dimensions of the polyacetal spur gear with 20 teeth?",
-            # "---------------"
-            # "Gib mir alle Abmessungen von Passfedern aus Tab. 9.2 (bxh Werte aufsteigend sortiert) im Fall einer Niedrige Form? P.S: Bitte beachte, dass Tab 9.2 auf einer Seite beginnt und auf der nächsten Seite enden kann (siehe Fortsetzung, falls vorhanden)",
-            # "Gib mir alle Abmessungen von Passfedern aus Tab. 9.2 (bxh Werte aufsteigend sortiert) im Fall einer Niedrige Form? P.S: Bitte beachte, dass Tab 9.2 auf einer Seite beginnt und an anderer Stelle im Dokument fortgesetzt werden kann (siehe Fortsetzung, falls vorhanden)",
-            # "Gib mir der niedrigste sowie der höchste Wert von t1 in Tab. 9.2 im Fall einer Niedrige Form",
-            "Gib mir alle Abmessungen von Passfedern aus Tab. 9.2 mit b x h = 14 x 9 im Fall einer Hohe Form und im Fall einer Hohe Form für Werkzeugmaschinen",
+            # "What are the dimensions of the polyacetal spur gear with 20 teeth?",
+            "Describe what u see in 2-3 sentences",
         ]
 
         for query in text_queries:
             logger.info(f"\n[Text Query]: {query}")
-            result = await rag.aquery(query, mode="mix")
+            result = await rag.aquery(query, mode="hybrid")
             logger.info(f"Answer: {result}")
 
         # 2. Multimodal query with specific multimodal content using aquery_with_multimodal()
@@ -264,7 +252,7 @@ async def process_with_rag(
                     "table_caption": "Performance comparison results",
                 }
             ],
-            mode="mix",
+            mode="hybrid",
         )
         logger.info(f"Answer: {multimodal_result}")
 
@@ -279,7 +267,7 @@ async def process_with_rag(
                     "equation_caption": "F1-score calculation formula",
                 }
             ],
-            mode="mix",
+            mode="hybrid",
         )
         logger.info(f"Answer: {equation_result}")
 
@@ -300,27 +288,64 @@ def main():
     parser.add_argument(
         "--output", "-o", default="./output", help="Output directory path"
     )
+
+    # _________________________ pass params inside code _________________________
+    # ________________ LLM ________________
     parser.add_argument(
-        "--api-key",
-        default=os.getenv("LLM_BINDING_API_KEY"),
-        help="OpenAI API key (defaults to LLM_BINDING_API_KEY env var)",
+        "--api-key-llm",
+        default="sk-4c29159300e5441496778a654e1ecb89",   # deepseek  
+        help="LLM key",
     )
     parser.add_argument(
-        "--base-url",
-        default=os.getenv("LLM_BINDING_HOST"),
-        help="Optional base URL for API",
+        "--base-url-llm",
+        default="https://api.deepseek.com/v1/",  
+        help="Optional base URL for LLM API",
+    )
+    # ________________ EMBED ________________
+    parser.add_argument(
+        "--api-key-embed",
+        default="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", # text-embedding-3-large openai
+        help="EMBED key",
     )
     parser.add_argument(
-        "--parser",
-        default=os.getenv("PARSER", "mineru"),
-        help="Optional base URL for API",
+        "--base-url-embed",
+        default="https://openrouter.ai/api/v1",  
+        help="Optional base URL for EMBED API",
+    )
+    # ________________ VLM ________________
+    parser.add_argument(
+        "--api-key-vlm",
+        default="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", # qwen3
+        help="VLM key",
+    )
+    parser.add_argument(
+        "--base-url-vlm",
+        default="https://openrouter.ai/api/v1",  
+        help="Optional base URL for VLM API",
     )
 
+    parser.add_argument(
+        "--parser",
+        default="mineru",  # or docling
+        help="Optional parser to use",
+    )
+
+    # ________________ user prompt ________________
     args = parser.parse_args()
 
     # Check if API key is provided
-    if not args.api_key:
-        logger.error("Error: OpenAI API key is required")
+    if not args.api_key_llm:
+        logger.error("Error: LLM API key is required")
+        logger.error("Set api key environment variable or use --api-key option")
+        return
+
+    if not args.api_key_vlm:
+        logger.error("Error: VLM API key is required")
+        logger.error("Set api key environment variable or use --api-key option")
+        return
+
+    if not args.api_key_embed:
+        logger.error("Error: EMBED API key is required")
         logger.error("Set api key environment variable or use --api-key option")
         return
 
@@ -333,13 +358,16 @@ def main():
         process_with_rag(
             args.file_path,
             args.output,
-            args.api_key,
-            args.base_url,
+            args.api_key_llm,
+            args.api_key_embed,
+            args.api_key_vlm,
+            args.base_url_llm,
+            args.base_url_embed,
+            args.base_url_vlm,
             args.working_dir,
             args.parser,
         )
     )
-
 
 if __name__ == "__main__":
     # Configure logging first
