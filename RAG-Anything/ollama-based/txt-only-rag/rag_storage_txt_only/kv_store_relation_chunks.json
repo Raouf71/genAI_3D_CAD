@@ -1,0 +1,137 @@
+{
+  "Multimodal RAG<SEP>Scientific Research": {
+    "chunk_ids": [
+      "chunk-9b9781ae95792fd1a7bcc081ed3c0c64"
+    ],
+    "count": 1,
+    "create_time": 1764153924,
+    "update_time": 1764153924,
+    "_id": "Multimodal RAG<SEP>Scientific Research"
+  },
+  "Multimodal RAG Framework<SEP>Technical Challenges": {
+    "chunk_ids": [
+      "chunk-9b9781ae95792fd1a7bcc081ed3c0c64"
+    ],
+    "count": 1,
+    "create_time": 1764153924,
+    "update_time": 1764153924,
+    "_id": "Multimodal RAG Framework<SEP>Technical Challenges"
+  },
+  "Financial Analysis<SEP>Multimodal RAG": {
+    "chunk_ids": [
+      "chunk-9b9781ae95792fd1a7bcc081ed3c0c64"
+    ],
+    "count": 1,
+    "create_time": 1764153924,
+    "update_time": 1764153924,
+    "_id": "Financial Analysis<SEP>Multimodal RAG"
+  },
+  "Dual-Graph Construction Strategy<SEP>RAG-Anything": {
+    "chunk_ids": [
+      "chunk-9b9781ae95792fd1a7bcc081ed3c0c64"
+    ],
+    "count": 1,
+    "create_time": 1764153924,
+    "update_time": 1764153924,
+    "_id": "Dual-Graph Construction Strategy<SEP>RAG-Anything"
+  },
+  "Multimodal RAG Framework<SEP>Unified Multimodal Representation Challenge": {
+    "chunk_ids": [
+      "chunk-9b9781ae95792fd1a7bcc081ed3c0c64"
+    ],
+    "count": 1,
+    "create_time": 1764153925,
+    "update_time": 1764153925,
+    "_id": "Multimodal RAG Framework<SEP>Unified Multimodal Representation Challenge"
+  },
+  "Medical Literature Analysis<SEP>Multimodal RAG": {
+    "chunk_ids": [
+      "chunk-9b9781ae95792fd1a7bcc081ed3c0c64"
+    ],
+    "count": 1,
+    "create_time": 1764153925,
+    "update_time": 1764153925,
+    "_id": "Medical Literature Analysis<SEP>Multimodal RAG"
+  },
+  "Cross-Modal Hybrid Retrieval Mechanism<SEP>RAG-Anything": {
+    "chunk_ids": [
+      "chunk-9b9781ae95792fd1a7bcc081ed3c0c64"
+    ],
+    "count": 1,
+    "create_time": 1764153925,
+    "update_time": 1764153925,
+    "_id": "Cross-Modal Hybrid Retrieval Mechanism<SEP>RAG-Anything"
+  },
+  "Multimodal RAG Framework<SEP>Structure-Aware Decomposition Challenge": {
+    "chunk_ids": [
+      "chunk-9b9781ae95792fd1a7bcc081ed3c0c64"
+    ],
+    "count": 1,
+    "create_time": 1764153926,
+    "update_time": 1764153926,
+    "_id": "Multimodal RAG Framework<SEP>Structure-Aware Decomposition Challenge"
+  },
+  "Modality-Aware Query Processing<SEP>RAG-Anything": {
+    "chunk_ids": [
+      "chunk-9b9781ae95792fd1a7bcc081ed3c0c64"
+    ],
+    "count": 1,
+    "create_time": 1764153926,
+    "update_time": 1764153926,
+    "_id": "Modality-Aware Query Processing<SEP>RAG-Anything"
+  },
+  "Cross-Modal Retrieval Challenge<SEP>Multimodal RAG Framework": {
+    "chunk_ids": [
+      "chunk-9b9781ae95792fd1a7bcc081ed3c0c64"
+    ],
+    "count": 1,
+    "create_time": 1764153926,
+    "update_time": 1764153926,
+    "_id": "Cross-Modal Retrieval Challenge<SEP>Multimodal RAG Framework"
+  },
+  "Multimodal Benchmarks<SEP>RAG-Anything": {
+    "chunk_ids": [
+      "chunk-9b9781ae95792fd1a7bcc081ed3c0c64"
+    ],
+    "count": 1,
+    "create_time": 1764153926,
+    "update_time": 1764153926,
+    "_id": "Multimodal Benchmarks<SEP>RAG-Anything"
+  },
+  "Multimodal Knowledge Representation<SEP>RAG-Anything": {
+    "chunk_ids": [
+      "chunk-9b9781ae95792fd1a7bcc081ed3c0c64"
+    ],
+    "count": 1,
+    "create_time": 1764153927,
+    "update_time": 1764153927,
+    "_id": "Multimodal Knowledge Representation<SEP>RAG-Anything"
+  },
+  "Dual-Graph Construction<SEP>RAG-Anything": {
+    "chunk_ids": [
+      "chunk-9b9781ae95792fd1a7bcc081ed3c0c64"
+    ],
+    "count": 1,
+    "create_time": 1764153927,
+    "update_time": 1764153927,
+    "_id": "Dual-Graph Construction<SEP>RAG-Anything"
+  },
+  "Long-Context Materials<SEP>RAG-Anything": {
+    "chunk_ids": [
+      "chunk-9b9781ae95792fd1a7bcc081ed3c0c64"
+    ],
+    "count": 1,
+    "create_time": 1764153928,
+    "update_time": 1764153928,
+    "_id": "Long-Context Materials<SEP>RAG-Anything"
+  },
+  "Multimodal RAG Framework<SEP>RAG-Anything": {
+    "chunk_ids": [
+      "chunk-9b9781ae95792fd1a7bcc081ed3c0c64"
+    ],
+    "count": 1,
+    "create_time": 1764153929,
+    "update_time": 1764153929,
+    "_id": "Multimodal RAG Framework<SEP>RAG-Anything"
+  }
+}

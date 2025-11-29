@@ -1,0 +1,2729 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        107,
+                        82,
+                        505,
+                        203
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                82,
+                                505,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        82,
+                                        505,
+                                        95
+                                    ],
+                                    "score": 1.0,
+                                    "content": "need for multimodal RAG capabilities. In Scientific Research, experimental results are primarily",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                94,
+                                505,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        94,
+                                        505,
+                                        105
+                                    ],
+                                    "score": 1.0,
+                                    "content": "communicated through plots, diagrams, and statistical visualizations. These contain core discoveries",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                105,
+                                506,
+                                117
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        105,
+                                        506,
+                                        117
+                                    ],
+                                    "score": 1.0,
+                                    "content": "that remain invisible to text-only systems. Financial Analysis relies heavily on market charts,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                115,
+                                506,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        115,
+                                        506,
+                                        128
+                                    ],
+                                    "score": 1.0,
+                                    "content": "correlation matrices, and performance tables. Investment insights are encoded in visual patterns",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                126,
+                                505,
+                                139
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        126,
+                                        505,
+                                        139
+                                    ],
+                                    "score": 1.0,
+                                    "content": "rather than textual descriptions. Additionally, Medical Literature Analysis depends on radiological",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                137,
+                                506,
+                                149
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        137,
+                                        506,
+                                        149
+                                    ],
+                                    "score": 1.0,
+                                    "content": "images, diagnostic charts, and clinical data tables. These contain life-critical information essential for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                148,
+                                505,
+                                161
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        148,
+                                        505,
+                                        161
+                                    ],
+                                    "score": 1.0,
+                                    "content": "accurate diagnosis and treatment decisions. Current RAG frameworks systematically exclude these",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                159,
+                                505,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        159,
+                                        505,
+                                        172
+                                    ],
+                                    "score": 1.0,
+                                    "content": "vital knowledge sources across all three scenarios. This creates fundamental gaps that render them",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                171,
+                                506,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        171,
+                                        506,
+                                        183
+                                    ],
+                                    "score": 1.0,
+                                    "content": "inadequate for real-world applications requiring comprehensive information understanding. Therefore,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                180,
+                                506,
+                                195
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        180,
+                                        506,
+                                        195
+                                    ],
+                                    "score": 1.0,
+                                    "content": "multimodal RAG emerges as a critical advancement. It is necessary to bridge these knowledge gaps",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                193,
+                                506,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        193,
+                                        506,
+                                        204
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and enable truly comprehensive intelligence across all modalities of human knowledge representation.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        107,
+                        209,
+                        505,
+                        286
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                209,
+                                505,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        209,
+                                        505,
+                                        222
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Addressing multimodal RAG presents three fundamental technical challenges that demand principled",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                220,
+                                505,
+                                232
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        220,
+                                        505,
+                                        232
+                                    ],
+                                    "score": 1.0,
+                                    "content": "solutions. This makes it significantly more complex than traditional text-only approaches. The naive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                231,
+                                505,
+                                243
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        231,
+                                        505,
+                                        243
+                                    ],
+                                    "score": 1.0,
+                                    "content": "solution of converting all multimodal content to textual descriptions introduces severe information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                242,
+                                505,
+                                254
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        242,
+                                        505,
+                                        254
+                                    ],
+                                    "score": 1.0,
+                                    "content": "loss. Visual elements such as charts, diagrams, and spatial layouts contain semantic richness that",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                253,
+                                506,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        253,
+                                        506,
+                                        265
+                                    ],
+                                    "score": 1.0,
+                                    "content": "cannot be adequately captured through text alone. These inherent limitations necessitate the design of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                264,
+                                505,
+                                276
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        264,
+                                        505,
+                                        276
+                                    ],
+                                    "score": 1.0,
+                                    "content": "effective technical components. Such components must be specifically designed to handle multimodal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                275,
+                                495,
+                                288
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        275,
+                                        495,
+                                        288
+                                    ],
+                                    "score": 1.0,
+                                    "content": "complexity and preserve the full spectrum of information contained within diverse content types.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        107,
+                        291,
+                        505,
+                        435
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                291,
+                                507,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        291,
+                                        507,
+                                        305
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Technical Challenges. • First, the unified multimodal representation challenge requires seam-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                303,
+                                504,
+                                315
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        303,
+                                        504,
+                                        315
+                                    ],
+                                    "score": 1.0,
+                                    "content": "lessly integrating diverse information types. The system must preserve their unique characteristics",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                314,
+                                505,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        314,
+                                        505,
+                                        326
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and cross-modal relationships. This demands advanced multimodal encoders that can capture both",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                324,
+                                505,
+                                338
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        324,
+                                        505,
+                                        338
+                                    ],
+                                    "score": 1.0,
+                                    "content": "intra-modal and inter-modal dependencies without losing essential visual semantics. • Second, the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                335,
+                                505,
+                                349
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        335,
+                                        505,
+                                        349
+                                    ],
+                                    "score": 1.0,
+                                    "content": "structure-aware decomposition challenge demands intelligent parsing of complex layouts. The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                346,
+                                506,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        346,
+                                        506,
+                                        360
+                                    ],
+                                    "score": 1.0,
+                                    "content": "system must maintain spatial and hierarchical relationships crucial for understanding. This requires",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                357,
+                                506,
+                                371
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        357,
+                                        506,
+                                        371
+                                    ],
+                                    "score": 1.0,
+                                    "content": "specialized layout-aware parsing modules that can interpret document structure and preserve contex-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                368,
+                                505,
+                                381
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        368,
+                                        505,
+                                        381
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tual positioning of multimodal elements. • Third, the cross-modal retrieval challenge necessitates",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                380,
+                                506,
+                                392
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        380,
+                                        506,
+                                        392
+                                    ],
+                                    "score": 1.0,
+                                    "content": "sophisticated mechanisms that can navigate between different modalities. These mechanisms must",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                390,
+                                505,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        390,
+                                        505,
+                                        403
+                                    ],
+                                    "score": 1.0,
+                                    "content": "reason over their interconnections during retrieval. This calls for cross-modal alignment systems",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                401,
+                                505,
+                                415
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        401,
+                                        505,
+                                        415
+                                    ],
+                                    "score": 1.0,
+                                    "content": "capable of understanding semantic correspondences across text, images, and structured data. These",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                412,
+                                505,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        412,
+                                        505,
+                                        425
+                                    ],
+                                    "score": 1.0,
+                                    "content": "challenges are amplified in long-context scenarios. Relevant evidence is dispersed across multiple",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                423,
+                                506,
+                                437
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        423,
+                                        506,
+                                        437
+                                    ],
+                                    "score": 1.0,
+                                    "content": "modalities and sections, requiring coordinated reasoning across heterogeneous information sources.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        }
+                    ],
+                    "index": 24
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        107,
+                        440,
+                        505,
+                        540
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                440,
+                                505,
+                                453
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        440,
+                                        505,
+                                        453
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Our Contributions. To address these challenges, we introduce RAG-Anything, a unified framework",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                451,
+                                505,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        451,
+                                        505,
+                                        464
+                                    ],
+                                    "score": 1.0,
+                                    "content": "that fundamentally reimagines multimodal knowledge representation and retrieval. Our approach",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                462,
+                                505,
+                                474
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        462,
+                                        505,
+                                        474
+                                    ],
+                                    "score": 1.0,
+                                    "content": "employs a dual-graph construction strategy that elegantly bridges the gap between cross-modal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                473,
+                                506,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        473,
+                                        506,
+                                        486
+                                    ],
+                                    "score": 1.0,
+                                    "content": "understanding and fine-grained textual semantics. Rather than forcing diverse modalities into text-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                483,
+                                506,
+                                498
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        483,
+                                        506,
+                                        498
+                                    ],
+                                    "score": 1.0,
+                                    "content": "centric pipelines, RAG-Anything constructs complementary knowledge graphs that preserve both",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                496,
+                                505,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        496,
+                                        505,
+                                        507
+                                    ],
+                                    "score": 1.0,
+                                    "content": "multimodal contextual relationships and detailed textual knowledge. This design enables seamless",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                506,
+                                505,
+                                518
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        506,
+                                        505,
+                                        518
+                                    ],
+                                    "score": 1.0,
+                                    "content": "integration of visual elements, structured data, and mathematical expressions within a unified retrieval",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                518,
+                                505,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        518,
+                                        505,
+                                        529
+                                    ],
+                                    "score": 1.0,
+                                    "content": "framework. The system maintains semantic integrity across modalities while ensuring efficient",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                527,
+                                351,
+                                541
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        527,
+                                        351,
+                                        541
+                                    ],
+                                    "score": 1.0,
+                                    "content": "cross-modal reasoning capabilities throughout the process.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 35
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        107,
+                        544,
+                        505,
+                        654
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                545,
+                                506,
+                                557
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        545,
+                                        506,
+                                        557
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Our cross-modal hybrid retrieval mechanism strategically combines structural knowledge nav-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                556,
+                                506,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        556,
+                                        506,
+                                        569
+                                    ],
+                                    "score": 1.0,
+                                    "content": "igation with semantic similarity matching. This architecture addresses the fundamental limita-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                565,
+                                507,
+                                581
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        565,
+                                        507,
+                                        581
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tion of existing approaches that rely solely on embedding-based retrieval or keyword matching.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                577,
+                                506,
+                                591
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        577,
+                                        506,
+                                        591
+                                    ],
+                                    "score": 1.0,
+                                    "content": "RAG-Anything leverages explicit graph relationships to capture multi-hop reasoning patterns. It",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                589,
+                                506,
+                                601
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        589,
+                                        506,
+                                        601
+                                    ],
+                                    "score": 1.0,
+                                    "content": "simultaneously employs dense vector representations to identify semantically relevant content that",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                598,
+                                506,
+                                614
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        598,
+                                        506,
+                                        614
+                                    ],
+                                    "score": 1.0,
+                                    "content": "lacks direct structural connections. The framework introduces modality-aware query processing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                611,
+                                505,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        611,
+                                        505,
+                                        623
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and cross-modal alignment systems. These enable textual queries to effectively access visual and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                621,
+                                505,
+                                635
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        621,
+                                        505,
+                                        635
+                                    ],
+                                    "score": 1.0,
+                                    "content": "structured information. This unified approach eliminates the architectural fragmentation that plagues",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                633,
+                                506,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        633,
+                                        506,
+                                        645
+                                    ],
+                                    "score": 1.0,
+                                    "content": "current multimodal RAG systems. It delivers superior performance particularly on long-context",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                644,
+                                450,
+                                655
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        644,
+                                        450,
+                                        655
+                                    ],
+                                    "score": 1.0,
+                                    "content": "documents where relevant evidence spans multiple modalities and document sections.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        }
+                    ],
+                    "index": 44.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        107,
+                        660,
+                        505,
+                        726
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                660,
+                                507,
+                                673
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        660,
+                                        507,
+                                        673
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Experimental Validation. To validate the effectiveness of our proposed approach, we conduct com-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 50
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                671,
+                                506,
+                                684
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        671,
+                                        506,
+                                        684
+                                    ],
+                                    "score": 1.0,
+                                    "content": "prehensive experiments on two challenging multimodal benchmarks: DocBench and MMLongBench.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 51
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                683,
+                                506,
+                                694
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        683,
+                                        506,
+                                        694
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Our evaluation demonstrates that RAG-Anything achieves superior performance across diverse do-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 52
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                693,
+                                506,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        693,
+                                        506,
+                                        705
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mains. The framework represents substantial improvements over state-of-the-art baselines. Notably,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 53
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                704,
+                                505,
+                                717
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        704,
+                                        505,
+                                        717
+                                    ],
+                                    "score": 1.0,
+                                    "content": "our performance gains become increasingly significant as content length increases. We observe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 54
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                715,
+                                505,
+                                728
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        715,
+                                        505,
+                                        728
+                                    ],
+                                    "score": 1.0,
+                                    "content": "particularly pronounced advantages on long-context materials. This validates our core hypothesis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 55
+                        }
+                    ],
+                    "index": 52.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                612,
+                792
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        106,
+                        27,
+                        336,
+                        36
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                25,
+                                338,
+                                39
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        25,
+                                        338,
+                                        39
+                                    ],
+                                    "score": 1.0,
+                                    "content": "RAG-ANYTHING: ALL-IN-ONE RAG FRAMEWORK",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        302,
+                        752,
+                        308,
+                        760
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                302,
+                                750,
+                                310,
+                                763
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        302,
+                                        750,
+                                        310,
+                                        763
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text",
+                                    "height": 13,
+                                    "width": 8
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        107,
+                        82,
+                        505,
+                        203
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                82,
+                                505,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        82,
+                                        505,
+                                        95
+                                    ],
+                                    "score": 1.0,
+                                    "content": "need for multimodal RAG capabilities. In Scientific Research, experimental results are primarily",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                94,
+                                505,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        94,
+                                        505,
+                                        105
+                                    ],
+                                    "score": 1.0,
+                                    "content": "communicated through plots, diagrams, and statistical visualizations. These contain core discoveries",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                105,
+                                506,
+                                117
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        105,
+                                        506,
+                                        117
+                                    ],
+                                    "score": 1.0,
+                                    "content": "that remain invisible to text-only systems. Financial Analysis relies heavily on market charts,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                115,
+                                506,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        115,
+                                        506,
+                                        128
+                                    ],
+                                    "score": 1.0,
+                                    "content": "correlation matrices, and performance tables. Investment insights are encoded in visual patterns",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                126,
+                                505,
+                                139
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        126,
+                                        505,
+                                        139
+                                    ],
+                                    "score": 1.0,
+                                    "content": "rather than textual descriptions. Additionally, Medical Literature Analysis depends on radiological",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                137,
+                                506,
+                                149
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        137,
+                                        506,
+                                        149
+                                    ],
+                                    "score": 1.0,
+                                    "content": "images, diagnostic charts, and clinical data tables. These contain life-critical information essential for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                148,
+                                505,
+                                161
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        148,
+                                        505,
+                                        161
+                                    ],
+                                    "score": 1.0,
+                                    "content": "accurate diagnosis and treatment decisions. Current RAG frameworks systematically exclude these",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                159,
+                                505,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        159,
+                                        505,
+                                        172
+                                    ],
+                                    "score": 1.0,
+                                    "content": "vital knowledge sources across all three scenarios. This creates fundamental gaps that render them",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                171,
+                                506,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        171,
+                                        506,
+                                        183
+                                    ],
+                                    "score": 1.0,
+                                    "content": "inadequate for real-world applications requiring comprehensive information understanding. Therefore,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                180,
+                                506,
+                                195
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        180,
+                                        506,
+                                        195
+                                    ],
+                                    "score": 1.0,
+                                    "content": "multimodal RAG emerges as a critical advancement. It is necessary to bridge these knowledge gaps",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                193,
+                                506,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        193,
+                                        506,
+                                        204
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and enable truly comprehensive intelligence across all modalities of human knowledge representation.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 5,
+                    "bbox_fs": [
+                        105,
+                        82,
+                        506,
+                        204
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        107,
+                        209,
+                        505,
+                        286
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                209,
+                                505,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        209,
+                                        505,
+                                        222
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Addressing multimodal RAG presents three fundamental technical challenges that demand principled",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                220,
+                                505,
+                                232
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        220,
+                                        505,
+                                        232
+                                    ],
+                                    "score": 1.0,
+                                    "content": "solutions. This makes it significantly more complex than traditional text-only approaches. The naive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                231,
+                                505,
+                                243
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        231,
+                                        505,
+                                        243
+                                    ],
+                                    "score": 1.0,
+                                    "content": "solution of converting all multimodal content to textual descriptions introduces severe information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                242,
+                                505,
+                                254
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        242,
+                                        505,
+                                        254
+                                    ],
+                                    "score": 1.0,
+                                    "content": "loss. Visual elements such as charts, diagrams, and spatial layouts contain semantic richness that",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                253,
+                                506,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        253,
+                                        506,
+                                        265
+                                    ],
+                                    "score": 1.0,
+                                    "content": "cannot be adequately captured through text alone. These inherent limitations necessitate the design of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                264,
+                                505,
+                                276
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        264,
+                                        505,
+                                        276
+                                    ],
+                                    "score": 1.0,
+                                    "content": "effective technical components. Such components must be specifically designed to handle multimodal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                275,
+                                495,
+                                288
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        275,
+                                        495,
+                                        288
+                                    ],
+                                    "score": 1.0,
+                                    "content": "complexity and preserve the full spectrum of information contained within diverse content types.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 14,
+                    "bbox_fs": [
+                        105,
+                        209,
+                        506,
+                        288
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        107,
+                        291,
+                        505,
+                        435
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                291,
+                                507,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        291,
+                                        507,
+                                        305
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Technical Challenges. • First, the unified multimodal representation challenge requires seam-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                303,
+                                504,
+                                315
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        303,
+                                        504,
+                                        315
+                                    ],
+                                    "score": 1.0,
+                                    "content": "lessly integrating diverse information types. The system must preserve their unique characteristics",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                314,
+                                505,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        314,
+                                        505,
+                                        326
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and cross-modal relationships. This demands advanced multimodal encoders that can capture both",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                324,
+                                505,
+                                338
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        324,
+                                        505,
+                                        338
+                                    ],
+                                    "score": 1.0,
+                                    "content": "intra-modal and inter-modal dependencies without losing essential visual semantics. • Second, the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                335,
+                                505,
+                                349
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        335,
+                                        505,
+                                        349
+                                    ],
+                                    "score": 1.0,
+                                    "content": "structure-aware decomposition challenge demands intelligent parsing of complex layouts. The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                346,
+                                506,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        346,
+                                        506,
+                                        360
+                                    ],
+                                    "score": 1.0,
+                                    "content": "system must maintain spatial and hierarchical relationships crucial for understanding. This requires",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                357,
+                                506,
+                                371
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        357,
+                                        506,
+                                        371
+                                    ],
+                                    "score": 1.0,
+                                    "content": "specialized layout-aware parsing modules that can interpret document structure and preserve contex-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                368,
+                                505,
+                                381
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        368,
+                                        505,
+                                        381
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tual positioning of multimodal elements. • Third, the cross-modal retrieval challenge necessitates",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                380,
+                                506,
+                                392
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        380,
+                                        506,
+                                        392
+                                    ],
+                                    "score": 1.0,
+                                    "content": "sophisticated mechanisms that can navigate between different modalities. These mechanisms must",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                390,
+                                505,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        390,
+                                        505,
+                                        403
+                                    ],
+                                    "score": 1.0,
+                                    "content": "reason over their interconnections during retrieval. This calls for cross-modal alignment systems",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                401,
+                                505,
+                                415
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        401,
+                                        505,
+                                        415
+                                    ],
+                                    "score": 1.0,
+                                    "content": "capable of understanding semantic correspondences across text, images, and structured data. These",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                412,
+                                505,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        412,
+                                        505,
+                                        425
+                                    ],
+                                    "score": 1.0,
+                                    "content": "challenges are amplified in long-context scenarios. Relevant evidence is dispersed across multiple",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                423,
+                                506,
+                                437
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        423,
+                                        506,
+                                        437
+                                    ],
+                                    "score": 1.0,
+                                    "content": "modalities and sections, requiring coordinated reasoning across heterogeneous information sources.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        }
+                    ],
+                    "index": 24,
+                    "bbox_fs": [
+                        105,
+                        291,
+                        507,
+                        437
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        107,
+                        440,
+                        505,
+                        540
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                440,
+                                505,
+                                453
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        440,
+                                        505,
+                                        453
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Our Contributions. To address these challenges, we introduce RAG-Anything, a unified framework",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                451,
+                                505,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        451,
+                                        505,
+                                        464
+                                    ],
+                                    "score": 1.0,
+                                    "content": "that fundamentally reimagines multimodal knowledge representation and retrieval. Our approach",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                462,
+                                505,
+                                474
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        462,
+                                        505,
+                                        474
+                                    ],
+                                    "score": 1.0,
+                                    "content": "employs a dual-graph construction strategy that elegantly bridges the gap between cross-modal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                473,
+                                506,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        473,
+                                        506,
+                                        486
+                                    ],
+                                    "score": 1.0,
+                                    "content": "understanding and fine-grained textual semantics. Rather than forcing diverse modalities into text-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                483,
+                                506,
+                                498
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        483,
+                                        506,
+                                        498
+                                    ],
+                                    "score": 1.0,
+                                    "content": "centric pipelines, RAG-Anything constructs complementary knowledge graphs that preserve both",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                496,
+                                505,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        496,
+                                        505,
+                                        507
+                                    ],
+                                    "score": 1.0,
+                                    "content": "multimodal contextual relationships and detailed textual knowledge. This design enables seamless",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                506,
+                                505,
+                                518
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        506,
+                                        505,
+                                        518
+                                    ],
+                                    "score": 1.0,
+                                    "content": "integration of visual elements, structured data, and mathematical expressions within a unified retrieval",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                518,
+                                505,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        518,
+                                        505,
+                                        529
+                                    ],
+                                    "score": 1.0,
+                                    "content": "framework. The system maintains semantic integrity across modalities while ensuring efficient",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                527,
+                                351,
+                                541
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        527,
+                                        351,
+                                        541
+                                    ],
+                                    "score": 1.0,
+                                    "content": "cross-modal reasoning capabilities throughout the process.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 35,
+                    "bbox_fs": [
+                        105,
+                        440,
+                        506,
+                        541
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        107,
+                        544,
+                        505,
+                        654
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                545,
+                                506,
+                                557
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        545,
+                                        506,
+                                        557
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Our cross-modal hybrid retrieval mechanism strategically combines structural knowledge nav-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                556,
+                                506,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        556,
+                                        506,
+                                        569
+                                    ],
+                                    "score": 1.0,
+                                    "content": "igation with semantic similarity matching. This architecture addresses the fundamental limita-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                565,
+                                507,
+                                581
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        565,
+                                        507,
+                                        581
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tion of existing approaches that rely solely on embedding-based retrieval or keyword matching.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                577,
+                                506,
+                                591
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        577,
+                                        506,
+                                        591
+                                    ],
+                                    "score": 1.0,
+                                    "content": "RAG-Anything leverages explicit graph relationships to capture multi-hop reasoning patterns. It",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                589,
+                                506,
+                                601
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        589,
+                                        506,
+                                        601
+                                    ],
+                                    "score": 1.0,
+                                    "content": "simultaneously employs dense vector representations to identify semantically relevant content that",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                598,
+                                506,
+                                614
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        598,
+                                        506,
+                                        614
+                                    ],
+                                    "score": 1.0,
+                                    "content": "lacks direct structural connections. The framework introduces modality-aware query processing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                611,
+                                505,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        611,
+                                        505,
+                                        623
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and cross-modal alignment systems. These enable textual queries to effectively access visual and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                621,
+                                505,
+                                635
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        621,
+                                        505,
+                                        635
+                                    ],
+                                    "score": 1.0,
+                                    "content": "structured information. This unified approach eliminates the architectural fragmentation that plagues",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                633,
+                                506,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        633,
+                                        506,
+                                        645
+                                    ],
+                                    "score": 1.0,
+                                    "content": "current multimodal RAG systems. It delivers superior performance particularly on long-context",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                644,
+                                450,
+                                655
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        644,
+                                        450,
+                                        655
+                                    ],
+                                    "score": 1.0,
+                                    "content": "documents where relevant evidence spans multiple modalities and document sections.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        }
+                    ],
+                    "index": 44.5,
+                    "bbox_fs": [
+                        105,
+                        545,
+                        507,
+                        655
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        107,
+                        660,
+                        505,
+                        726
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                660,
+                                507,
+                                673
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        660,
+                                        507,
+                                        673
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Experimental Validation. To validate the effectiveness of our proposed approach, we conduct com-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 50
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                671,
+                                506,
+                                684
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        671,
+                                        506,
+                                        684
+                                    ],
+                                    "score": 1.0,
+                                    "content": "prehensive experiments on two challenging multimodal benchmarks: DocBench and MMLongBench.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 51
+                        },
+                        {
+                            "bbox": [
+                                106,
+                                683,
+                                506,
+                                694
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        683,
+                                        506,
+                                        694
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Our evaluation demonstrates that RAG-Anything achieves superior performance across diverse do-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 52
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                693,
+                                506,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        693,
+                                        506,
+                                        705
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mains. The framework represents substantial improvements over state-of-the-art baselines. Notably,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 53
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                704,
+                                505,
+                                717
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        704,
+                                        505,
+                                        717
+                                    ],
+                                    "score": 1.0,
+                                    "content": "our performance gains become increasingly significant as content length increases. We observe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 54
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                715,
+                                505,
+                                728
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        715,
+                                        505,
+                                        728
+                                    ],
+                                    "score": 1.0,
+                                    "content": "particularly pronounced advantages on long-context materials. This validates our core hypothesis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 55
+                        }
+                    ],
+                    "index": 52.5,
+                    "bbox_fs": [
+                        105,
+                        660,
+                        507,
+                        728
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.4"
+}
