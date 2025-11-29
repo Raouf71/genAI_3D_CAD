@@ -1,0 +1,1228 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        55,
+                        103,
+                        334,
+                        124
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                100,
+                                335,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        100,
+                                        335,
+                                        126
+                                    ],
+                                    "score": 0.972,
+                                    "content": "Stirnräder aus Polyacetal (POM)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        56,
+                        142,
+                        127,
+                        159
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                141,
+                                129,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        141,
+                                        129,
+                                        160
+                                    ],
+                                    "score": 0.951,
+                                    "content": "Modul 1,25",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        54,
+                        173,
+                        343,
+                        215
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                171,
+                                343,
+                                189
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        171,
+                                        281,
+                                        189
+                                    ],
+                                    "score": 0.967,
+                                    "content": "Ausführung: geradverzahnt, gespritzt, Eingriffswinkel",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        281,
+                                        174,
+                                        299,
+                                        186
+                                    ],
+                                    "score": 0.69,
+                                    "content": "2 0 ^ { \\circ }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        299,
+                                        171,
+                                        343,
+                                        189
+                                    ],
+                                    "score": 0.987,
+                                    "content": ",Bohrung",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                189,
+                                166,
+                                200
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        189,
+                                        166,
+                                        200
+                                    ],
+                                    "score": 0.999,
+                                    "content": "spanabhebend bearbeitet.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                201,
+                                171,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        201,
+                                        171,
+                                        216
+                                    ],
+                                    "score": 0.977,
+                                    "content": "MaBänderung vorbehalten.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        385,
+                        105,
+                        542,
+                        255
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                385,
+                                105,
+                                542,
+                                255
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        385,
+                                        105,
+                                        542,
+                                        255
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                385,
+                                                105,
+                                                542,
+                                                255
+                                            ],
+                                            "score": 0.945,
+                                            "type": "image",
+                                            "image_path": "7260c55c61c32db71ec5eeeb41347cd7973e5cf8aceaa449f145d10005ebb5bb.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        385,
+                                        105,
+                                        542,
+                                        123.75
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        385,
+                                        123.75,
+                                        542,
+                                        142.5
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        385,
+                                        142.5,
+                                        542,
+                                        161.25
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        385,
+                                        161.25,
+                                        542,
+                                        180.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        385,
+                                        180.0,
+                                        542,
+                                        198.75
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        385,
+                                        198.75,
+                                        542,
+                                        217.5
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        385,
+                                        217.5,
+                                        542,
+                                        236.25
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        385,
+                                        236.25,
+                                        542,
+                                        255.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        55,
+                        221,
+                        374,
+                        717
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                55,
+                                221,
+                                374,
+                                717
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        221,
+                                        374,
+                                        717
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                55,
+                                                221,
+                                                374,
+                                                717
+                                            ],
+                                            "score": 0.957,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>ZZ</td><td rowspan=1 colspan=1>ZB[mm]</td><td rowspan=1 colspan=1>0B[mm]</td><td rowspan=1 colspan=1>TK[mm]</td><td rowspan=1 colspan=1>ØKK[mm]</td><td rowspan=1 colspan=1>ON[mm]</td><td rowspan=1 colspan=1>L[mm]</td><td rowspan=1 colspan=1>FM[mm]</td><td rowspan=1 colspan=1>ws[mm]</td><td rowspan=1 colspan=1>G[8]</td><td rowspan=1 colspan=1>DM**[Ncm]</td><td rowspan=1 colspan=1>Art.-Nr.</td></tr><tr><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>17.5</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>2,54</td><td rowspan=1 colspan=1>29,45</td><td rowspan=1 colspan=1>SH12512HF</td></tr><tr><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>16,25</td><td rowspan=1 colspan=1>18,75</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>2,92</td><td rowspan=1 colspan=1>31,91</td><td rowspan=1 colspan=1>SH12513HF</td></tr><tr><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>17.5</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>3.43</td><td rowspan=1 colspan=1>34,36</td><td rowspan=1 colspan=1>SH12514HF</td></tr><tr><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>18,75</td><td rowspan=1 colspan=1>21,25</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>3,79</td><td rowspan=1 colspan=1>36,82</td><td rowspan=1 colspan=1>SH12515HF</td></tr><tr><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>22,5</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>4,24</td><td rowspan=1 colspan=1>39,72</td><td rowspan=1 colspan=1>SH12516HF</td></tr><tr><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>21,25</td><td rowspan=1 colspan=1>23,75</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>4,5</td><td rowspan=1 colspan=1>41.72</td><td rowspan=1 colspan=1>SH12517HF</td></tr><tr><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>22,5</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>5,99</td><td rowspan=1 colspan=1>44,18</td><td rowspan=1 colspan=1>SH12518HF</td></tr><tr><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>23,75</td><td rowspan=1 colspan=1>26,25</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>6,62</td><td rowspan=1 colspan=1>46,63</td><td rowspan=1 colspan=1>SH12519HF</td></tr><tr><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>27,5</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>7,08</td><td rowspan=1 colspan=1>49,09</td><td rowspan=1 colspan=1>SH12520HF</td></tr><tr><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>26,25</td><td rowspan=1 colspan=1>28,75</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>18,5</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>8,1</td><td rowspan=1 colspan=1>51,54</td><td rowspan=1 colspan=1>SH12521HF</td></tr><tr><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>27.5</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>18,5</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>9.14</td><td rowspan=1 colspan=1>54</td><td rowspan=1 colspan=1>SH12522HF</td></tr><tr><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>28,75</td><td rowspan=1 colspan=1>31,25</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>18,5</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>9,75</td><td rowspan=1 colspan=1>56,45</td><td rowspan=1 colspan=1>SH12523HF</td></tr><tr><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>32,5</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>10,45</td><td rowspan=1 colspan=1>58,9</td><td rowspan=1 colspan=1>SH12524HF</td></tr><tr><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>31,25</td><td rowspan=1 colspan=1>33,75</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>11,39</td><td rowspan=1 colspan=1>61,36</td><td rowspan=1 colspan=1>SH12525HF</td></tr><tr><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>32,5</td><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>23,5</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>12,52</td><td rowspan=1 colspan=1>63,81</td><td rowspan=1 colspan=1>SH12526HF</td></tr><tr><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>33,75</td><td rowspan=1 colspan=1>36,25</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>23,5</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>12.9</td><td rowspan=1 colspan=1>66,27</td><td rowspan=1 colspan=1>SH12527HF</td></tr><tr><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1>37,5</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>23,5</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>13,81</td><td rowspan=1 colspan=1>68,72</td><td rowspan=1 colspan=1>SH12528HF</td></tr><tr><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>37,5</td><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>14,86</td><td rowspan=1 colspan=1>73,63</td><td rowspan=1 colspan=1>SH12530HF</td></tr><tr><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>42,5</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>5.5</td><td rowspan=1 colspan=1>17,04</td><td rowspan=1 colspan=1>78,54</td><td rowspan=1 colspan=1>SH12532HF</td></tr><tr><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>43,75</td><td rowspan=1 colspan=1>46,25</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>20,21</td><td rowspan=1 colspan=1>85,9</td><td rowspan=1 colspan=1>SH12535HF</td></tr><tr><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1>47,5</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>5.5</td><td rowspan=1 colspan=1>18,21</td><td rowspan=1 colspan=1>88,36</td><td rowspan=1 colspan=1>SH12536HF</td></tr><tr><td rowspan=1 colspan=1>38</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>47,5</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>21,08</td><td rowspan=1 colspan=1>93,27</td><td rowspan=1 colspan=1>SH12538HF</td></tr><tr><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>52,5</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>23,07</td><td rowspan=1 colspan=1>98,17</td><td rowspan=1 colspan=1>SH12540HF</td></tr><tr><td rowspan=1 colspan=1>42</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>52,5</td><td rowspan=1 colspan=1>55</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>103,08</td><td rowspan=1 colspan=1>SH12542HF</td></tr><tr><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>56,25</td><td rowspan=1 colspan=1>58,75</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>28,84</td><td rowspan=1 colspan=1>110,45</td><td rowspan=1 colspan=1>SH12545HF</td></tr><tr><td rowspan=1 colspan=1>48</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>62,5</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>33,09</td><td rowspan=1 colspan=1>117,81</td><td rowspan=1 colspan=1>SH12548HF</td></tr><tr><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>62,5</td><td rowspan=1 colspan=1>65</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1>5.5</td><td rowspan=1 colspan=1>37.15</td><td rowspan=1 colspan=1>122,72</td><td rowspan=1 colspan=1>SH12550HF</td></tr><tr><td rowspan=1 colspan=1>52</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>65</td><td rowspan=1 colspan=1>67,5</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>39,52</td><td rowspan=1 colspan=1>127,63</td><td rowspan=1 colspan=1>SH12552HF</td></tr><tr><td rowspan=1 colspan=1>54</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>67,5</td><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>38,7</td><td rowspan=1 colspan=1>132,54</td><td rowspan=1 colspan=1>SH12554HF</td></tr><tr><td rowspan=1 colspan=1>55</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>68,75</td><td rowspan=1 colspan=1>71,25</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>40,4</td><td rowspan=1 colspan=1>134,99</td><td rowspan=1 colspan=1>SH12555HF</td></tr><tr><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1>72,5</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>46,9</td><td rowspan=1 colspan=1>137,44</td><td rowspan=1 colspan=1>SH12556HF</td></tr><tr><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>75</td><td rowspan=1 colspan=1>77,5</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>66</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>49,94</td><td rowspan=1 colspan=1>147,26</td><td rowspan=1 colspan=1>SH12560HF</td></tr><tr><td rowspan=1 colspan=1>64</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>80</td><td rowspan=1 colspan=1>82,5</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>66</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>57,93</td><td rowspan=1 colspan=1>157,08</td><td rowspan=1 colspan=1>SH12564HF</td></tr><tr><td rowspan=1 colspan=1>65</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>81,25</td><td rowspan=1 colspan=1>83,75</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>66</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>60,03</td><td rowspan=1 colspan=1>159,53</td><td rowspan=1 colspan=1>SH12565HF</td></tr><tr><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>87,5</td><td rowspan=1 colspan=1>90</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>76</td><td rowspan=1 colspan=1>5.5</td><td rowspan=1 colspan=1>70,22</td><td rowspan=1 colspan=1>171,81</td><td rowspan=1 colspan=1>SH12570HF</td></tr><tr><td rowspan=1 colspan=1>72</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>90</td><td rowspan=1 colspan=1>92,5</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>76</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>74,4</td><td rowspan=1 colspan=1>176,71</td><td rowspan=1 colspan=1>SH12572HF</td></tr><tr><td rowspan=1 colspan=1>75</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>93,75</td><td rowspan=1 colspan=1>96,25</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>76</td><td rowspan=1 colspan=1>5.5</td><td rowspan=1 colspan=1>81,89</td><td rowspan=1 colspan=1>184,08</td><td rowspan=1 colspan=1>SH12575HF</td></tr><tr><td rowspan=1 colspan=1>80</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>102,5</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>86</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>79,8</td><td rowspan=1 colspan=1>196,35</td><td rowspan=1 colspan=1>SH12580HF</td></tr><tr><td rowspan=1 colspan=1>90</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>112,5</td><td rowspan=1 colspan=1>115</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>95</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>99,5</td><td rowspan=1 colspan=1>220,89</td><td rowspan=1 colspan=1>SH12590HF</td></tr><tr><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>125</td><td rowspan=1 colspan=1>127,5</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>105,5</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>122,6</td><td rowspan=1 colspan=1>245,44</td><td rowspan=1 colspan=1>SH125100HF</td></tr><tr><td rowspan=1 colspan=1>110</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>137,5</td><td rowspan=1 colspan=1>140</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>115</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>149</td><td rowspan=1 colspan=1>269,98</td><td rowspan=1 colspan=1>SH125110HF</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "7b322b56a04deba32370db2997c2b344ad92d4a3f76b82ab501dffacbcf573c8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        221,
+                                        374,
+                                        386.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        55,
+                                        386.33333333333337,
+                                        374,
+                                        551.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        55,
+                                        551.6666666666667,
+                                        374,
+                                        717.0000000000001
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_footnote",
+                            "bbox": [
+                                55,
+                                727,
+                                281,
+                                739
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        725,
+                                        282,
+                                        741
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                55,
+                                                725,
+                                                282,
+                                                741
+                                            ],
+                                            "score": 0.996,
+                                            "content": "**) Bitte Angaben zu Drehmoment auf S. 30 beachten.",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 27
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 16.5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        383,
+                        278,
+                        536,
+                        465
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                383,
+                                278,
+                                536,
+                                465
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        383,
+                                        278,
+                                        536,
+                                        465
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                383,
+                                                278,
+                                                536,
+                                                465
+                                            ],
+                                            "score": 0.939,
+                                            "type": "image",
+                                            "image_path": "18293c4f16d6791c03f587f8e0e267c724593295a5373e1500d0188ab81f0a25.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 21,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        383,
+                                        278,
+                                        536,
+                                        295.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        295.0,
+                                        536,
+                                        312.0
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        312.0,
+                                        536,
+                                        329.0
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        329.0,
+                                        536,
+                                        346.0
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        346.0,
+                                        536,
+                                        363.0
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        363.0,
+                                        536,
+                                        380.0
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        380.0,
+                                        536,
+                                        397.0
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        397.0,
+                                        536,
+                                        414.0
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        414.0,
+                                        536,
+                                        431.0
+                                    ],
+                                    "spans": [],
+                                    "index": 24
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        431.0,
+                                        536,
+                                        448.0
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        448.0,
+                                        536,
+                                        465.0
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                594,
+                841
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        0,
+                        772,
+                        532,
+                        801
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                11,
+                                771,
+                                532,
+                                799
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        11,
+                                        781,
+                                        42,
+                                        799
+                                    ],
+                                    "score": 0.999,
+                                    "content": "38",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        57,
+                                        771,
+                                        532,
+                                        792
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        784,
+                                        470,
+                                        799
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        0,
+                        147,
+                        42,
+                        184
+                    ],
+                    "lines": []
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        55,
+                        103,
+                        334,
+                        124
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                100,
+                                335,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        100,
+                                        335,
+                                        126
+                                    ],
+                                    "score": 0.972,
+                                    "content": "Stirnräder aus Polyacetal (POM)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        56,
+                        142,
+                        127,
+                        159
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                141,
+                                129,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        141,
+                                        129,
+                                        160
+                                    ],
+                                    "score": 0.951,
+                                    "content": "Modul 1,25",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        54,
+                        173,
+                        343,
+                        215
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                171,
+                                343,
+                                189
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        171,
+                                        281,
+                                        189
+                                    ],
+                                    "score": 0.967,
+                                    "content": "Ausführung: geradverzahnt, gespritzt, Eingriffswinkel",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        281,
+                                        174,
+                                        299,
+                                        186
+                                    ],
+                                    "score": 0.69,
+                                    "content": "2 0 ^ { \\circ }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        299,
+                                        171,
+                                        343,
+                                        189
+                                    ],
+                                    "score": 0.987,
+                                    "content": ",Bohrung",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                189,
+                                166,
+                                200
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        189,
+                                        166,
+                                        200
+                                    ],
+                                    "score": 0.999,
+                                    "content": "spanabhebend bearbeitet.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                201,
+                                171,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        201,
+                                        171,
+                                        216
+                                    ],
+                                    "score": 0.977,
+                                    "content": "MaBänderung vorbehalten.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 3,
+                    "bbox_fs": [
+                        53,
+                        171,
+                        343,
+                        216
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        385,
+                        105,
+                        542,
+                        255
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                385,
+                                105,
+                                542,
+                                255
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        385,
+                                        105,
+                                        542,
+                                        255
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                385,
+                                                105,
+                                                542,
+                                                255
+                                            ],
+                                            "score": 0.945,
+                                            "type": "image",
+                                            "image_path": "7260c55c61c32db71ec5eeeb41347cd7973e5cf8aceaa449f145d10005ebb5bb.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        385,
+                                        105,
+                                        542,
+                                        123.75
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        385,
+                                        123.75,
+                                        542,
+                                        142.5
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        385,
+                                        142.5,
+                                        542,
+                                        161.25
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        385,
+                                        161.25,
+                                        542,
+                                        180.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        385,
+                                        180.0,
+                                        542,
+                                        198.75
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        385,
+                                        198.75,
+                                        542,
+                                        217.5
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        385,
+                                        217.5,
+                                        542,
+                                        236.25
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        385,
+                                        236.25,
+                                        542,
+                                        255.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        55,
+                        221,
+                        374,
+                        717
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                55,
+                                221,
+                                374,
+                                717
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        221,
+                                        374,
+                                        717
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                55,
+                                                221,
+                                                374,
+                                                717
+                                            ],
+                                            "score": 0.957,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>ZZ</td><td rowspan=1 colspan=1>ZB[mm]</td><td rowspan=1 colspan=1>0B[mm]</td><td rowspan=1 colspan=1>TK[mm]</td><td rowspan=1 colspan=1>ØKK[mm]</td><td rowspan=1 colspan=1>ON[mm]</td><td rowspan=1 colspan=1>L[mm]</td><td rowspan=1 colspan=1>FM[mm]</td><td rowspan=1 colspan=1>ws[mm]</td><td rowspan=1 colspan=1>G[8]</td><td rowspan=1 colspan=1>DM**[Ncm]</td><td rowspan=1 colspan=1>Art.-Nr.</td></tr><tr><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>17.5</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>2,54</td><td rowspan=1 colspan=1>29,45</td><td rowspan=1 colspan=1>SH12512HF</td></tr><tr><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>16,25</td><td rowspan=1 colspan=1>18,75</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>2,92</td><td rowspan=1 colspan=1>31,91</td><td rowspan=1 colspan=1>SH12513HF</td></tr><tr><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>17.5</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>3.43</td><td rowspan=1 colspan=1>34,36</td><td rowspan=1 colspan=1>SH12514HF</td></tr><tr><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>18,75</td><td rowspan=1 colspan=1>21,25</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>3,79</td><td rowspan=1 colspan=1>36,82</td><td rowspan=1 colspan=1>SH12515HF</td></tr><tr><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>22,5</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>4,24</td><td rowspan=1 colspan=1>39,72</td><td rowspan=1 colspan=1>SH12516HF</td></tr><tr><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>21,25</td><td rowspan=1 colspan=1>23,75</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>4,5</td><td rowspan=1 colspan=1>41.72</td><td rowspan=1 colspan=1>SH12517HF</td></tr><tr><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>22,5</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>5,99</td><td rowspan=1 colspan=1>44,18</td><td rowspan=1 colspan=1>SH12518HF</td></tr><tr><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>23,75</td><td rowspan=1 colspan=1>26,25</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>6,62</td><td rowspan=1 colspan=1>46,63</td><td rowspan=1 colspan=1>SH12519HF</td></tr><tr><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>27,5</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>7,08</td><td rowspan=1 colspan=1>49,09</td><td rowspan=1 colspan=1>SH12520HF</td></tr><tr><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>26,25</td><td rowspan=1 colspan=1>28,75</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>18,5</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>8,1</td><td rowspan=1 colspan=1>51,54</td><td rowspan=1 colspan=1>SH12521HF</td></tr><tr><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>27.5</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>18,5</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>9.14</td><td rowspan=1 colspan=1>54</td><td rowspan=1 colspan=1>SH12522HF</td></tr><tr><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>28,75</td><td rowspan=1 colspan=1>31,25</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>18,5</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>9,75</td><td rowspan=1 colspan=1>56,45</td><td rowspan=1 colspan=1>SH12523HF</td></tr><tr><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>32,5</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>10,45</td><td rowspan=1 colspan=1>58,9</td><td rowspan=1 colspan=1>SH12524HF</td></tr><tr><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>31,25</td><td rowspan=1 colspan=1>33,75</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>11,39</td><td rowspan=1 colspan=1>61,36</td><td rowspan=1 colspan=1>SH12525HF</td></tr><tr><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>32,5</td><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>23,5</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>12,52</td><td rowspan=1 colspan=1>63,81</td><td rowspan=1 colspan=1>SH12526HF</td></tr><tr><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>33,75</td><td rowspan=1 colspan=1>36,25</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>23,5</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>12.9</td><td rowspan=1 colspan=1>66,27</td><td rowspan=1 colspan=1>SH12527HF</td></tr><tr><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1>37,5</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>23,5</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>13,81</td><td rowspan=1 colspan=1>68,72</td><td rowspan=1 colspan=1>SH12528HF</td></tr><tr><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>37,5</td><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>14,86</td><td rowspan=1 colspan=1>73,63</td><td rowspan=1 colspan=1>SH12530HF</td></tr><tr><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>42,5</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>5.5</td><td rowspan=1 colspan=1>17,04</td><td rowspan=1 colspan=1>78,54</td><td rowspan=1 colspan=1>SH12532HF</td></tr><tr><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>43,75</td><td rowspan=1 colspan=1>46,25</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>20,21</td><td rowspan=1 colspan=1>85,9</td><td rowspan=1 colspan=1>SH12535HF</td></tr><tr><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1>47,5</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>5.5</td><td rowspan=1 colspan=1>18,21</td><td rowspan=1 colspan=1>88,36</td><td rowspan=1 colspan=1>SH12536HF</td></tr><tr><td rowspan=1 colspan=1>38</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>47,5</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>21,08</td><td rowspan=1 colspan=1>93,27</td><td rowspan=1 colspan=1>SH12538HF</td></tr><tr><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>52,5</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>23,07</td><td rowspan=1 colspan=1>98,17</td><td rowspan=1 colspan=1>SH12540HF</td></tr><tr><td rowspan=1 colspan=1>42</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>52,5</td><td rowspan=1 colspan=1>55</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>103,08</td><td rowspan=1 colspan=1>SH12542HF</td></tr><tr><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>56,25</td><td rowspan=1 colspan=1>58,75</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>28,84</td><td rowspan=1 colspan=1>110,45</td><td rowspan=1 colspan=1>SH12545HF</td></tr><tr><td rowspan=1 colspan=1>48</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>62,5</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>33,09</td><td rowspan=1 colspan=1>117,81</td><td rowspan=1 colspan=1>SH12548HF</td></tr><tr><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>62,5</td><td rowspan=1 colspan=1>65</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1>5.5</td><td rowspan=1 colspan=1>37.15</td><td rowspan=1 colspan=1>122,72</td><td rowspan=1 colspan=1>SH12550HF</td></tr><tr><td rowspan=1 colspan=1>52</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>65</td><td rowspan=1 colspan=1>67,5</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>39,52</td><td rowspan=1 colspan=1>127,63</td><td rowspan=1 colspan=1>SH12552HF</td></tr><tr><td rowspan=1 colspan=1>54</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>67,5</td><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>38,7</td><td rowspan=1 colspan=1>132,54</td><td rowspan=1 colspan=1>SH12554HF</td></tr><tr><td rowspan=1 colspan=1>55</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>68,75</td><td rowspan=1 colspan=1>71,25</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>40,4</td><td rowspan=1 colspan=1>134,99</td><td rowspan=1 colspan=1>SH12555HF</td></tr><tr><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1>72,5</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>46,9</td><td rowspan=1 colspan=1>137,44</td><td rowspan=1 colspan=1>SH12556HF</td></tr><tr><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>75</td><td rowspan=1 colspan=1>77,5</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>66</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>49,94</td><td rowspan=1 colspan=1>147,26</td><td rowspan=1 colspan=1>SH12560HF</td></tr><tr><td rowspan=1 colspan=1>64</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>80</td><td rowspan=1 colspan=1>82,5</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>66</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>57,93</td><td rowspan=1 colspan=1>157,08</td><td rowspan=1 colspan=1>SH12564HF</td></tr><tr><td rowspan=1 colspan=1>65</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>81,25</td><td rowspan=1 colspan=1>83,75</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>66</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>60,03</td><td rowspan=1 colspan=1>159,53</td><td rowspan=1 colspan=1>SH12565HF</td></tr><tr><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>87,5</td><td rowspan=1 colspan=1>90</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>76</td><td rowspan=1 colspan=1>5.5</td><td rowspan=1 colspan=1>70,22</td><td rowspan=1 colspan=1>171,81</td><td rowspan=1 colspan=1>SH12570HF</td></tr><tr><td rowspan=1 colspan=1>72</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>90</td><td rowspan=1 colspan=1>92,5</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>76</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>74,4</td><td rowspan=1 colspan=1>176,71</td><td rowspan=1 colspan=1>SH12572HF</td></tr><tr><td rowspan=1 colspan=1>75</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>93,75</td><td rowspan=1 colspan=1>96,25</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>76</td><td rowspan=1 colspan=1>5.5</td><td rowspan=1 colspan=1>81,89</td><td rowspan=1 colspan=1>184,08</td><td rowspan=1 colspan=1>SH12575HF</td></tr><tr><td rowspan=1 colspan=1>80</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>102,5</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>86</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>79,8</td><td rowspan=1 colspan=1>196,35</td><td rowspan=1 colspan=1>SH12580HF</td></tr><tr><td rowspan=1 colspan=1>90</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>112,5</td><td rowspan=1 colspan=1>115</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>95</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>99,5</td><td rowspan=1 colspan=1>220,89</td><td rowspan=1 colspan=1>SH12590HF</td></tr><tr><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>125</td><td rowspan=1 colspan=1>127,5</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>105,5</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>122,6</td><td rowspan=1 colspan=1>245,44</td><td rowspan=1 colspan=1>SH125100HF</td></tr><tr><td rowspan=1 colspan=1>110</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>137,5</td><td rowspan=1 colspan=1>140</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>115</td><td rowspan=1 colspan=1>5,5</td><td rowspan=1 colspan=1>149</td><td rowspan=1 colspan=1>269,98</td><td rowspan=1 colspan=1>SH125110HF</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "7b322b56a04deba32370db2997c2b344ad92d4a3f76b82ab501dffacbcf573c8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        221,
+                                        374,
+                                        386.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        55,
+                                        386.33333333333337,
+                                        374,
+                                        551.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        55,
+                                        551.6666666666667,
+                                        374,
+                                        717.0000000000001
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_footnote",
+                            "bbox": [
+                                55,
+                                727,
+                                281,
+                                739
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        725,
+                                        282,
+                                        741
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                55,
+                                                725,
+                                                282,
+                                                741
+                                            ],
+                                            "score": 0.996,
+                                            "content": "**) Bitte Angaben zu Drehmoment auf S. 30 beachten.",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 27
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 16.5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        383,
+                        278,
+                        536,
+                        465
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                383,
+                                278,
+                                536,
+                                465
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        383,
+                                        278,
+                                        536,
+                                        465
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                383,
+                                                278,
+                                                536,
+                                                465
+                                            ],
+                                            "score": 0.939,
+                                            "type": "image",
+                                            "image_path": "18293c4f16d6791c03f587f8e0e267c724593295a5373e1500d0188ab81f0a25.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 21,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        383,
+                                        278,
+                                        536,
+                                        295.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        295.0,
+                                        536,
+                                        312.0
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        312.0,
+                                        536,
+                                        329.0
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        329.0,
+                                        536,
+                                        346.0
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        346.0,
+                                        536,
+                                        363.0
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        363.0,
+                                        536,
+                                        380.0
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        380.0,
+                                        536,
+                                        397.0
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        397.0,
+                                        536,
+                                        414.0
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        414.0,
+                                        536,
+                                        431.0
+                                    ],
+                                    "spans": [],
+                                    "index": 24
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        431.0,
+                                        536,
+                                        448.0
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        448.0,
+                                        536,
+                                        465.0
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.4"
+}

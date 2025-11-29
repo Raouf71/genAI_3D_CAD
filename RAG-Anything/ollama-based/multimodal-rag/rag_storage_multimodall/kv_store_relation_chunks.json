@@ -1,0 +1,47 @@
+{
+  "Polyacetal<SEP>Stirnräder": {
+    "chunk_ids": [
+      "chunk-a24bb2eede310637488d0c472eaa15e1"
+    ],
+    "count": 1,
+    "create_time": 1764425757,
+    "update_time": 1764425757,
+    "_id": "Polyacetal<SEP>Stirnräder"
+  },
+  "Modul 1,25<SEP>Stirnräder": {
+    "chunk_ids": [
+      "chunk-a24bb2eede310637488d0c472eaa15e1"
+    ],
+    "count": 1,
+    "create_time": 1764425757,
+    "update_time": 1764425757,
+    "_id": "Modul 1,25<SEP>Stirnräder"
+  },
+  "Person<SEP>Stirnräder": {
+    "chunk_ids": [
+      "chunk-a24bb2eede310637488d0c472eaa15e1"
+    ],
+    "count": 1,
+    "create_time": 1764425757,
+    "update_time": 1764425757,
+    "_id": "Person<SEP>Stirnräder"
+  },
+  "Ausführung<SEP>Stirnräder": {
+    "chunk_ids": [
+      "chunk-a24bb2eede310637488d0c472eaa15e1"
+    ],
+    "count": 1,
+    "create_time": 1764425757,
+    "update_time": 1764425757,
+    "_id": "Ausführung<SEP>Stirnräder"
+  },
+  "MaBänderung vorbehalten<SEP>Stirnräder": {
+    "chunk_ids": [
+      "chunk-a24bb2eede310637488d0c472eaa15e1"
+    ],
+    "count": 1,
+    "create_time": 1764425758,
+    "update_time": 1764425758,
+    "_id": "MaBänderung vorbehalten<SEP>Stirnräder"
+  }
+}
