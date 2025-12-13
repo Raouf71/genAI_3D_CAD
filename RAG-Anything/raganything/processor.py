@@ -8,6 +8,7 @@ import os
 import time
 import hashlib
 import json
+from bs4 import BeautifulSoup
 from typing import Dict, List, Any, Tuple, Optional
 from pathlib import Path
 
@@ -25,6 +26,21 @@ from lightrag.utils import compute_mdhash_id
 
 class ProcessorMixin:
     """ProcessorMixin class containing document processing functionality for RAGAnything"""
+
+    def _get_file_reference(self, file_path: str) -> str:
+        """
+        Get file reference based on use_full_path configuration.
+
+        Args:
+            file_path: Path to the file (can be absolute or relative)
+
+        Returns:
+            str: Full path if use_full_path is True, otherwise basename
+        """
+        if self.config.use_full_path:
+            return str(file_path)
+        else:
+            return os.path.basename(file_path)
 
     def _generate_cache_key(
         self, file_path: Path, parse_method: str = None, **kwargs
@@ -541,7 +557,8 @@ class ProcessorMixin:
             file_path: File path (for reference)
             doc_id: Document ID for proper chunk association
         """
-        file_name = os.path.basename(file_path)
+        # Use full path or basename based on config
+        file_name = self._get_file_reference(file_path)
 
         # Collect all chunk results for batch processing (similar to text content processing)
         all_chunk_results = []
@@ -886,13 +903,16 @@ class ProcessorMixin:
             # Calculate tokens
             tokens = len(self.lightrag.tokenizer.encode(formatted_chunk_content))
 
+            # Use full path or basename based on config
+            file_ref = self._get_file_reference(file_path)
+
             # Build LightRAG standard chunk format
             chunks[chunk_id] = {
                 "content": formatted_chunk_content,  # Now uses the templated content
                 "tokens": tokens,
                 "full_doc_id": doc_id,
                 "chunk_order_index": chunk_order_index,
-                "file_path": os.path.basename(file_path),
+                "file_path": file_ref,
                 "llm_cache_list": [],  # LightRAG will populate this field
                 # Multimodal-specific metadata
                 "is_multimodal": True,
@@ -905,6 +925,55 @@ class ProcessorMixin:
             f"Converted {len(chunks)} multimodal items to multimodal chunks format"
         )
         return chunks
+    
+    # ------------------------ NEW(Our solution): Helper function for table format
+    def build_structured_table_json(self,
+        table_img_path: str,
+        table_caption: str,
+        table_footnote: list,
+        enhanced_caption: str,
+        table_body_html: str
+    ) -> str:
+        """
+        Converts an HTML <table>...</table> into structured JSON including metadata.
+        """
+
+        # --- Parse HTML table into rows & columns ---
+        soup = BeautifulSoup(table_body_html, "html.parser")
+        table = soup.find("table")
+
+        rows = []
+        columns = []
+
+        for i, row in enumerate(table.find_all("tr")):
+            cells = row.find_all(["th", "td"])
+            cell_text = [c.get_text(strip=True) for c in cells]
+
+            if i == 0:
+                # Header row
+                columns = cell_text
+            else:
+                # Data rows
+                row_dict = {columns[j]: cell_text[j] for j in range(len(columns))}
+                rows.append(row_dict)
+
+        # --- Build JSON structure ---
+        data = {
+            "metadata": {
+                "image_path": table_img_path,
+                "caption": table_caption,
+                "footnotes": table_footnote,
+                "summary": enhanced_caption
+            },
+            "table": {
+                "columns": columns,
+                "rows": rows
+            }
+        }
+
+        # Return pretty-printed JSON
+        return json.dumps(data, indent=2)
+    # ------------------------ 
 
     def _apply_chunk_template(
         self, content_type: str, original_item: Dict[str, Any], description: str
@@ -945,15 +1014,30 @@ class ProcessorMixin:
                 table_body = original_item.get("table_body", "")
                 table_footnote = original_item.get("table_footnote", [])
 
-                return PROMPTS["table_chunk"].format(
+                # NEW(Our solution): force json output for tables
+                table_json = self.build_structured_table_json(
                     table_img_path=table_img_path,
-                    table_caption=", ".join(table_caption) if table_caption else "None",
-                    table_body=table_body,
-                    table_footnote=", ".join(table_footnote)
-                    if table_footnote
-                    else "None",
-                    enhanced_caption=description,
+                    table_caption=", ".join(table_caption) if table_caption else "",
+                    table_footnote=table_footnote or [],
+                    # enhanced_caption=description,
+                    enhanced_caption="",
+                    table_body_html=table_body,
                 )
+
+                # print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$")
+                # print(table_json)
+                # print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$")
+                return PROMPTS["table_chunk_json"].format(table_json=table_json)
+
+                # return PROMPTS["table_chunk"].format(
+                #     table_img_path=table_img_path,
+                #     table_caption=", ".join(table_caption) if table_caption else "None",
+                #     table_body=table_body,
+                #     table_footnote=", ".join(table_footnote)
+                #     if table_footnote
+                #     else "None",
+                #     enhanced_caption=description,
+                # )
 
             elif content_type == "equation":
                 equation_text = original_item.get("text", "")
@@ -1021,6 +1105,9 @@ class ProcessorMixin:
         # Create entities_vdb entries for all multimodal main entities
         entities_to_store = {}
 
+        # Use full path or basename based on config
+        file_ref = self._get_file_reference(file_path)
+
         for data in multimodal_data_list:
             entity_info = data["entity_info"]
             entity_name = entity_info["entity_name"]
@@ -1045,7 +1132,7 @@ class ProcessorMixin:
                 "entity_type": entity_info.get("entity_type", content_type),
                 "content": entity_info.get("summary", description),
                 "source_id": chunk_id,
-                "file_path": os.path.basename(file_path),
+                "file_path": file_ref,
             }
 
             entities_to_store[entity_id] = entity_data
@@ -1254,6 +1341,9 @@ class ProcessorMixin:
         pipeline_status = await get_namespace_data("pipeline_status")
         pipeline_status_lock = get_pipeline_status_lock()
 
+        # Use full path or basename based on config
+        file_ref = self._get_file_reference(file_path)
+
         await merge_nodes_and_edges(
             chunk_results=enhanced_chunk_results,
             knowledge_graph_inst=self.lightrag.chunk_entity_relation_graph,
@@ -1268,7 +1358,7 @@ class ProcessorMixin:
             llm_response_cache=self.lightrag.llm_response_cache,
             current_file_number=1,
             total_files=1,
-            file_path=os.path.basename(file_path),
+            file_path=file_ref,
         )
 
         await self.lightrag._insert_done()
@@ -1422,6 +1512,7 @@ class ProcessorMixin:
         split_by_character: str | None = None,
         split_by_character_only: bool = False,
         doc_id: str | None = None,
+        file_name: str | None = None,
         **kwargs,
     ):
         """
@@ -1448,7 +1539,7 @@ class ProcessorMixin:
         if display_stats is None:
             display_stats = self.config.display_content_stats
 
-        self.logger.info(f"Spath")
+        self.logger.info(f"Starting complete document processing: {file_path}")
 
         # Step 1: Parse document
         content_list, content_based_doc_id = await self.parse_document(
@@ -1473,7 +1564,9 @@ class ProcessorMixin:
 
         # Step 3: Insert pure text content with all parameters
         if text_content.strip():
-            file_name = os.path.basename(file_path)
+            if file_name is None:
+                # Use full path or basename based on config
+                file_name = self._get_file_reference(file_path)
             await insert_text_content(
                 self.lightrag,
                 input=text_content,
@@ -1482,10 +1575,14 @@ class ProcessorMixin:
                 split_by_character_only=split_by_character_only,
                 ids=doc_id,
             )
+        else:
+            # Determine file reference even if no text content
+            if file_name is None:
+                file_name = self._get_file_reference(file_path)
 
         # Step 4: Process multimodal content (using specialized processors)
         if multimodal_items:
-            await self._process_multimodal_content(multimodal_items, file_path, doc_id)
+            await self._process_multimodal_content(multimodal_items, file_name, doc_id)
         else:
             # If no multimodal content, mark multimodal processing as complete
             # This ensures the document status properly reflects completion of all processing
@@ -1522,7 +1619,8 @@ class ProcessorMixin:
             doc_id: Optional document ID, if not provided will be generated from content
             **kwargs: Additional parameters for parser (e.g., lang, device, start_page, end_page, formula, table, backend, source)
         """
-        file_name = os.path.basename(file_path)
+        # Use full path or basename based on config
+        file_name = self._get_file_reference(file_path)
         doc_pre_id = f"doc-pre-{file_name}"
         pipeline_status = None
         pipeline_status_lock = None
@@ -1800,19 +1898,23 @@ class ProcessorMixin:
 
         # Step 2: Insert pure text content with all parameters
         if text_content.strip():
-            file_name = os.path.basename(file_path)
+            # Use full path or basename based on config
+            file_ref = self._get_file_reference(file_path)
             await insert_text_content(
                 self.lightrag,
                 input=text_content,
-                file_paths=file_name,
+                file_paths=file_ref,
                 split_by_character=split_by_character,
                 split_by_character_only=split_by_character_only,
                 ids=doc_id,
             )
+        else:
+            # Determine file reference even if no text content
+            file_ref = self._get_file_reference(file_path)
 
         # Step 3: Process multimodal content (using specialized processors)
         if multimodal_items:
-            await self._process_multimodal_content(multimodal_items, file_path, doc_id)
+            await self._process_multimodal_content(multimodal_items, file_ref, doc_id)
         else:
             # If no multimodal content, mark multimodal processing as complete
             # This ensures the document status properly reflects completion of all processing

@@ -280,13 +280,18 @@ Footnotes: {footnotes}
 
 Visual Analysis: {enhanced_caption}"""
 
+# Old(LightRAG solution): output table as flattened text
 PROMPTS["table_chunk"] = """Table Analysis:
 Image Path: {table_img_path}
 Caption: {table_caption}
 Structure: {table_body}
 Footnotes: {table_footnote}
-
 Analysis: {enhanced_caption}"""
+
+# NEW(Our solution): force json output for tables
+PROMPTS["table_chunk_json"] = """TABLE_AS_JSON:
+{table_json}
+"""
 
 PROMPTS["equation_chunk"] = """Mathematical Equation Analysis:
 Equation: {equation_text}
