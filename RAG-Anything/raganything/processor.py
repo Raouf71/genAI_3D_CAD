@@ -1024,12 +1024,13 @@ class ProcessorMixin:
                     table_body_html=table_body,
                 )
 
+                formatted_table_json = PROMPTS["table_chunk_json"].format(table_json=table_json)
                 # print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$")
-                # print(table_json)
+                # print(formatted_table_json)
                 # print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$")
-                return PROMPTS["table_chunk_json"].format(table_json=table_json)
-
-                # return PROMPTS["table_chunk"].format(
+                return formatted_table_json
+            
+                # formatted_table_json = PROMPTS["table_chunk"].format(
                 #     table_img_path=table_img_path,
                 #     table_caption=", ".join(table_caption) if table_caption else "None",
                 #     table_body=table_body,
@@ -1038,6 +1039,10 @@ class ProcessorMixin:
                 #     else "None",
                 #     enhanced_caption=description,
                 # )
+                # print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$")
+                # print(formatted_table_json)
+                # print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$")
+                # return formatted_table_json
 
             elif content_type == "equation":
                 equation_text = original_item.get("text", "")
