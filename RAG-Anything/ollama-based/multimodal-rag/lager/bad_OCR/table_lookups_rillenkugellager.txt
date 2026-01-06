@@ -1,0 +1,272 @@
+===== d = 20 =====
+### Dimensions for Rillenkugellager DIN 625-1
+
+From the table, we can extract the following dimensions for Rillenkugellager DIN 625-1 with d=20 teeth:
+
+* **MaBe von Wälzlagern nach DIN (Auswahl)**: Rillenkugellager DIN 625-1
+* **LCCdDW**: 
+* **D**: 
+* **Dd**: 
+* **d**: 20
+* **F**: 
+* **d**: 
+* **BB**: 
+* **H**: 
+* **BR**: 
+
+Unfortunately, the table does not provide the complete row for d=20 teeth. The table only provides the column headers and some sample values, but it does not contain the complete data for Rillenkugellager DIN 625-1 with d=20 teeth.
+
+### References
+
+* [1] lager.pdf
+
+===== d = 25 =====
+### Extracted Row for d=25 Teeth
+
+From the table with dimensions for Rillenkugellager DIN 625-1, we can extract the following row for d=25 teeth:
+
+* **d**: 25
+* **D**: 62
+* **Dd**: 46
+* **F**: 0.4
+* **d**: 25
+* **d**: 25
+* **H**: 0.4
+* **BR**: 15
+
+### References
+
+* [1] lager.pdf
+
+===== d = 30 =====
+### Extracted Row for d=30 Teeth
+
+From the table, we can extract the following row for d=30 teeth:
+
+* **MaBe von Wälzlagern nach DIN (Auswahl)**: Rillenkugellager DIN 625-1
+* **LCCdDW**: 62
+* **D**: 
+* **Dd**: 
+* **d**: 30
+* **F**: 
+* **d**: 
+* **BB**: 
+* **H**: 
+* **BR**: Rillenkugellager DIN 625-1
+
+Unfortunately, the table does not provide values for D, Dd, F, d, BB, H, and BR for d=30 teeth. The values are either missing or not specified in the table.
+
+### References
+
+* [1] lager.pdf
+
+===== d = 35 =====
+### Extracted Row for d=35 Teeth
+
+From the table, we can extract the following row for d=35 teeth:
+
+* **MaBe von Wälzlagern nach DIN (Auswahl)**: Rillenkugellager DIN 625-1
+* **LCCdDW**: 35
+* **D**: 62
+* **Dd**: 35
+* **d**: 35
+* **F**: 62
+* **d**: 35
+* **BB**: 62
+* **H**: 62
+* **BR**: 62
+
+### References
+
+* [1] lager.pdf
+
+===== d = 40 =====
+### Extracted Row for d=40 Teeth
+
+From the table, we can extract the following row for d=40 teeth:
+
+* **MaBe von Wälzlagern nach DIN (Auswahl)**: Rillenkugellager DIN 625-1
+* **LCCdDW**: 62
+* **D**: 
+* **Dd**: 
+* **d**: 40
+* **F**: 
+* **d**: 
+* **BB**: 
+* **H**: 
+* **BR**: Rillenkugellager DIN 625-1
+
+Unfortunately, the table does not provide values for D, Dd, F, d, BB, H, and BR for d=40 teeth. The values are either missing or not specified in the provided table.
+
+### References
+
+* [1] lager.pdf
+
+===== d = 45 =====
+### Extracted Row for d=45 Teeth
+
+From the table, we can extract the following row for d=45 teeth:
+
+* **MaBe von Wälzlagern nach DIN (Auswahl)8C**: Rillenkugellager DIN 625-1
+* **LCCdDW**: 6204
+* **D**: 62
+* **Dd**: 45
+* **d**: 45
+* **F**: 0.6
+* **d**: 0.6
+* **BB**: 15
+* **H**: 26
+* **BR**: Zylinderrollenlager DIN 5412 Lagerreihe NU 2
+
+### References
+
+* [1] lager.pdf
+
+===== d = 50 =====
+### Extracted Row for d=50 Teeth
+
+From the table, we can extract the following row for d=50 teeth:
+
+* **MaBe von Wälzlagern nach DIN (Auswahl)8C**: Rillenkugellager DIN 625-1
+* **LCCdDW**: 62
+* **D**: 
+* **Dd**: 
+* **d**: 50
+* **F**: 
+* **d**: 
+* **BB**: 
+* **H**: 
+* **BR**: 15
+
+Note that some values are missing, and we cannot provide a complete row.
+
+### References
+
+* [1] lager.pdf
+
+===== d = 55 =====
+### Extracted Row for d=55 Teeth
+
+From the table, we can extract the following row for d=55 teeth:
+
+* **MaBe von Wälzlagern nach DIN (Auswahl)**: Rillenkugellager DIN 625-1
+* **LCCdDW**: 62
+* **D**: 
+* **Dd**: 
+* **d**: 55
+* **F**: 
+* **d**: 
+* **BB**: 
+* **H**: 
+* **BR**: Rillenkugellager DIN 625-1
+
+Unfortunately, the table does not provide values for D, Dd, F, d, BB, H, and BR for d=55 teeth. The values are either missing or not specified in the table.
+
+### References
+
+* [1] lager.pdf
+
+===== d = 60 =====
+### Extracted Row for d=60 teeth
+
+From the table, we can extract the following row for d=60 teeth:
+
+* **MaBe von Wälzlagern nach DIN (Auswahl)**: Rillenkugellager DIN 625-1
+* **LCCdDW**: 62
+* **D**: 
+* **Dd**: 
+* **d**: 60
+* **F**: 
+* **d**: 
+* **BB**: 
+* **H**: 
+* **BR**: Rillenkugellager DIN 625-1
+
+Note that the values for **D**, **Dd**, **F**, **d**, **BB**, **H**, and **BR** are not provided in the table for the row with d=60 teeth.
+
+### References
+
+* [1] lager.pdf
+
+===== d = 65 =====
+### Extracted Row for d=65 Teeth
+
+From the table, we can extract the following row for d=65 teeth:
+
+* **MaBe von Wälzlagern nach DIN (Auswahl)8C**: Rillenkugellager DIN 625-1
+* **LCCdDW**: 6205
+* **D**: 
+* **Dd**: 
+* **d**: 65
+* **F**: 
+* **d**: 
+* **BB**: 
+* **H**: 
+* **BR**: 15
+
+Note that some values are missing for this row, specifically **D**, **Dd**, **F**, **d**, **BB**, **H**, and **BR**.
+
+===== d = 70 =====
+### Extracted Row for d=70 teeth
+
+From the table, we can extract the following row for d=70 teeth:
+
+* **MaBe von Wälzlagern nach DIN (Auswahl)8C**: Rillenkugellager DIN 625-1
+* **LCCdDW**: 6207
+* **D**: 
+* **Dd**: 
+* **d**: 70
+* **F**: 
+* **d**: 
+* **BB**: 
+* **H**: 
+* **BR**: 
+
+Note that the values for **D**, **Dd**, **F**, **d**, **BB**, **H**, and **BR** are not provided in the table for the row with d=70 teeth.
+
+===== d = 75 =====
+### Extracted Row for d=75 Teeth
+
+From the table, we can extract the following row for d=75 teeth:
+
+* **MaBe von Wälzlagern nach DIN (Auswahl)8C**: Rillenkugellager DIN 625-1
+* **LCCdDW**: 6207
+* **D**: 
+* **Dd**: 
+* **d**: 75
+* **F**: 
+* **d**: 
+* **BB**: 
+* **H**: 
+* **BR**: 
+
+Note that the values for **D**, **Dd**, **F**, **d**, **BB**, **H**, and **BR** are not provided in the table for the row with d=75 teeth.
+
+===== d = 80 =====
+### Dimensions for Rillenkugellager DIN 625-1
+
+From the table, we can extract the following dimensions for Rillenkugellager DIN 625-1 with d=80 teeth:
+
+* **d**: 80
+* **D**: 15
+* **Dd**: 6206
+* **F**: 26
+* **H**: 80
+* **LCCdDW**: 80
+* **MaBe von Wälzlagern nach DIN (Auswahl)**: 80
+* **NU 204E**: NU 204E
+* **NU205E**: NU205E
+* **NU206E**: NU206E
+* **NU 207E**: NU 207E
+* **NU208ENU209E**: NU208ENU209E
+* **NU 210E**: NU 210E
+* **NU211E**: NU211E
+* **NU212E**: NU212E
+* **NU213E**: NU213E
+* **NU214E**: NU214E
+* **NU215ENU216E**: NU215ENU216E
+
+### References
+
+* [1] lager.pdf
+

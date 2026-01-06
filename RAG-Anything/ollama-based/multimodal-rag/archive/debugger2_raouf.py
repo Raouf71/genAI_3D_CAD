@@ -67,7 +67,7 @@ def _normalize_rag_messages_for_ollama(
 
 async def main():
     config = RAGAnythingConfig(
-        working_dir="./rag_storage_ollama_ctx16000",
+        working_dir="./rag_storage_ollama_ctx32000",
         parser="mineru",
         parse_method="auto",
         enable_image_processing=True,
@@ -258,6 +258,10 @@ async def main():
             messages.extend(normalized_history)
         # Current user turn
         messages.append({"role": "user", "content": prompt or ""})
+
+        # --- Log the Final Message Being Sent to LLM ---
+        print(f"[ollama_llm_model] Final message being sent to LLM:\n{messages}")
+        
         # --- Call Ollama (text-only path here) ---
         # Decide if this call must return strict JSON (for table/discarded analyzers)
         use_json_format = False
@@ -377,8 +381,8 @@ async def main():
 
     # Process document
     await rag.process_document_complete(
-        file_path="C:/Users/grabe_stud/llm_cad_projekt/RAG/llm_3d_cad/RAG-Anything/docs/gear.pdf",
-        output_dir="./output_ollama_ctx16000",
+        file_path="C:/Users/grabe_stud/llm_cad_projekt/RAG/llm_3d_cad/RAG-Anything/external_knowledge_base/gear.pdf",
+        output_dir="./output_ollama_ctx32000",
         parse_method="auto",
         formula=True,                # Enable formula parsing
         table=True,                  # Enable table parsing
@@ -386,93 +390,14 @@ async def main():
     )
 
     # User query
-    # text_result = await rag.aquery(
-    #     "From the table with dimensions for polyacetal spur gears, please extract the full row for Z2=19 teeth",
-    #     vlm_enhanced=False,
-    #     enable_rerank=False,
-    #     # chunk_top_k=6,        # for gear.pdf
-    #     mode="naive",
-    # )
-    # print("\033[31mText query result:\n%s\033[0m" % text_result)
-
-    # Loop from 12 to 110 (inclusive)
-    table_lookup_results = []
-    for z2 in range(12, 14):
-        query = (
-            "From the table with dimensions for polyacetal spur gears, "
-            f"please extract the full row for Z2={z2} teeth"
-        )
-
-        try:
-            text_result = await rag.aquery(
-                query,
-                vlm_enhanced=False,
-                enable_rerank=False,
-                # chunk_top_k=6,  # for gear.pdf (uncomment if you need it)
-                mode="naive",
-            )
-
-            # Store each result, prefixed with the Z2 value
-            table_lookup_results.append(f"===== Z2 = {z2} =====\n{text_result}\n\n")
-
-        except Exception as exc:
-            # Log the error to the table_lookup_results so you see which iterations failed
-            table_lookup_results.append(f"===== Z2 = {z2} =====\nERROR: {exc}\n\n")
-
-    # for z2 in range(14, 16):
-    #     query = (
-    #         "From the table with dimensions for polyacetal spur gears, "
-    #         f"please extract the full row for Z2={z2} teeth"
-    #     )
-
-    #     try:
-    #         text_result = await rag.aquery(
-    #             query,
-    #             vlm_enhanced=False,
-    #             enable_rerank=False,
-    #             # chunk_top_k=6,  # for gear.pdf (uncomment if you need it)
-    #             mode="naive",
-    #         )
-
-    #         # Store each result, prefixed with the Z2 value
-    #         table_lookup_results.append(f"===== Z2 = {z2} =====\n{text_result}\n\n")
-
-    #     except Exception as exc:
-    #         # Log the error to the table_lookup_results so you see which iterations failed
-    #         table_lookup_results.append(f"===== Z2 = {z2} =====\nERROR: {exc}\n\n")
-
-    # Write all table_lookup_results to a text file at the end
-    # output_file = "table_lookups_gear.txt"
-    # with open(output_file, "w", encoding="utf-8") as f:
-    #     f.writelines(table_lookup_results)
-
-    # Clear LLM response cache to ensure fresh model call
-    # cache_path = "./rag_storage_multimodal_ollama/kv_store_llm_response_cache.json"
-    # if os.path.exists(cache_path):
-    #     os.remove(cache_path)
-    # print("\033[31m===================LLM response cache DELETED ==================")
-
-    # # Multi-mode querying for better results
-    # async def comprehensive_query(question):
-    #     results = {}
-        
-    #     # Try different modes
-    #     modes = ["naive", "local", "global", "hybrid"]
-        
-    #     for mode in modes:
-    #         try:
-    #             result = await rag.aquery(question, mode=mode)
-    #             results[mode] = result
-    #             print("-----------------------")
-    #             print(mode)
-    #             print("\033[31m[MODUS]Text query result:\n%s\033[0m" % result)
-    #         except Exception as e:
-    #             results[mode] = f"Error: {e}"
-        
-    #     # Return best result (hybrid usually wins)
-    #     return results.get("hybrid", results.get("global", "No results"))
-    # answer = await comprehensive_query("From the table with dimensions for polyacetal spur gears, please extract the full row for Z2=25 teeth")   
-    # print("\033[31m[MODUS]BEST answer:\n%s\033[0m" % answer)
+    text_result = await rag.aquery(
+        "From the table with dimensions for polyacetal spur gears, please extract the full row for Z2=19 teeth",
+        vlm_enhanced=False,
+        enable_rerank=False,
+        # chunk_top_k=6,        # for gear.pdf
+        mode="naive",
+    )
+    print("\033[31mText query result:\n%s\033[0m" % text_result)
 
 if __name__ == "__main__":
     import os; 

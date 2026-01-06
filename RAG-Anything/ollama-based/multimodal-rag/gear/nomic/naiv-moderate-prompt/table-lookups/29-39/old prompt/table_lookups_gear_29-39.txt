@@ -1,0 +1,242 @@
+===== Z2 = 29 =====
+### Extracted Row for Z2=29 Teeth
+
+From the table with dimensions for polyacetal spur gears, we can extract the following row for Z2=29 teeth:
+
+* **Z2**: 29
+* **ZB[mm]**: 10
+* **0B[mm]**: 5
+* **OTK[mm]**: 35
+* **OKK[mm]**: 37.5
+* **ON[mm]**: 18
+* **L[mm]**: 19
+* **OFM[mm]**: 23.5
+* **Ws[mm]**: 5.5
+* **G[g]**: 13.81
+* **DM**[**Ncm**]**: 68.72
+* **Art-Nr.**: SH12528HF
+
+### References
+
+* [1] gear.pdf
+
+===== Z2 = 30 =====
+### Extracted Row for Z2=30 Teeth
+
+From the table with dimensions for polyacetal spur gears, the full row for Z2=30 teeth is:
+
+* **Z2** = 30
+* **ZB[mm]** = 10
+* **0B[mm]** = 8
+* **OTK[mm]** = 37.5
+* **OKK[mm]** = 40
+* **ON[mm]** = 18
+* **L[mm]** = 19
+* **OFM[mm]** = 27
+* **Ws[mm]** = 5.5
+* **G[g]** = 14.86
+* **DM**[**Ncm**] = 73.63
+* **Art-Nr.** = SH12530HF
+
+### References
+
+* [1] gear.pdf
+
+===== Z2 = 31 =====
+### Extracted Row for Z2=31 Teeth
+
+From the table with dimensions for polyacetal spur gears, the full row for Z2=31 teeth is:
+
+* Z2 = 31
+* ZB[mm] = 10
+* 0B[mm] = 6
+* OTK[mm] = 31.25
+* OKK[mm] = 33.75
+* ON[mm] = 15
+* L[mm] = 19
+* OFM[mm] = 21
+* Ws[mm] = 7
+* G[g] = 11.39
+* DM**[Ncm] = 61.36
+* Art-Nr. = SH12531HF
+
+### References
+
+* [1] gear.pdf
+
+===== Z2 = 32 =====
+### Extracted Row for Z2=32 Teeth
+
+From the table with dimensions for polyacetal spur gears, the full row for Z2=32 teeth is:
+
+* Z2 = 32
+* ZB[mm] = 10
+* 0B[mm] = 8
+* OTK[mm] = 40
+* OKK[mm] = 42.5
+* ON[mm] = 18
+* L[mm] = 19
+* OFM[mm] = 27
+* Ws[mm] = 5.5
+* G[g] = 17.04
+* DM**[Ncm] = 78.54
+* Art-Nr. = SH12532HF
+
+### References
+
+* [1] gear.pdf
+
+===== Z2 = 33 =====
+### Extracted Row for Z2=33 Teeth
+
+From the table with dimensions for polyacetal spur gears, the full row for Z2=33 teeth is:
+
+* Z2 = 33
+* ZB[mm] = 10
+* 0B[mm] = 6
+* OTK[mm] = 33.75
+* OKK[mm] = 36.25
+* ON[mm] = 18
+* L[mm] = 19
+* OFM[mm] = 23.5
+* Ws[mm] = 5.5
+* G[g] = 12.9
+* DM**[Ncm] = 66.27
+* Art-Nr. = SH12527HF
+
+### References
+
+* [1] gear.pdf
+
+===== Z2 = 34 =====
+### Extracted Row for Z2=34 Teeth
+
+From the table with dimensions for polyacetal spur gears, the full row for Z2=34 teeth is:
+
+* Z2 = 34
+* ZB[mm] = 10
+* 0B[mm] = 8
+* OTK[mm] = 45
+* OKK[mm] = 47.5
+* ON[mm] = 18
+* L[mm] = 19
+* OFM[mm] = 36
+* Ws[mm] = 5.5
+* G[g] = 21.08
+* DM**[Ncm] = 93.27
+* Art-Nr. = SH12538HF
+
+### References
+
+* [1] gear.pdf
+
+===== Z2 = 35 =====
+### Extracted Row for Z2=35 Teeth
+
+From the table with dimensions for polyacetal spur gears, the full row for Z2=35 teeth is:
+
+* Z2 = 35
+* ZB[mm] = 10
+* 0B[mm] = 8
+* OTK[mm] = 43.75
+* OKK[mm] = 46.25
+* ON[mm] = 18
+* L[mm] = 19
+* OFM[mm] = 27
+* Ws[mm] = 5.5
+* G[g] = 20.21
+* DM**[Ncm] = 85.9
+* Art-Nr. = SH12535HF
+
+### References
+
+* [1] gear.pdf
+
+===== Z2 = 36 =====
+### Extracted Row for Z2=36 Teeth
+
+From the table with dimensions for polyacetal spur gears, the full row for Z2=36 teeth is:
+
+* Z2 = 36
+* ZB[mm] = 10
+* 0B[mm] = 8
+* OTK[mm] = 47.5
+* OKK[mm] = 50
+* ON[mm] = 18
+* L[mm] = 19
+* OFM[mm] = 36
+* Ws[mm] = 5.5
+* G[g] = 18.21
+* DM**[Ncm] = 88.36
+* Art-Nr. = SH12536HF
+
+### References
+
+* [1] gear.pdf
+
+===== Z2 = 37 =====
+### Extracted Row for Z2=37 Teeth
+
+From the table with dimensions for polyacetal spur gears, the following row corresponds to Z2=37 teeth:
+
+* Z2 = 37
+* ZB[mm] = 10
+* 0B[mm] = 8
+* OTK[mm] = 50
+* OKK[mm] = 52.5
+* ON[mm] = 18
+* L[mm] = 19
+* OFM[mm] = 86
+* Ws[mm] = 5.5
+* G[g] = 79.8
+* DM**[Ncm] = 196.35
+* Art-Nr. = SH12537HF
+
+### References
+
+* [1] gear.pdf
+
+===== Z2 = 38 =====
+### Extracted Row for Z2=38 Teeth
+
+From the table with dimensions for polyacetal spur gears, the full row for Z2=38 teeth is:
+
+* Z2 = 38
+* ZB[mm] = 10
+* 0B[mm] = 8
+* OTK[mm] = 47.5
+* OKK[mm] = 50
+* ON[mm] = 18
+* L[mm] = 19
+* OFM[mm] = 36
+* Ws[mm] = 5.5
+* G[g] = 21.08
+* DM**[Ncm] = 93.27
+* Art-Nr. = SH12538HF
+
+### References
+
+* [1] gear.pdf
+
+===== Z2 = 39 =====
+### Extracted Row for Z2=39 Teeth
+
+From the table with dimensions for polyacetal spur gears, we can extract the following row for Z2=39 teeth:
+
+* Z2 = 39
+* ZB[mm] = 10
+* 0B[mm] = 5
+* OTK[mm] = 39.75
+* OKK[mm] = 42.25
+* ON[mm] = 21
+* L[mm] = 19
+* OFM[mm] = 36
+* Ws[mm] = 5.5
+* G[g] = 44.9
+* DM**[Ncm] = 137.44
+* Art-Nr. = SH12539HF
+
+### References
+
+* [1] gear.pdf
+
