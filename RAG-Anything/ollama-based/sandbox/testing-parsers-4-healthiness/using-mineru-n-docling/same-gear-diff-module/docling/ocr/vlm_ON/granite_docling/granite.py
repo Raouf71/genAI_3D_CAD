@@ -7,7 +7,7 @@ from docling.document_converter import DocumentConverter, PdfFormatOption
 from docling.pipeline.vlm_pipeline import VlmPipeline
 
 # Convert a public arXiv PDF; replace with a local path if preferred.
-source = "C:/Users/grabe_stud/llm_cad_projekt/RAG/llm_3d_cad/RAG-Anything/ollama-based/sandbox/testing-parsers-4healthy-OCR/docs/gear_m1_m1.25.pdf"
+source = "C:/Users/grabe_stud/llm_cad_projekt/RAG/llm_3d_cad/RAG-Anything/ollama-based/sandbox/testing-parsers-4-healthiness/docs/gear_m1_m1.25.pdf"
 
 ###### USING SIMPLE DEFAULT VALUES
 # - GraniteDocling model

@@ -74,12 +74,12 @@ def _normalize_rag_messages_for_ollama(
 async def main():
     config = RAGAnythingConfig(
         working_dir="./rag_storage_ollama_2tabs1page",
-        parser="mineru",
+        parser="docling",
         parse_method="auto",
         enable_image_processing=True,
         enable_table_processing=True,
         enable_equation_processing=True,
-        content_format="minerU",        # Default content format for context extraction     
+        content_format="docling",        # Default content format for context extraction     
         context_mode="chunk",
         max_context_tokens=28000,       # enough for all relevant context(full table chunk etc.) and < num_ctx of model
         context_window=0,               # just that page

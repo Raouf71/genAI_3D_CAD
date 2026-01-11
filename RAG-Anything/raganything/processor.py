@@ -1554,7 +1554,7 @@ class ProcessorMixin:
         # Use provided doc_id or fall back to content-based doc_id
         if doc_id is None:
             doc_id = content_based_doc_id
-
+        
         # Step 2: Separate text and multimodal content
         text_content, multimodal_items = separate_content(content_list)
 
@@ -1597,6 +1597,7 @@ class ProcessorMixin:
             )
 
         self.logger.info(f"Document {file_path} processing complete!")
+
 
     async def process_document_complete_lightrag_api(
         self,
