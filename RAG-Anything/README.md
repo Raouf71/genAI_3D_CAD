@@ -11,9 +11,9 @@ Structure & backbone:
 
 Test the End-to-end processing framework:
 ---
-Run and pass parameters like "file_path", "api_key", "base_url" and "parser" at runtime as following:
+Run and pass parameters like `file_path`, `api_key`, `base_url` and `parser` at runtime as following:
 ```bash
-uv run python3 examples/raganything_example.py docs/gear.pdf --api-key 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 --base-url https://openrouter.ai/api/v1 --parser mineru
+uv run python3 examples/raganything_example.py docs/gear.pdf --api-key your-openrouter-api-key --base-url https://openrouter.ai/api/v1 --parser mineru
 ```
 
 Pipeline steps:
@@ -61,7 +61,7 @@ Pipeline steps:
 
     - Purpose: Define how the retrieval system calls the LLM/VLM for reasoning and answer generation.
 
-    * **llm_model_func**: wraps openai_complete_if_cache() to send text prompts to "gpt-4o-mini".
+    * **llm_model_func**: wraps openai_complete_if_cache() to send text prompts to `gpt-4o-mini`.
 
     * **vision_model_func**: supports three modes:
         - Text-only queries
@@ -120,8 +120,8 @@ RAG query modes:
 Some results:
 ---
 
-* **Input**: ![alt text](RAG-Anything/output/tabellenbuch_abschnitt/kegel_origi.png)
-* **Parsed_Input**: ![alt text](RAG-Anything/output/tabellenbuch_abschnitt/kegel_parsed.png)
+* **Input**: ![alt text](output/tabellenbuch_abschnitt/kegel_origi.png)
+* **Parsed_Input**: ![alt text](output/tabellenbuch_abschnitt/kegel_parsed.png)
 * **Query/Prompt**: Give me the equation of the mantelfläche of a Kegelstumpf?
 * **Answer**: The equation for calculating the **Mantelfläche** (lateral surface area) of a **Kegelstumpf** (truncated cone) is:
 
