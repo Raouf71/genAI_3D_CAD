@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=
   Welcome+to +genAI_3D_CAD 
-  ;Multimodal+RAG+System+for+3D+CAD+Modeling"Typing Animation" />
+  ;Multimodal+RAG+System+for+3D+CAD+Modeling" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -31,6 +31,11 @@ The project aims to create 3D models of spur gears using LLM text prompting and 
 
 # Currently working on:
 - **RAG-4-catalogs**: check out this [branch](https://github.com/Raouf71/genAI_3D_CAD/tree/dev_rag) for new updates.
+
+# Coming soon:
+- WIKI page hosting the project documentation
+- RAG-Chatbot with UI
+
 
 <div align="center" style="margin: 20px 0;">
   <img src="./system_architecture-new.png" alt="RAG-Anything Logo" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
