@@ -3,16 +3,20 @@
   <img src="./m-branch-logo.png" width="120" height="120" alt="RAG-Anything Logo" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
 </div>
 
+<br>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+genAI_3D_CAD;Multimodal+RAG+System+for+3D+CAD+Modeling" alt="Typing SVG" />
   </a>
 </div>
 
+<br>
 
 <div align="center">
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; text-align: center;">
-    <a href='https://github.com/HKUDS/RAG-Anything'><img src='https://img.shields.io/badge/Based%20on-RAG Anything-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e'></a>
+    <a href='https://github.com/HKUDS/RAG-Anything'><img src='https://img.shields.io/badge/Based%20on-RAG Anything-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e'>
+    </a>
     <a href='https://github.com/run-llama/llama_cloud_services/tree/main/examples'><img src='https://img.shields.io/badge/Based%20on-LlamaCloudServices-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e'>
     </a>
     <br>
