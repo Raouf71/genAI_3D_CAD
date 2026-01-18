@@ -4,10 +4,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=
-  Welcome+to +genAI_3D_CAD 
-  ;Multimodal+RAG+System+for+3D+CAD+Modeling" alt="Typing Animation" />
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+genAI_3D_CAD;Multimodal+RAG+System+for+3D+CAD+Modeling" alt="Typing SVG" />
+  </a>
 </div>
+
 
 <div align="center">
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; text-align: center;">
