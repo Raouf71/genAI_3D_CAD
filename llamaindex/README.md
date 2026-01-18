@@ -10,12 +10,14 @@ source ./llamaindex-env/bin/activate
 
 2. Install requirements
 ```bash
-pip install llama-index llama-index-core==0.10.42 llama-index-embeddings-openai llama-index-postprocessor-flag-embedding-reranker git+https://github.com/FlagOpen/FlagEmbedding.git llama-index-graph-stores-neo4j llama-cloud-services 
-```
-
-Or do:
-```bash
-pip install -r requirements.txt
+pip install llama-index
+pip install llama-index-core==0.10.42
+pip install llama-index-embeddings-openai
+pip install llama-index-postprocessor-flag-embedding-reranker
+pip install git+https://github.com/FlagOpen/FlagEmbedding.git
+pip install llama-index-graph-stores-neo4j
+pip install llama-cloud-services
+pip install IPython
 ```
 
 

@@ -27,13 +27,14 @@ LlamaIndex technical view
 
 📌 **Key concept: Parsing = understanding the file format and extracting usable text.**
 
+🚧🚧🚧
+---
 - Parse into Nodes:
 convert Document objects into Node objects (nodes are the chunk-level units used by indexes/retrievers).
-
 The NodeParser API literally says: get_nodes_from_documents(...) = “Parse documents into nodes.”
-
 The “Documents / Nodes” guide also states you can “parse source Documents into Nodes through our NodeParser classes.”
-
+---
+🚧🚧🚧
 
 ## 2a. Metadata normalization
 Metadata normalization is just cleaning + standardizing the “labels” attached to each document/chunk so they’re consistent and reliable later.
@@ -197,8 +198,9 @@ LlamaIndex technical view
 <br>
 <br>
 
+🚧🚧🚧
 ---
-(WORK IN PROGRESS)
+(WORK IN PROGRESS) 
 * Keyword filtering (https://developers.llamaindex.ai/python/framework/module_guides/indexing/index_guide/)
 
 * DO WE RETURN NODES OR DOCS??????????????
