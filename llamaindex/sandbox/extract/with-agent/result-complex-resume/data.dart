@@ -99,4 +99,7 @@
    'GitLab',
    'Windows',
    'Linux (Ubuntu)']},
- 'key_accomplishments': 'Recipient of DAAD and Tunisian Government scholarships for academic excellence. Led and contributed to EU projects on digital twins, autonomous robotics, and deep learning-based industrial automation (AIMS5.0). Developed advanced ML and simulation toolkits for industrial environments.'}
+ 'key_accomplishments': 'Recipient of DAAD and Tunisian Government scholarships for academic excellence. 
+ Led and contributed to EU projects on digital twins, 
+ autonomous robotics, and deep learning-based industrial automation (AIMS5.0).
+  Developed advanced ML and simulation toolkits for industrial environments.'}

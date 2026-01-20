@@ -16,7 +16,7 @@ pip install llama-index-embeddings-openai
 pip install llama-index-postprocessor-flag-embedding-reranker
 pip install git+https://github.com/FlagOpen/FlagEmbedding.git
 pip install llama-index-graph-stores-neo4j
-pip install llama-cloud-services
+pip install llama-cloud-services==0.6.90
 pip install IPython
 ```
 
