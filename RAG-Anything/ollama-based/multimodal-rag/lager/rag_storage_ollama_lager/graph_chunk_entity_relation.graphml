@@ -1,0 +1,895 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="table_9adbae85c7ddf49d93db09f7d9691da4">
+      <data key="d0">table_9adbae85c7ddf49d93db09f7d9691da4</data>
+      <data key="d1">table</data>
+      <data key="d2">Table content: {'type': 'table', 'img_path': 'C:\\Users\\grabe_stud\\llm_cad_projekt\\RAG\\llm_3d_cad\\RAG-Anything</data>
+      <data key="d3">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670559</data>
+    </node>
+    <node id="Technisches Zeichnen by Prof Andreas Fritz (discarded technical drawing manual)">
+      <data key="d0">Technisches Zeichnen by Prof Andreas Fritz (discarded technical drawing manual)</data>
+      <data key="d1">discarded technical drawing manual</data>
+      <data key="d2">A 39-section technical drawing manual covering fundamental principles, norms, and examples, published by Cornelsen Verlag GmbH &amp; Co. KG, created from the Technical University of Hannover on November 20, 2025.</data>
+      <data key="d3">chunk-78ecda829da5050f5c00b71f5b942a18</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670559</data>
+    </node>
+    <node id="Discarded Text Entity (discarded)">
+      <data key="d0">Discarded Text Entity (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">A discarded text entity with an empty text field, located at [838, 881, 877, 895] on page 0.</data>
+      <data key="d3">chunk-dc95fcd35e35003dfd2975b0eb0a33b4</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670559</data>
+    </node>
+    <node id="Wälzlager (Ball Bearing) (discarded)">
+      <data key="d0">Wälzlager (Ball Bearing) (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">German term for 'ball bearing' from a technical document, likely from the first page.</data>
+      <data key="d3">chunk-d3c6f0fcece38109a7ead61e28f1a2cb</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670559</data>
+    </node>
+    <node id="Discarded Page Number (discarded)">
+      <data key="d0">Discarded Page Number (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">A discarded page number element with a text value of '9 ' located on page 0 with a bounding box of (889, 555, 944, 617).</data>
+      <data key="d3">chunk-ce24178892ab20e3a7562c2a5927ba34</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670559</data>
+    </node>
+    <node id="Discarded Page 1 (discarded)">
+      <data key="d0">Discarded Page 1 (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">Discarded page with empty text, located on page 1 with bounding box [60, 493, 89, 834].</data>
+      <data key="d3">chunk-175f201f01932f92bf7240fd47a98df6</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670559</data>
+    </node>
+    <node id="Discarded Content Analysis">
+      <data key="d0">Discarded Content Analysis</data>
+      <data key="d1">content</data>
+      <data key="d2">Discarded Content Analysis consists of a single element with the following characteristics: a type of 'discarded', a text value of '9 ', and a bounding box (889, 555, 944, 617). The content is located on page 0.</data>
+      <data key="d3">chunk-ce24178892ab20e3a7562c2a5927ba34</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670590</data>
+      <data key="d6" />
+    </node>
+    <node id="Content">
+      <data key="d0">Content</data>
+      <data key="d1">content</data>
+      <data key="d2">Content refers to the discarded content analysis, which consists of a single element with the following characteristics: a type of 'discarded', a text value of '9 ', and a bounding box (889, 555, 944, 617). The content is located on page 0.</data>
+      <data key="d3">chunk-ce24178892ab20e3a7562c2a5927ba34</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670590</data>
+      <data key="d6" />
+    </node>
+    <node id="TABLE_AS_JSON">
+      <data key="d0">TABLE_AS_JSON</data>
+      <data key="d1">category</data>
+      <data key="d2">TABLE_AS_JSON is a JSON object containing metadata and table data.</data>
+      <data key="d3">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670590</data>
+      <data key="d6" />
+    </node>
+    <node id="metadata">
+      <data key="d0">metadata</data>
+      <data key="d1">category</data>
+      <data key="d2">metadata is a section of the TABLE_AS_JSON object containing image path, caption, and footnotes.</data>
+      <data key="d3">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670590</data>
+      <data key="d6" />
+    </node>
+    <node id="image_path">
+      <data key="d0">image_path</data>
+      <data key="d1">category</data>
+      <data key="d2">image_path is a metadata field containing the path to an image.</data>
+      <data key="d3">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670590</data>
+      <data key="d6" />
+    </node>
+    <node id="caption">
+      <data key="d0">caption</data>
+      <data key="d1">category</data>
+      <data key="d2">caption is a metadata field containing a brief description of the image.</data>
+      <data key="d3">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670590</data>
+      <data key="d6" />
+    </node>
+    <node id="footnotes">
+      <data key="d0">footnotes</data>
+      <data key="d1">category</data>
+      <data key="d2">footnotes is a metadata field containing additional information or notes.</data>
+      <data key="d3">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670590</data>
+      <data key="d6" />
+    </node>
+    <node id="table">
+      <data key="d0">table</data>
+      <data key="d1">category</data>
+      <data key="d2">table is a section of the TABLE_AS_JSON object containing table data.</data>
+      <data key="d3">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670590</data>
+      <data key="d6" />
+    </node>
+    <node id="columns">
+      <data key="d0">columns</data>
+      <data key="d1">category</data>
+      <data key="d2">columns is a table field containing column names.</data>
+      <data key="d3">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670592</data>
+      <data key="d6" />
+    </node>
+    <node id="rows">
+      <data key="d0">rows</data>
+      <data key="d1">category</data>
+      <data key="d2">rows is a table field containing table rows.</data>
+      <data key="d3">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670592</data>
+      <data key="d6" />
+    </node>
+    <node id="DIN711">
+      <data key="d0">DIN711</data>
+      <data key="d1">standard</data>
+      <data key="d2">DIN 711 is a standard for keel roller bearings.</data>
+      <data key="d3">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670592</data>
+      <data key="d6" />
+    </node>
+    <node id="DIN625">
+      <data key="d0">DIN625</data>
+      <data key="d1">standard</data>
+      <data key="d2">DIN 625 is a standard for axial roller bearings.</data>
+      <data key="d3">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670592</data>
+      <data key="d6" />
+    </node>
+    <node id="DIN5412-1">
+      <data key="d0">DIN5412-1</data>
+      <data key="d1">standard</data>
+      <data key="d2">DIN 5412-1 is a standard for cylindrical roller bearings.</data>
+      <data key="d3">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670592</data>
+      <data key="d6" />
+    </node>
+    <node id="DIN720">
+      <data key="d0">DIN720</data>
+      <data key="d1">standard</data>
+      <data key="d2">DIN 720 is a standard for radial ball bearings.</data>
+      <data key="d3">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670592</data>
+      <data key="d6" />
+    </node>
+    <node id="Content Analysis">
+      <data key="d0">Content Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Content Analysis is a process of examining and interpreting the meaning of content, often used in various fields such as marketing, psychology, and computer science.&lt;SEP&gt;Content Analysis is a process of examining and interpreting the meaning and significance of content, including text, images, and other forms of media.&lt;SEP&gt;Content Analysis is a process of extracting meaningful information from text, images, and other forms of data.&lt;SEP&gt;Content Analysis is a process used to understand the meaning and context of a piece of content.</data>
+      <data key="d3">chunk-dc95fcd35e35003dfd2975b0eb0a33b4&lt;SEP&gt;chunk-175f201f01932f92bf7240fd47a98df6&lt;SEP&gt;chunk-d3c6f0fcece38109a7ead61e28f1a2cb&lt;SEP&gt;chunk-78ecda829da5050f5c00b71f5b942a18</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670592</data>
+      <data key="d6" />
+    </node>
+    <node id="Entity Types">
+      <data key="d0">Entity Types</data>
+      <data key="d1">concept</data>
+      <data key="d2">Entity Types are categories used to classify entities, such as Person, Creature, Organization, Location, Event, Concept, Method, Content, Data, Artifact, and Natural Object.</data>
+      <data key="d3">chunk-dc95fcd35e35003dfd2975b0eb0a33b4</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670592</data>
+      <data key="d6" />
+    </node>
+    <node id="Text">
+      <data key="d0">Text</data>
+      <data key="d1">content</data>
+      <data key="d2">Text is the input data for content analysis, which can be in the form of written or spoken language.&lt;SEP&gt;The text is a piece of content that is being analyzed.</data>
+      <data key="d3">chunk-dc95fcd35e35003dfd2975b0eb0a33b4&lt;SEP&gt;chunk-175f201f01932f92bf7240fd47a98df6</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670594</data>
+      <data key="d6" />
+    </node>
+    <node id="BBox">
+      <data key="d0">BBox</data>
+      <data key="d1">concept</data>
+      <data key="d2">BBox refers to the bounding box coordinates [838, 881, 877, 895] that define the spatial location of the entity on a page.</data>
+      <data key="d3">chunk-dc95fcd35e35003dfd2975b0eb0a33b4</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670594</data>
+      <data key="d6" />
+    </node>
+    <node id="Page Index">
+      <data key="d0">Page Index</data>
+      <data key="d1">concept</data>
+      <data key="d2">Page Index is a numerical value (0) that indicates the position of the entity on a page.</data>
+      <data key="d3">chunk-dc95fcd35e35003dfd2975b0eb0a33b4</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670594</data>
+      <data key="d6" />
+    </node>
+    <node id="Discarded Content">
+      <data key="d0">Discarded Content</data>
+      <data key="d1">concept</data>
+      <data key="d2">Discarded Content refers to content that is no longer relevant, useful, or applicable in its original context.&lt;SEP&gt;Discarded Content refers to the entity that is being discarded, which is a text-based entity with a bounding box and page index.</data>
+      <data key="d3">chunk-dc95fcd35e35003dfd2975b0eb0a33b4&lt;SEP&gt;chunk-d3c6f0fcece38109a7ead61e28f1a2cb</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670594</data>
+      <data key="d6" />
+    </node>
+    <node id="Discarded Item">
+      <data key="d0">Discarded Item</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Discarded Item refers to an item that has been removed or discarded from a collection or document.</data>
+      <data key="d3">chunk-175f201f01932f92bf7240fd47a98df6</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670594</data>
+      <data key="d6" />
+    </node>
+    <node id="Page">
+      <data key="d0">Page</data>
+      <data key="d1">artifact</data>
+      <data key="d2">The page is an artifact that contains the content.</data>
+      <data key="d3">chunk-175f201f01932f92bf7240fd47a98df6</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670594</data>
+      <data key="d6" />
+    </node>
+    <node id="Wälzlager">
+      <data key="d0">Wälzlager</data>
+      <data key="d1">concept</data>
+      <data key="d2">Wälzlager is a German term that translates to 'ball bearing' in English, often used in technical or engineering contexts.</data>
+      <data key="d3">chunk-d3c6f0fcece38109a7ead61e28f1a2cb</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670594</data>
+      <data key="d6" />
+    </node>
+    <node id="German">
+      <data key="d0">German</data>
+      <data key="d1">language</data>
+      <data key="d2">German is the language in which the term 'Wälzlager' is written.</data>
+      <data key="d3">chunk-d3c6f0fcece38109a7ead61e28f1a2cb</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670594</data>
+      <data key="d6" />
+    </node>
+    <node id="Prof Andreas Fritz">
+      <data key="d0">Prof Andreas Fritz</data>
+      <data key="d1">person</data>
+      <data key="d2">Prof Andreas Fritz is the author of the technical drawing manual 'Technisches Zeichnen'.</data>
+      <data key="d3">chunk-78ecda829da5050f5c00b71f5b942a18</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670596</data>
+      <data key="d6" />
+    </node>
+    <node id="Cornelsen Verlag GmbH &amp; Co. KG">
+      <data key="d0">Cornelsen Verlag GmbH &amp; Co. KG</data>
+      <data key="d1">organization</data>
+      <data key="d2">Cornelsen Verlag GmbH &amp; Co. KG is the publisher of the technical drawing manual 'Technisches Zeichnen'.</data>
+      <data key="d3">chunk-78ecda829da5050f5c00b71f5b942a18</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670596</data>
+      <data key="d6" />
+    </node>
+    <node id="Technical University of Hannover">
+      <data key="d0">Technical University of Hannover</data>
+      <data key="d1">location</data>
+      <data key="d2">Technical University of Hannover is a university located in Hannover, Germany.</data>
+      <data key="d3">chunk-78ecda829da5050f5c00b71f5b942a18</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670596</data>
+      <data key="d6" />
+    </node>
+    <node id="Page 0">
+      <data key="d0">Page 0</data>
+      <data key="d3">chunk-ce24178892ab20e3a7562c2a5927ba34</data>
+      <data key="d2">The discarded content is located on page 0.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670596</data>
+      <data key="d6" />
+    </node>
+    <node id="Bounding Box (889, 555, 944, 617)">
+      <data key="d0">Bounding Box (889, 555, 944, 617)</data>
+      <data key="d3">chunk-ce24178892ab20e3a7562c2a5927ba34</data>
+      <data key="d2">The discarded content has a bounding box (889, 555, 944, 617), which suggests that this element is a small rectangular area on the page.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">lager.pdf</data>
+      <data key="d5">1766670597</data>
+      <data key="d6" />
+    </node>
+    <edge source="table_9adbae85c7ddf49d93db09f7d9691da4" target="TABLE_AS_JSON">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity TABLE_AS_JSON belongs to table_9adbae85c7ddf49d93db09f7d9691da4</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670600</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_9adbae85c7ddf49d93db09f7d9691da4" target="metadata">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity metadata belongs to table_9adbae85c7ddf49d93db09f7d9691da4</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670601</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_9adbae85c7ddf49d93db09f7d9691da4" target="image_path">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity image_path belongs to table_9adbae85c7ddf49d93db09f7d9691da4</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670601</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_9adbae85c7ddf49d93db09f7d9691da4" target="caption">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity caption belongs to table_9adbae85c7ddf49d93db09f7d9691da4</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670602</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_9adbae85c7ddf49d93db09f7d9691da4" target="footnotes">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity footnotes belongs to table_9adbae85c7ddf49d93db09f7d9691da4</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670602</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_9adbae85c7ddf49d93db09f7d9691da4" target="table">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity table belongs to table_9adbae85c7ddf49d93db09f7d9691da4</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670602</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_9adbae85c7ddf49d93db09f7d9691da4" target="columns">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity columns belongs to table_9adbae85c7ddf49d93db09f7d9691da4</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670603</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_9adbae85c7ddf49d93db09f7d9691da4" target="rows">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity rows belongs to table_9adbae85c7ddf49d93db09f7d9691da4</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670603</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_9adbae85c7ddf49d93db09f7d9691da4" target="DIN711">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity DIN711 belongs to table_9adbae85c7ddf49d93db09f7d9691da4</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670604</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_9adbae85c7ddf49d93db09f7d9691da4" target="DIN625">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity DIN625 belongs to table_9adbae85c7ddf49d93db09f7d9691da4</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670605</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_9adbae85c7ddf49d93db09f7d9691da4" target="DIN5412-1">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity DIN5412-1 belongs to table_9adbae85c7ddf49d93db09f7d9691da4</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670605</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table_9adbae85c7ddf49d93db09f7d9691da4" target="DIN720">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity DIN720 belongs to table_9adbae85c7ddf49d93db09f7d9691da4</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670606</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technisches Zeichnen by Prof Andreas Fritz (discarded technical drawing manual)" target="Prof Andreas Fritz">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Prof Andreas Fritz belongs to Technisches Zeichnen by Prof Andreas Fritz (discarded technical drawing manual)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-78ecda829da5050f5c00b71f5b942a18</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technisches Zeichnen by Prof Andreas Fritz (discarded technical drawing manual)" target="Technical University of Hannover">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Technical University of Hannover belongs to Technisches Zeichnen by Prof Andreas Fritz (discarded technical drawing manual)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-78ecda829da5050f5c00b71f5b942a18</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technisches Zeichnen by Prof Andreas Fritz (discarded technical drawing manual)" target="Cornelsen Verlag GmbH &amp; Co. KG">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Cornelsen Verlag GmbH &amp; Co. KG belongs to Technisches Zeichnen by Prof Andreas Fritz (discarded technical drawing manual)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-78ecda829da5050f5c00b71f5b942a18</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670611</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technisches Zeichnen by Prof Andreas Fritz (discarded technical drawing manual)" target="Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Content Analysis belongs to Technisches Zeichnen by Prof Andreas Fritz (discarded technical drawing manual)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-78ecda829da5050f5c00b71f5b942a18</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670611</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Text Entity (discarded)" target="Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Content Analysis belongs to Discarded Text Entity (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc95fcd35e35003dfd2975b0eb0a33b4</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670604</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Text Entity (discarded)" target="Entity Types">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Entity Types belongs to Discarded Text Entity (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc95fcd35e35003dfd2975b0eb0a33b4</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670605</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Text Entity (discarded)" target="Text">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Text belongs to Discarded Text Entity (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc95fcd35e35003dfd2975b0eb0a33b4</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670606</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Text Entity (discarded)" target="BBox">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity BBox belongs to Discarded Text Entity (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc95fcd35e35003dfd2975b0eb0a33b4</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670606</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Text Entity (discarded)" target="Page Index">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Page Index belongs to Discarded Text Entity (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc95fcd35e35003dfd2975b0eb0a33b4</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670607</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Text Entity (discarded)" target="Discarded Content">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content belongs to Discarded Text Entity (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc95fcd35e35003dfd2975b0eb0a33b4</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Wälzlager (Ball Bearing) (discarded)" target="Wälzlager">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Wälzlager belongs to Wälzlager (Ball Bearing) (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-d3c6f0fcece38109a7ead61e28f1a2cb</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Wälzlager (Ball Bearing) (discarded)" target="German">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity German belongs to Wälzlager (Ball Bearing) (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-d3c6f0fcece38109a7ead61e28f1a2cb</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Wälzlager (Ball Bearing) (discarded)" target="Discarded Content">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content belongs to Wälzlager (Ball Bearing) (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-d3c6f0fcece38109a7ead61e28f1a2cb</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670609</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Wälzlager (Ball Bearing) (discarded)" target="Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Content Analysis belongs to Wälzlager (Ball Bearing) (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-d3c6f0fcece38109a7ead61e28f1a2cb</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Page Number (discarded)" target="Content">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Content belongs to Discarded Page Number (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-ce24178892ab20e3a7562c2a5927ba34</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670598</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Page Number (discarded)" target="Discarded Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content Analysis belongs to Discarded Page Number (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-ce24178892ab20e3a7562c2a5927ba34</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670599</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Page 1 (discarded)" target="Discarded Item">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Item belongs to Discarded Page 1 (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-175f201f01932f92bf7240fd47a98df6</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670607</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Page 1 (discarded)" target="Text">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Text belongs to Discarded Page 1 (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-175f201f01932f92bf7240fd47a98df6</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670607</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Page 1 (discarded)" target="Page">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Page belongs to Discarded Page 1 (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-175f201f01932f92bf7240fd47a98df6</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Page 1 (discarded)" target="Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Content Analysis belongs to Discarded Page 1 (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-175f201f01932f92bf7240fd47a98df6</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670609</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content Analysis" target="Page 0">
+      <data key="d7">1.0</data>
+      <data key="d8">The discarded content is located on page 0.</data>
+      <data key="d9">content location,page layout</data>
+      <data key="d10">chunk-ce24178892ab20e3a7562c2a5927ba34</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670597</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content Analysis" target="Bounding Box (889, 555, 944, 617)">
+      <data key="d7">1.0</data>
+      <data key="d8">The discarded content has a bounding box (889, 555, 944, 617), which suggests that this element is a small rectangular area on the page.</data>
+      <data key="d9">content bounding box,page layout</data>
+      <data key="d10">chunk-ce24178892ab20e3a7562c2a5927ba34</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670598</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="Page 0">
+      <data key="d7">1.0</data>
+      <data key="d8">The content is located on page 0.</data>
+      <data key="d9">content location,page layout</data>
+      <data key="d10">chunk-ce24178892ab20e3a7562c2a5927ba34</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670597</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="Bounding Box (889, 555, 944, 617)">
+      <data key="d7">1.0</data>
+      <data key="d8">The content has a bounding box (889, 555, 944, 617), which suggests that this element is a small rectangular area on the page.</data>
+      <data key="d9">content bounding box,page layout</data>
+      <data key="d10">chunk-ce24178892ab20e3a7562c2a5927ba34</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670599</data>
+      <data key="d13" />
+    </edge>
+    <edge source="TABLE_AS_JSON" target="metadata">
+      <data key="d7">1.0</data>
+      <data key="d8">TABLE_AS_JSON contains metadata as part of its structure.</data>
+      <data key="d9">data structure,metadata</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670596</data>
+      <data key="d13" />
+    </edge>
+    <edge source="metadata" target="image_path">
+      <data key="d7">1.0</data>
+      <data key="d8">metadata contains an image path as one of its fields.</data>
+      <data key="d9">image reference,metadata</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670597</data>
+      <data key="d13" />
+    </edge>
+    <edge source="metadata" target="caption">
+      <data key="d7">1.0</data>
+      <data key="d8">metadata contains a caption as one of its fields.</data>
+      <data key="d9">image description,metadata</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670598</data>
+      <data key="d13" />
+    </edge>
+    <edge source="metadata" target="footnotes">
+      <data key="d7">1.0</data>
+      <data key="d8">metadata contains footnotes as one of its fields.</data>
+      <data key="d9">additional information,metadata</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670599</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table" target="columns">
+      <data key="d7">1.0</data>
+      <data key="d8">table contains columns as part of its structure.</data>
+      <data key="d9">data,table structure</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670598</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table" target="rows">
+      <data key="d7">1.0</data>
+      <data key="d8">table contains rows as part of its data.</data>
+      <data key="d9">structure,table data</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670599</data>
+      <data key="d13" />
+    </edge>
+    <edge source="DIN711" target="DIN625">
+      <data key="d7">1.0</data>
+      <data key="d8">DIN 711 and DIN 625 are standards for different types of roller bearings.</data>
+      <data key="d9">compatibility,standard relationship</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670599</data>
+      <data key="d13" />
+    </edge>
+    <edge source="DIN711" target="DIN5412-1">
+      <data key="d7">1.0</data>
+      <data key="d8">DIN 711 and DIN 5412-1 are standards for different types of roller bearings.</data>
+      <data key="d9">compatibility,standard relationship</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670600</data>
+      <data key="d13" />
+    </edge>
+    <edge source="DIN711" target="DIN720">
+      <data key="d7">1.0</data>
+      <data key="d8">DIN 711 and DIN 720 are standards for different types of roller bearings.</data>
+      <data key="d9">compatibility,standard relationship</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670601</data>
+      <data key="d13" />
+    </edge>
+    <edge source="DIN625" target="DIN720">
+      <data key="d7">1.0</data>
+      <data key="d8">DIN 625 and DIN 720 are standards for different types of roller bearings.</data>
+      <data key="d9">compatibility,standard relationship</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670600</data>
+      <data key="d13" />
+    </edge>
+    <edge source="DIN625" target="DIN5412-1">
+      <data key="d7">1.0</data>
+      <data key="d8">DIN 625 and DIN 5412-1 are standards for different types of roller bearings.</data>
+      <data key="d9">compatibility,standard relationship</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670601</data>
+      <data key="d13" />
+    </edge>
+    <edge source="DIN5412-1" target="DIN720">
+      <data key="d7">1.0</data>
+      <data key="d8">DIN 720 and DIN 5412-1 are standards for different types of roller bearings.</data>
+      <data key="d9">compatibility,standard relationship</data>
+      <data key="d10">chunk-a710f8995440dd93bd62c851190740a0</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670601</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Entity Types">
+      <data key="d7">1.0</data>
+      <data key="d8">Content Analysis involves the classification of entities into predefined categories, such as Person, Creature, Organization, Location, Event, Concept, Method, Content, Data, Artifact, and Natural Object.</data>
+      <data key="d9">content analysis,entity classification</data>
+      <data key="d10">chunk-dc95fcd35e35003dfd2975b0eb0a33b4</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670602</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Discarded Content">
+      <data key="d7">2.0</data>
+      <data key="d8">Content Analysis involves identifying and categorizing discarded content as no longer relevant or useful.&lt;SEP&gt;The discarded content is related to the content analysis process, which involves the extraction of meaningful information from text, images, and other forms of data.</data>
+      <data key="d9">content analysis,content processing,discarded content,relevance</data>
+      <data key="d10">chunk-dc95fcd35e35003dfd2975b0eb0a33b4&lt;SEP&gt;chunk-d3c6f0fcece38109a7ead61e28f1a2cb</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670603</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Discarded Item">
+      <data key="d7">2.0</data>
+      <data key="d8">Content Analysis is used to understand the context and relevance of a discarded item.&lt;SEP&gt;A discarded item is classified and analyzed through content analysis.</data>
+      <data key="d9">analysis,context,item classification,relevance</data>
+      <data key="d10">chunk-175f201f01932f92bf7240fd47a98df6</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670605</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Text">
+      <data key="d7">1.0</data>
+      <data key="d8">Content Analysis is used to understand the context and relevance of the text.</data>
+      <data key="d9">context,relevance</data>
+      <data key="d10">chunk-175f201f01932f92bf7240fd47a98df6</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670606</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Page">
+      <data key="d7">1.0</data>
+      <data key="d8">A page is classified and analyzed through content analysis.</data>
+      <data key="d9">analysis,item classification</data>
+      <data key="d10">chunk-175f201f01932f92bf7240fd47a98df6</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670607</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Wälzlager">
+      <data key="d7">2.0</data>
+      <data key="d8">Wälzlager is a term relevant to technical or engineering contexts, which is analyzed and processed through content analysis.&lt;SEP&gt;Content Analysis involves analyzing and processing technical terms like 'Wälzlager' in their original language.</data>
+      <data key="d9">relevance,technical context</data>
+      <data key="d10">chunk-d3c6f0fcece38109a7ead61e28f1a2cb</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670610</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Prof Andreas Fritz">
+      <data key="d7">1.0</data>
+      <data key="d8">Prof Andreas Fritz is the author of the content analysis.</data>
+      <data key="d9">authorship,expertise</data>
+      <data key="d10">chunk-78ecda829da5050f5c00b71f5b942a18</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670611</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Entity Types" target="Text">
+      <data key="d7">1.0</data>
+      <data key="d8">Entity Types are used to classify entities within the text, which is the input data for content analysis.</data>
+      <data key="d9">entity classification,text analysis</data>
+      <data key="d10">chunk-dc95fcd35e35003dfd2975b0eb0a33b4</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670603</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Entity Types" target="Discarded Content">
+      <data key="d7">1.0</data>
+      <data key="d8">Entity Types are used to classify entities within the discarded content, which is a text-based entity with a bounding box and page index.</data>
+      <data key="d9">discarded content,entity classification</data>
+      <data key="d10">chunk-dc95fcd35e35003dfd2975b0eb0a33b4</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670604</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Text" target="BBox">
+      <data key="d7">1.0</data>
+      <data key="d8">The text is analyzed in conjunction with its spatial location, defined by the bounding box coordinates [838, 881, 877, 895].</data>
+      <data key="d9">spatial location,text analysis</data>
+      <data key="d10">chunk-dc95fcd35e35003dfd2975b0eb0a33b4</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670603</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Text" target="Page">
+      <data key="d7">1.0</data>
+      <data key="d8">The text is presented on a page with a specific layout.</data>
+      <data key="d9">content,layout</data>
+      <data key="d10">chunk-175f201f01932f92bf7240fd47a98df6</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670607</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BBox" target="Page Index">
+      <data key="d7">1.0</data>
+      <data key="d8">The bounding box coordinates [838, 881, 877, 895] are used to define the spatial location of the entity on a page, which is indexed by the page index value (0).</data>
+      <data key="d9">page indexing,spatial location</data>
+      <data key="d10">chunk-dc95fcd35e35003dfd2975b0eb0a33b4</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670604</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Prof Andreas Fritz" target="Cornelsen Verlag GmbH &amp; Co. KG">
+      <data key="d7">2.0</data>
+      <data key="d8">Prof Andreas Fritz's work was published by Cornelsen Verlag GmbH &amp; Co. KG.&lt;SEP&gt;Cornelsen Verlag GmbH &amp; Co. KG published the work of Prof Andreas Fritz.</data>
+      <data key="d9">affiliation,publication</data>
+      <data key="d10">chunk-78ecda829da5050f5c00b71f5b942a18</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670608</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Prof Andreas Fritz" target="Technical University of Hannover">
+      <data key="d7">1.0</data>
+      <data key="d8">Prof Andreas Fritz is affiliated with the Technical University of Hannover.</data>
+      <data key="d9">academic background,affiliation</data>
+      <data key="d10">chunk-78ecda829da5050f5c00b71f5b942a18</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670609</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Cornelsen Verlag GmbH &amp; Co. KG" target="Technical University of Hannover">
+      <data key="d7">1.0</data>
+      <data key="d8">Cornelsen Verlag GmbH &amp; Co. KG collaborated with the Technical University of Hannover on the publication.</data>
+      <data key="d9">collaboration,partnership</data>
+      <data key="d10">chunk-78ecda829da5050f5c00b71f5b942a18</data>
+      <data key="d11">lager.pdf</data>
+      <data key="d12">1766670610</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

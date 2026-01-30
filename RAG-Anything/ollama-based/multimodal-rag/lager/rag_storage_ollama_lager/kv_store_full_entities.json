@@ -1,0 +1,38 @@
+{
+  "doc-b62f7f9d7d6f67e59443e17d46fab899": {
+    "entity_names": [
+      "caption",
+      "columns",
+      "DIN720",
+      "Discarded Content",
+      "Page 0",
+      "Discarded Item",
+      "German",
+      "DIN5412-1",
+      "Wälzlager",
+      "rows",
+      "DIN711",
+      "Text",
+      "image_path",
+      "DIN625",
+      "Prof Andreas Fritz",
+      "Cornelsen Verlag GmbH & Co. KG",
+      "table",
+      "Page",
+      "Page Index",
+      "footnotes",
+      "Entity Types",
+      "Technical University of Hannover",
+      "Bounding Box (889, 555, 944, 617)",
+      "Content Analysis",
+      "metadata",
+      "Discarded Content Analysis",
+      "BBox",
+      "TABLE_AS_JSON",
+      "Content"
+    ],
+    "count": 29,
+    "update_time": 1766670611,
+    "_id": "doc-b62f7f9d7d6f67e59443e17d46fab899"
+  }
+}

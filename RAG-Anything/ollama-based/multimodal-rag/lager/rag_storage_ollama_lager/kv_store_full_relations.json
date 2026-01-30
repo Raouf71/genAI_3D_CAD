@@ -1,0 +1,262 @@
+{
+  "doc-b62f7f9d7d6f67e59443e17d46fab899": {
+    "relation_pairs": [
+      [
+        "Content Analysis",
+        "Discarded Text Entity (discarded)"
+      ],
+      [
+        "TABLE_AS_JSON",
+        "table_9adbae85c7ddf49d93db09f7d9691da4"
+      ],
+      [
+        "Content",
+        "Page 0"
+      ],
+      [
+        "Discarded Text Entity (discarded)",
+        "Text"
+      ],
+      [
+        "Content Analysis",
+        "Text"
+      ],
+      [
+        "DIN711",
+        "DIN720"
+      ],
+      [
+        "DIN5412-1",
+        "DIN711"
+      ],
+      [
+        "Content",
+        "Discarded Page Number (discarded)"
+      ],
+      [
+        "Discarded Item",
+        "Discarded Page 1 (discarded)"
+      ],
+      [
+        "image_path",
+        "table_9adbae85c7ddf49d93db09f7d9691da4"
+      ],
+      [
+        "Discarded Content",
+        "Wälzlager (Ball Bearing) (discarded)"
+      ],
+      [
+        "rows",
+        "table"
+      ],
+      [
+        "table",
+        "table_9adbae85c7ddf49d93db09f7d9691da4"
+      ],
+      [
+        "Cornelsen Verlag GmbH & Co. KG",
+        "Technisches Zeichnen by Prof Andreas Fritz (discarded technical drawing manual)"
+      ],
+      [
+        "metadata",
+        "table_9adbae85c7ddf49d93db09f7d9691da4"
+      ],
+      [
+        "Content Analysis",
+        "Entity Types"
+      ],
+      [
+        "BBox",
+        "Page Index"
+      ],
+      [
+        "footnotes",
+        "table_9adbae85c7ddf49d93db09f7d9691da4"
+      ],
+      [
+        "Content Analysis",
+        "Discarded Content"
+      ],
+      [
+        "DIN5412-1",
+        "DIN625"
+      ],
+      [
+        "Prof Andreas Fritz",
+        "Technisches Zeichnen by Prof Andreas Fritz (discarded technical drawing manual)"
+      ],
+      [
+        "TABLE_AS_JSON",
+        "metadata"
+      ],
+      [
+        "Bounding Box (889, 555, 944, 617)",
+        "Content"
+      ],
+      [
+        "Discarded Text Entity (discarded)",
+        "Entity Types"
+      ],
+      [
+        "Cornelsen Verlag GmbH & Co. KG",
+        "Prof Andreas Fritz"
+      ],
+      [
+        "DIN720",
+        "table_9adbae85c7ddf49d93db09f7d9691da4"
+      ],
+      [
+        "DIN5412-1",
+        "DIN720"
+      ],
+      [
+        "image_path",
+        "metadata"
+      ],
+      [
+        "Entity Types",
+        "Text"
+      ],
+      [
+        "BBox",
+        "Discarded Text Entity (discarded)"
+      ],
+      [
+        "BBox",
+        "Text"
+      ],
+      [
+        "footnotes",
+        "metadata"
+      ],
+      [
+        "Technical University of Hannover",
+        "Technisches Zeichnen by Prof Andreas Fritz (discarded technical drawing manual)"
+      ],
+      [
+        "DIN625",
+        "table_9adbae85c7ddf49d93db09f7d9691da4"
+      ],
+      [
+        "Prof Andreas Fritz",
+        "Technical University of Hannover"
+      ],
+      [
+        "Content Analysis",
+        "Wälzlager"
+      ],
+      [
+        "Wälzlager",
+        "Wälzlager (Ball Bearing) (discarded)"
+      ],
+      [
+        "caption",
+        "table_9adbae85c7ddf49d93db09f7d9691da4"
+      ],
+      [
+        "Discarded Page 1 (discarded)",
+        "Page"
+      ],
+      [
+        "Content Analysis",
+        "Wälzlager (Ball Bearing) (discarded)"
+      ],
+      [
+        "Discarded Content",
+        "Discarded Text Entity (discarded)"
+      ],
+      [
+        "DIN711",
+        "table_9adbae85c7ddf49d93db09f7d9691da4"
+      ],
+      [
+        "Content Analysis",
+        "Technisches Zeichnen by Prof Andreas Fritz (discarded technical drawing manual)"
+      ],
+      [
+        "German",
+        "Wälzlager (Ball Bearing) (discarded)"
+      ],
+      [
+        "columns",
+        "table_9adbae85c7ddf49d93db09f7d9691da4"
+      ],
+      [
+        "Discarded Content Analysis",
+        "Discarded Page Number (discarded)"
+      ],
+      [
+        "Discarded Content Analysis",
+        "Page 0"
+      ],
+      [
+        "Content Analysis",
+        "Page"
+      ],
+      [
+        "Content Analysis",
+        "Prof Andreas Fritz"
+      ],
+      [
+        "Page",
+        "Text"
+      ],
+      [
+        "DIN625",
+        "DIN711"
+      ],
+      [
+        "Content Analysis",
+        "Discarded Item"
+      ],
+      [
+        "Cornelsen Verlag GmbH & Co. KG",
+        "Technical University of Hannover"
+      ],
+      [
+        "Bounding Box (889, 555, 944, 617)",
+        "Discarded Content Analysis"
+      ],
+      [
+        "caption",
+        "metadata"
+      ],
+      [
+        "Discarded Content",
+        "Entity Types"
+      ],
+      [
+        "DIN5412-1",
+        "table_9adbae85c7ddf49d93db09f7d9691da4"
+      ],
+      [
+        "Discarded Text Entity (discarded)",
+        "Page Index"
+      ],
+      [
+        "columns",
+        "table"
+      ],
+      [
+        "Content Analysis",
+        "Discarded Page 1 (discarded)"
+      ],
+      [
+        "Discarded Page 1 (discarded)",
+        "Text"
+      ],
+      [
+        "DIN625",
+        "DIN720"
+      ],
+      [
+        "rows",
+        "table_9adbae85c7ddf49d93db09f7d9691da4"
+      ]
+    ],
+    "count": 63,
+    "create_time": 1766670611,
+    "update_time": 1766670611,
+    "_id": "doc-b62f7f9d7d6f67e59443e17d46fab899"
+  }
+}
