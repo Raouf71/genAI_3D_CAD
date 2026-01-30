@@ -1,0 +1,92 @@
+{
+  "Kegelräder": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702403,
+    "update_time": 1766702403,
+    "_id": "Kegelräder"
+  },
+  "Polyacetal": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702403,
+    "update_time": 1766702403,
+    "_id": "Polyacetal"
+  },
+  "Übersetzung 1:2": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702403,
+    "update_time": 1766702403,
+    "_id": "Übersetzung 1:2"
+  },
+  "Ausführung": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702403,
+    "update_time": 1766702403,
+    "_id": "Ausführung"
+  },
+  "geradverzahnt": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702403,
+    "update_time": 1766702403,
+    "_id": "geradverzahnt"
+  },
+  "gespritzt": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702403,
+    "update_time": 1766702403,
+    "_id": "gespritzt"
+  },
+  "Eingriffswinkel": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702403,
+    "update_time": 1766702403,
+    "_id": "Eingriffswinkel"
+  },
+  "Bohrung": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702403,
+    "update_time": 1766702403,
+    "_id": "Bohrung"
+  },
+  "S. 14": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702405,
+    "update_time": 1766702405,
+    "_id": "S. 14"
+  },
+  "Drehmoment": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702405,
+    "update_time": 1766702405,
+    "_id": "Drehmoment"
+  }
+}

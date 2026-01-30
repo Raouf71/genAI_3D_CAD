@@ -1,0 +1,1087 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Kegelräder">
+      <data key="d0">Kegelräder</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Kegelräder aus Polyacetal (POM) sind ein Teil der Maschinentechnik.</data>
+      <data key="d3">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702403</data>
+      <data key="d6" />
+    </node>
+    <node id="Polyacetal">
+      <data key="d0">Polyacetal</data>
+      <data key="d1">material</data>
+      <data key="d2">Polyacetal (POM) ist ein Kunststoff, der in der Herstellung von Kegelrädern verwendet wird.</data>
+      <data key="d3">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702403</data>
+      <data key="d6" />
+    </node>
+    <node id="Übersetzung 1:2">
+      <data key="d0">Übersetzung 1:2</data>
+      <data key="d1">concept</data>
+      <data key="d2">Die Übersetzung 1:2 bezieht sich auf die Verhältniswerte von Kegelrädern.</data>
+      <data key="d3">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702403</data>
+      <data key="d6" />
+    </node>
+    <node id="Ausführung">
+      <data key="d0">Ausführung</data>
+      <data key="d1">concept</data>
+      <data key="d2">Die Ausführung bezieht sich auf die spezifischen Eigenschaften von Kegelrädern.</data>
+      <data key="d3">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702403</data>
+      <data key="d6" />
+    </node>
+    <node id="geradverzahnt">
+      <data key="d0">geradverzahnt</data>
+      <data key="d1">concept</data>
+      <data key="d2">Geradverzahnung ist eine Technik zur Herstellung von Kegelrädern.</data>
+      <data key="d3">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702403</data>
+      <data key="d6" />
+    </node>
+    <node id="gespritzt">
+      <data key="d0">gespritzt</data>
+      <data key="d1">concept</data>
+      <data key="d2">Die Herstellung von Kegelrädern durch Spritzguss ist eine Technik.</data>
+      <data key="d3">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702403</data>
+      <data key="d6" />
+    </node>
+    <node id="Eingriffswinkel">
+      <data key="d0">Eingriffswinkel</data>
+      <data key="d1">concept</data>
+      <data key="d2">Der Eingriffswinkel ist ein wichtiger Parameter bei der Herstellung von Kegelrädern.</data>
+      <data key="d3">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702403</data>
+      <data key="d6" />
+    </node>
+    <node id="Bohrung">
+      <data key="d0">Bohrung</data>
+      <data key="d1">concept</data>
+      <data key="d2">Die Bohrung ist ein wichtiger Schritt bei der Herstellung von Kegelrädern.</data>
+      <data key="d3">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702403</data>
+      <data key="d6" />
+    </node>
+    <node id="S. 14">
+      <data key="d0">S. 14</data>
+      <data key="d1">content</data>
+      <data key="d2">Seite 14 bezieht sich auf eine spezifische Seite in einem Dokument.</data>
+      <data key="d3">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702405</data>
+      <data key="d6" />
+    </node>
+    <node id="Drehmoment">
+      <data key="d0">Drehmoment</data>
+      <data key="d3">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d2">Das Drehmoment wird auf Seite 14 erwähnt.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702405</data>
+      <data key="d6" />
+    </node>
+    <node id="abstract white object (image)">
+      <data key="d0">abstract white object (image)</data>
+      <data key="d1">image</data>
+      <data key="d2">A white, abstract object with a circular base and wavy lines, set against a gray background, showcasing its design and aesthetic appeal.</data>
+      <data key="d3">chunk-98eba1a3bbeb6f6d42a76abad8a4a7ca</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702584</data>
+    </node>
+    <node id="Mechanical Part (image)">
+      <data key="d0">Mechanical Part (image)</data>
+      <data key="d1">image</data>
+      <data key="d2">A detailed technical drawing of a mechanical part, likely a gear or a gear system, created using a computer-aided design (CAD) software and presented in a 2D format.</data>
+      <data key="d3">chunk-ebaea3d6e3bf5eaadf6bb6d5faa1fcd1</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702584</data>
+    </node>
+    <node id="table_dd737df2e055eba6017d8ca35b901b95">
+      <data key="d0">table_dd737df2e055eba6017d8ca35b901b95</data>
+      <data key="d1">table</data>
+      <data key="d2">Table content: {'type': 'table', 'img_path': 'C:\\Users\\grabe_stud\\llm_cad_projekt\\RAG\\llm_3d_cad\\RAG-Anything</data>
+      <data key="d3">chunk-741fa5c6e4999dc16910f5eae81ffa69</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702584</data>
+    </node>
+    <node id="table_ce8370fa36fc2ce93bfc8395d59669d3">
+      <data key="d0">table_ce8370fa36fc2ce93bfc8395d59669d3</data>
+      <data key="d1">table</data>
+      <data key="d2">Table content: {'type': 'table', 'img_path': 'C:\\Users\\grabe_stud\\llm_cad_projekt\\RAG\\llm_3d_cad\\RAG-Anything</data>
+      <data key="d3">chunk-ce8370fa36fc2ce93bfc8395d59669d3</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702584</data>
+    </node>
+    <node id="Discarded Content Object (discarded)">
+      <data key="d0">Discarded Content Object (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">A data object representing discarded content with minimal text and spatial information, likely from a document or page.</data>
+      <data key="d3">chunk-9d3573166fb59bcabab7a17a94b9132d</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702584</data>
+    </node>
+    <node id="Customization Options for Standard Parts (discarded)">
+      <data key="d0">Customization Options for Standard Parts (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">The content discusses customization options for standard parts, including changes to drill hole diameters, additional holes, threads, and notches, with a focus on accommodating specific customer requests.</data>
+      <data key="d3">chunk-e1865a9ba50fe5a22040bde67d770654</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702584</data>
+    </node>
+    <node id="Discarded Document (discarded)">
+      <data key="d0">Discarded Document (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">A discarded document with an empty text field, identified by a bounding box and page index, indicating it was once part of a larger document or dataset.</data>
+      <data key="d3">chunk-f9af972cf1c206a3de833db8ffde5bd7</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702584</data>
+    </node>
+    <node id="White Object with Ridges (object)">
+      <data key="d0">White Object with Ridges (object)</data>
+      <data key="d1">object</data>
+      <data key="d2">A white, plastic or ceramic object with a circular base and a series of ridges or teeth on top, possibly used in a mechanical system or machine.</data>
+      <data key="d3">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702883</data>
+    </node>
+    <node id="Image Content Analysis">
+      <data key="d0">Image Content Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Image Content Analysis is a process used to analyze and understand the content of an image.</data>
+      <data key="d3">chunk-0456e6ec1d31fdc1d1123763dd95e1a9&lt;SEP&gt;chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703041</data>
+      <data key="d6" />
+    </node>
+    <node id="Image Path">
+      <data key="d0">Image Path</data>
+      <data key="d1">category</data>
+      <data key="d2">Image Path refers to the location where an image is stored on a computer or other device.&lt;SEP&gt;The Image Path is a directory or file path where the image is stored.</data>
+      <data key="d3">chunk-0456e6ec1d31fdc1d1123763dd95e1a9&lt;SEP&gt;chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703041</data>
+      <data key="d6" />
+    </node>
+    <node id="Captions">
+      <data key="d0">Captions</data>
+      <data key="d1">category</data>
+      <data key="d2">Captions are text descriptions that accompany an image to provide context or information about its content.&lt;SEP&gt;Captions are text descriptions or labels that provide context or meaning to an image.</data>
+      <data key="d3">chunk-0456e6ec1d31fdc1d1123763dd95e1a9&lt;SEP&gt;chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703041</data>
+      <data key="d6" />
+    </node>
+    <node id="Footnotes">
+      <data key="d0">Footnotes</data>
+      <data key="d1">category</data>
+      <data key="d2">Footnotes are notes or references that are placed at the bottom of a page or document to provide additional information or context.&lt;SEP&gt;Footnotes are additional notes or references that provide further information or context to an image.</data>
+      <data key="d3">chunk-0456e6ec1d31fdc1d1123763dd95e1a9&lt;SEP&gt;chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703041</data>
+      <data key="d6" />
+    </node>
+    <node id="Visual Analysis">
+      <data key="d0">Visual Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Visual Analysis is the process of examining and interpreting visual data, such as images or videos, to extract meaning or insights.&lt;SEP&gt;Visual Analysis is the process of examining and interpreting visual data, such as images.</data>
+      <data key="d3">chunk-0456e6ec1d31fdc1d1123763dd95e1a9&lt;SEP&gt;chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703041</data>
+      <data key="d6" />
+    </node>
+    <node id="World Athletics Championship">
+      <data key="d0">World Athletics Championship</data>
+      <data key="d1">event</data>
+      <data key="d2">The World Athletics Championship is a global sports competition featuring top athletes in track and field.</data>
+      <data key="d3">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703041</data>
+      <data key="d6" />
+    </node>
+    <node id="Tokyo">
+      <data key="d0">Tokyo</data>
+      <data key="d1">location</data>
+      <data key="d2">Tokyo is the host city of the World Athletics Championship.</data>
+      <data key="d3">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703041</data>
+      <data key="d6" />
+    </node>
+    <node id="Noah Carter">
+      <data key="d0">Noah Carter</data>
+      <data key="d1">person</data>
+      <data key="d2">Noah Carter is a sprinter who set a new record in the 100m sprint at the World Athletics Championship.</data>
+      <data key="d3">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703041</data>
+      <data key="d6" />
+    </node>
+    <node id="100m Sprint Record">
+      <data key="d0">100m Sprint Record</data>
+      <data key="d1">category</data>
+      <data key="d2">The 100m sprint record is a benchmark in athletics, recently broken by Noah Carter.</data>
+      <data key="d3">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703042</data>
+      <data key="d6" />
+    </node>
+    <node id="Carbon-Fiber Spikes">
+      <data key="d0">Carbon-Fiber Spikes</data>
+      <data key="d1">equipment</data>
+      <data key="d2">Carbon-fiber spikes are advanced sprinting shoes that provide enhanced speed and traction.</data>
+      <data key="d3">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703043</data>
+      <data key="d6" />
+    </node>
+    <node id="World Athletics Federation">
+      <data key="d0">World Athletics Federation</data>
+      <data key="d1">organization</data>
+      <data key="d2">The World Athletics Federation is the governing body overseeing the World Athletics Championship and record validations.</data>
+      <data key="d3">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703043</data>
+      <data key="d6" />
+    </node>
+    <node id="Visual Style">
+      <data key="d0">Visual Style</data>
+      <data key="d1">category</data>
+      <data key="d2">Visual Style refers to the aesthetic or artistic approach used in creating an image, which in this case is described as realistic.</data>
+      <data key="d3">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703043</data>
+      <data key="d6" />
+    </node>
+    <node id="Background">
+      <data key="d0">Background</data>
+      <data key="d1">category</data>
+      <data key="d2">Background refers to the area or context surrounding the main subject of an image, which in this case is a dark gray color.</data>
+      <data key="d3">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703043</data>
+      <data key="d6" />
+    </node>
+    <node id="Object">
+      <data key="d0">Object</data>
+      <data key="d1">category</data>
+      <data key="d2">Object refers to the main subject or entity present in an image, which in this case is a white, plastic or ceramic gear or cog.</data>
+      <data key="d3">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703043</data>
+      <data key="d6" />
+    </node>
+    <node id="Technical Drawing or Diagram (image)">
+      <data key="d0">Technical Drawing or Diagram (image)</data>
+      <data key="d1">image</data>
+      <data key="d2">A 2D representation of a mechanical component or system, likely created for engineering or manufacturing purposes.</data>
+      <data key="d3">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702956</data>
+    </node>
+    <node id="Technical Drawing">
+      <data key="d0">Technical Drawing</data>
+      <data key="d1">category</data>
+      <data key="d2">Technical drawings are detailed illustrations or diagrams used to represent complex systems or components.</data>
+      <data key="d3">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703043</data>
+      <data key="d6" />
+    </node>
+    <node id="Computer-Aided Design (CAD)">
+      <data key="d0">Computer-Aided Design (CAD)</data>
+      <data key="d1">category</data>
+      <data key="d2">Computer-Aided Design (CAD) is a software application used to create and edit technical drawings.</data>
+      <data key="d3">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703043</data>
+      <data key="d6" />
+    </node>
+    <node id="Mechanical Component">
+      <data key="d0">Mechanical Component</data>
+      <data key="d1">category</data>
+      <data key="d2">Mechanical components are parts or elements of a mechanical system or device.</data>
+      <data key="d3">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703044</data>
+      <data key="d6" />
+    </node>
+    <node id="System">
+      <data key="d0">System</data>
+      <data key="d1">category</data>
+      <data key="d2">A system is a collection of interconnected components or parts that work together to achieve a specific function or goal.</data>
+      <data key="d3">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703044</data>
+      <data key="d6" />
+    </node>
+    <node id="2D Representation">
+      <data key="d0">2D Representation</data>
+      <data key="d1">category</data>
+      <data key="d2">2D Representation is a visual representation of an object or system in two dimensions.</data>
+      <data key="d3">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703044</data>
+      <data key="d6" />
+    </node>
+    <node id="Discarded Fragment 0 (discarded)">
+      <data key="d0">Discarded Fragment 0 (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">A discarded item with no text or significant content, located on page 0 with a bounding box at [0, 124, 70, 167].</data>
+      <data key="d3">chunk-ff443dd83efb3ea4459abc5e7294ca4e</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766702981</data>
+    </node>
+    <node id="Content Analysis">
+      <data key="d0">Content Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Content Analysis is a process used to extract meaningful information from text, images, and other forms of data.&lt;SEP&gt;Content Analysis is a process of examining and interpreting the meaning of content, including text, images, and other forms of media.</data>
+      <data key="d3">chunk-ff443dd83efb3ea4459abc5e7294ca4e&lt;SEP&gt;chunk-37b1a0758b3c97f58a0236cff06eabf1&lt;SEP&gt;chunk-8c86bd470b6661f6d53741445affb9ee</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703044</data>
+      <data key="d6" />
+    </node>
+    <node id="Discarded Content">
+      <data key="d0">Discarded Content</data>
+      <data key="d1">concept</data>
+      <data key="d2">Discarded Content refers to any content that is deemed irrelevant or unnecessary for the analysis.&lt;SEP&gt;Discarded Content refers to content that has been intentionally removed or discarded from a document or image.</data>
+      <data key="d3">chunk-ff443dd83efb3ea4459abc5e7294ca4e&lt;SEP&gt;chunk-8c86bd470b6661f6d53741445affb9ee</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703044</data>
+      <data key="d6" />
+    </node>
+    <node id="Text">
+      <data key="d0">Text</data>
+      <data key="d1">concept</data>
+      <data key="d2">Text refers to the raw input data used for analysis.&lt;SEP&gt;Text refers to the written or printed content of a document or image.</data>
+      <data key="d3">chunk-ff443dd83efb3ea4459abc5e7294ca4e&lt;SEP&gt;chunk-8c86bd470b6661f6d53741445affb9ee</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703044</data>
+      <data key="d6" />
+    </node>
+    <node id="Images">
+      <data key="d0">Images</data>
+      <data key="d1">concept</data>
+      <data key="d2">Images are a type of data that can be analyzed for meaningful information.</data>
+      <data key="d3">chunk-ff443dd83efb3ea4459abc5e7294ca4e</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703044</data>
+      <data key="d6" />
+    </node>
+    <node id="Discarded Manufacturing Process Description (discarded)">
+      <data key="d0">Discarded Manufacturing Process Description (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">Custom manufacturing services for standard parts, including customization options such as changing borehole diameters and adding additional holes, threads, and nuts. Contact email: mailbox@zipperle-antriebstechnik.de</data>
+      <data key="d3">chunk-37b1a0758b3c97f58a0236cff06eabf1</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703010</data>
+    </node>
+    <node id="Zipperle-Antriebstechnik">
+      <data key="d0">Zipperle-Antriebstechnik</data>
+      <data key="d1">organization</data>
+      <data key="d2">Zipperle-Antriebstechnik is a company that provides manufacturing services, including customization of standard parts.</data>
+      <data key="d3">chunk-37b1a0758b3c97f58a0236cff06eabf1</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703044</data>
+      <data key="d6" />
+    </node>
+    <node id="mailbox@zipperle-antriebstechnik.de">
+      <data key="d0">mailbox@zipperle-antriebstechnik.de</data>
+      <data key="d1">data</data>
+      <data key="d2">mailbox@zipperle-antriebstechnik.de is the email address of Zipperle-Antriebstechnik.</data>
+      <data key="d3">chunk-37b1a0758b3c97f58a0236cff06eabf1</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703046</data>
+      <data key="d6" />
+    </node>
+    <node id="Standard Parts">
+      <data key="d0">Standard Parts</data>
+      <data key="d1">concept</data>
+      <data key="d2">Standard parts are pre-designed and pre-manufactured components used in various industries.</data>
+      <data key="d3">chunk-37b1a0758b3c97f58a0236cff06eabf1</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703046</data>
+      <data key="d6" />
+    </node>
+    <node id="Discarded Fragment (discarded)">
+      <data key="d0">Discarded Fragment (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">Discarded fragment from a multi-page document, with empty text and a bounding box at (907, 246) to (919, 303) on page 1.</data>
+      <data key="d3">chunk-8c86bd470b6661f6d53741445affb9ee</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703034</data>
+    </node>
+    <node id="Document">
+      <data key="d0">Document</data>
+      <data key="d1">concept</data>
+      <data key="d2">Document is a written or printed material, such as a book, article, or report.</data>
+      <data key="d3">chunk-8c86bd470b6661f6d53741445affb9ee</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703046</data>
+      <data key="d6" />
+    </node>
+    <node id="Image">
+      <data key="d0">Image</data>
+      <data key="d1">concept</data>
+      <data key="d2">Image is a visual representation of data, such as a photograph or diagram.</data>
+      <data key="d3">chunk-8c86bd470b6661f6d53741445affb9ee</data>
+      <data key="d4">2_tabs_1_page.pdf</data>
+      <data key="d5">1766703046</data>
+      <data key="d6" />
+    </node>
+    <edge source="Kegelräder" target="Polyacetal">
+      <data key="d7">1.0</data>
+      <data key="d8">Kegelräder werden aus Polyacetal (POM) hergestellt.</data>
+      <data key="d9">herstellung,material</data>
+      <data key="d10">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766702405</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kegelräder" target="Übersetzung 1:2">
+      <data key="d7">1.0</data>
+      <data key="d8">Die Übersetzung 1:2 ist ein wichtiger Aspekt bei der Herstellung von Kegelrädern.</data>
+      <data key="d9">herstellung,verhältnis</data>
+      <data key="d10">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766702405</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kegelräder" target="Ausführung">
+      <data key="d7">1.0</data>
+      <data key="d8">Die Ausführung ist ein wichtiger Aspekt bei der Herstellung von Kegelrädern.</data>
+      <data key="d9">eigenschaften,herstellung</data>
+      <data key="d10">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766702406</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kegelräder" target="geradverzahnt">
+      <data key="d7">1.0</data>
+      <data key="d8">Die Herstellung von Kegelrädern durch Geradverzahnung ist eine Technik.</data>
+      <data key="d9">herstellung,technik</data>
+      <data key="d10">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766702406</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kegelräder" target="gespritzt">
+      <data key="d7">1.0</data>
+      <data key="d8">Die Herstellung von Kegelrädern durch Spritzguss ist eine Technik.</data>
+      <data key="d9">herstellung,technik</data>
+      <data key="d10">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766702406</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kegelräder" target="Eingriffswinkel">
+      <data key="d7">1.0</data>
+      <data key="d8">Der Eingriffswinkel ist ein wichtiger Parameter bei der Herstellung von Kegelrädern.</data>
+      <data key="d9">herstellung,parameter</data>
+      <data key="d10">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766702407</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kegelräder" target="Bohrung">
+      <data key="d7">1.0</data>
+      <data key="d8">Die Bohrung ist ein wichtiger Schritt bei der Herstellung von Kegelrädern.</data>
+      <data key="d9">herstellung,schritt</data>
+      <data key="d10">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766702407</data>
+      <data key="d13" />
+    </edge>
+    <edge source="S. 14" target="Drehmoment">
+      <data key="d7">1.0</data>
+      <data key="d8">Das Drehmoment wird auf Seite 14 erwähnt.</data>
+      <data key="d9">information,referenz</data>
+      <data key="d10">chunk-9d60ca1b6038eecd62b025f61bff076f</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766702406</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Object with Ridges (object)" target="Image Content Analysis">
+      <data key="d8">Entity Image Content Analysis belongs to White Object with Ridges (object)&lt;SEP&gt;Entity Image Content Analysis belongs to White Object with Ridges (object)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703048</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Object with Ridges (object)" target="Image Path">
+      <data key="d8">Entity Image Path belongs to White Object with Ridges (object)&lt;SEP&gt;Entity Image Path belongs to White Object with Ridges (object)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703050</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Object with Ridges (object)" target="Captions">
+      <data key="d8">Entity Captions belongs to White Object with Ridges (object)&lt;SEP&gt;Entity Captions belongs to White Object with Ridges (object)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703049</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Object with Ridges (object)" target="Footnotes">
+      <data key="d8">Entity Footnotes belongs to White Object with Ridges (object)&lt;SEP&gt;Entity Footnotes belongs to White Object with Ridges (object)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703050</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Object with Ridges (object)" target="Visual Analysis">
+      <data key="d8">Entity Visual Analysis belongs to White Object with Ridges (object)&lt;SEP&gt;Entity Visual Analysis belongs to White Object with Ridges (object)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703052</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Object with Ridges (object)" target="World Athletics Championship">
+      <data key="d8">Entity World Athletics Championship belongs to White Object with Ridges (object)&lt;SEP&gt;Entity World Athletics Championship belongs to White Object with Ridges (object)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703050</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Object with Ridges (object)" target="Tokyo">
+      <data key="d8">Entity Tokyo belongs to White Object with Ridges (object)&lt;SEP&gt;Entity Tokyo belongs to White Object with Ridges (object)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703051</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Object with Ridges (object)" target="Noah Carter">
+      <data key="d8">Entity Noah Carter belongs to White Object with Ridges (object)&lt;SEP&gt;Entity Noah Carter belongs to White Object with Ridges (object)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703051</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Object with Ridges (object)" target="100m Sprint Record">
+      <data key="d8">Entity 100m Sprint Record belongs to White Object with Ridges (object)&lt;SEP&gt;Entity 100m Sprint Record belongs to White Object with Ridges (object)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703051</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Object with Ridges (object)" target="Carbon-Fiber Spikes">
+      <data key="d8">Entity Carbon-Fiber Spikes belongs to White Object with Ridges (object)&lt;SEP&gt;Entity Carbon-Fiber Spikes belongs to White Object with Ridges (object)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703052</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Object with Ridges (object)" target="World Athletics Federation">
+      <data key="d8">Entity World Athletics Federation belongs to White Object with Ridges (object)&lt;SEP&gt;Entity World Athletics Federation belongs to White Object with Ridges (object)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703053</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Object with Ridges (object)" target="Visual Style">
+      <data key="d8">Entity Visual Style belongs to White Object with Ridges (object)&lt;SEP&gt;Entity Visual Style belongs to White Object with Ridges (object)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703053</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Object with Ridges (object)" target="Background">
+      <data key="d8">Entity Background belongs to White Object with Ridges (object)&lt;SEP&gt;Entity Background belongs to White Object with Ridges (object)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703054</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Object with Ridges (object)" target="Object">
+      <data key="d8">Entity Object belongs to White Object with Ridges (object)&lt;SEP&gt;Entity Object belongs to White Object with Ridges (object)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703054</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Content Analysis" target="Technical Drawing or Diagram (image)">
+      <data key="d8">Entity Image Content Analysis belongs to Technical Drawing or Diagram (image)&lt;SEP&gt;Entity Image Content Analysis belongs to Technical Drawing or Diagram (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703053</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Content Analysis" target="Visual Analysis">
+      <data key="d7">2.0</data>
+      <data key="d8">Image Content Analysis is used to analyze and understand the content of an image, which is a key aspect of Visual Analysis.&lt;SEP&gt;Image Content Analysis is a part of Visual Analysis.</data>
+      <data key="d9">content understanding,image analysis,visual interpretation</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9&lt;SEP&gt;chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703047</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Path" target="Technical Drawing or Diagram (image)">
+      <data key="d8">Entity Image Path belongs to Technical Drawing or Diagram (image)&lt;SEP&gt;Entity Image Path belongs to Technical Drawing or Diagram (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703054</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Path" target="Captions">
+      <data key="d7">2.0</data>
+      <data key="d8">Image Path is used to store captions, which provide context or information about the image's content.&lt;SEP&gt;The Image Path is related to Captions as they provide context to the image.</data>
+      <data key="d9">description,image metadata,text description</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9&lt;SEP&gt;chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703047</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Path" target="Footnotes">
+      <data key="d7">1.0</data>
+      <data key="d8">Image Path is used to store footnotes, which provide additional information or context about the image's content.</data>
+      <data key="d9">image metadata,reference</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703048</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Captions" target="Technical Drawing or Diagram (image)">
+      <data key="d8">Entity Captions belongs to Technical Drawing or Diagram (image)&lt;SEP&gt;Entity Captions belongs to Technical Drawing or Diagram (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703054</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Captions" target="Footnotes">
+      <data key="d7">1.0</data>
+      <data key="d8">Captions are related to Footnotes as they provide further context to the image.</data>
+      <data key="d9">additional information,text reference</data>
+      <data key="d10">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703051</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Footnotes" target="Technical Drawing or Diagram (image)">
+      <data key="d8">Entity Footnotes belongs to Technical Drawing or Diagram (image)&lt;SEP&gt;Entity Footnotes belongs to Technical Drawing or Diagram (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703055</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Visual Analysis" target="Technical Drawing or Diagram (image)">
+      <data key="d8">Entity Visual Analysis belongs to Technical Drawing or Diagram (image)&lt;SEP&gt;Entity Visual Analysis belongs to Technical Drawing or Diagram (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703055</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Visual Analysis" target="World Athletics Championship">
+      <data key="d7">1.0</data>
+      <data key="d8">Visual Analysis is used to examine and interpret visual data related to the World Athletics Championship.</data>
+      <data key="d9">event analysis,sports competition</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703048</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Visual Analysis" target="Object">
+      <data key="d7">2.0</data>
+      <data key="d8">The object is a white, plastic or ceramic gear or cog.</data>
+      <data key="d9">image interpretation,object description</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703049</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Visual Analysis" target="Technical Drawing">
+      <data key="d7">1.0</data>
+      <data key="d8">Visual Analysis is related to Technical Drawing as it involves the interpretation of visual data.</data>
+      <data key="d9">diagram representation,image interpretation</data>
+      <data key="d10">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703052</data>
+      <data key="d13" />
+    </edge>
+    <edge source="World Athletics Championship" target="Noah Carter">
+      <data key="d7">1.0</data>
+      <data key="d8">Noah Carter is competing at the World Athletics Championship.</data>
+      <data key="d9">athlete participation,competition</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703049</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Noah Carter" target="100m Sprint Record">
+      <data key="d7">1.0</data>
+      <data key="d8">Noah Carter set a new 100m sprint record at the championship.</data>
+      <data key="d9">athlete achievement,record-breaking</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703047</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Noah Carter" target="Carbon-Fiber Spikes">
+      <data key="d7">1.0</data>
+      <data key="d8">Noah Carter used carbon-fiber spikes to enhance performance during the race.</data>
+      <data key="d9">athletic equipment,performance boost</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703048</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Visual Style" target="Object">
+      <data key="d7">2.0</data>
+      <data key="d8">The object in the image is presented in a realistic visual style.&lt;SEP&gt;The object is presented in a realistic visual style.</data>
+      <data key="d9">aesthetic,image composition,image interpretation</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703047</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Background" target="Object">
+      <data key="d7">2.0</data>
+      <data key="d8">The object is placed against a dark gray background.</data>
+      <data key="d9">context,image composition,image interpretation</data>
+      <data key="d10">chunk-0456e6ec1d31fdc1d1123763dd95e1a9</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703048</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technical Drawing or Diagram (image)" target="Technical Drawing">
+      <data key="d8">Entity Technical Drawing belongs to Technical Drawing or Diagram (image)&lt;SEP&gt;Entity Technical Drawing belongs to Technical Drawing or Diagram (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703056</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technical Drawing or Diagram (image)" target="Computer-Aided Design (CAD)">
+      <data key="d8">Entity Computer-Aided Design (CAD) belongs to Technical Drawing or Diagram (image)&lt;SEP&gt;Entity Computer-Aided Design (CAD) belongs to Technical Drawing or Diagram (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703056</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technical Drawing or Diagram (image)" target="Mechanical Component">
+      <data key="d8">Entity Mechanical Component belongs to Technical Drawing or Diagram (image)&lt;SEP&gt;Entity Mechanical Component belongs to Technical Drawing or Diagram (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703057</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technical Drawing or Diagram (image)" target="System">
+      <data key="d8">Entity System belongs to Technical Drawing or Diagram (image)&lt;SEP&gt;Entity System belongs to Technical Drawing or Diagram (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703057</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technical Drawing or Diagram (image)" target="2D Representation">
+      <data key="d8">Entity 2D Representation belongs to Technical Drawing or Diagram (image)&lt;SEP&gt;Entity 2D Representation belongs to Technical Drawing or Diagram (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703058</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technical Drawing" target="Computer-Aided Design (CAD)">
+      <data key="d7">2.0</data>
+      <data key="d8">Technical Drawing is created using Computer-Aided Design (CAD) software.&lt;SEP&gt;Computer-Aided Design (CAD) is used to create Technical Drawings.</data>
+      <data key="d9">diagram creation,software application</data>
+      <data key="d10">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703053</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technical Drawing" target="2D Representation">
+      <data key="d7">1.0</data>
+      <data key="d8">Technical Drawing is a form of 2D Representation.</data>
+      <data key="d9">diagram creation,visual representation</data>
+      <data key="d10">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703054</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mechanical Component" target="System">
+      <data key="d7">1.0</data>
+      <data key="d8">Mechanical components are part of a System.</data>
+      <data key="d9">component,system function</data>
+      <data key="d10">chunk-4b70a6c01850bad9aa29b2f1f1da8d7f</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703052</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Fragment 0 (discarded)" target="Content Analysis">
+      <data key="d8">Entity Content Analysis belongs to Discarded Fragment 0 (discarded)&lt;SEP&gt;Entity Content Analysis belongs to Discarded Fragment 0 (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-ff443dd83efb3ea4459abc5e7294ca4e</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703057</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Fragment 0 (discarded)" target="Discarded Content">
+      <data key="d8">Entity Discarded Content belongs to Discarded Fragment 0 (discarded)&lt;SEP&gt;Entity Discarded Content belongs to Discarded Fragment 0 (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-ff443dd83efb3ea4459abc5e7294ca4e</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703056</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Fragment 0 (discarded)" target="Text">
+      <data key="d8">Entity Text belongs to Discarded Fragment 0 (discarded)&lt;SEP&gt;Entity Text belongs to Discarded Fragment 0 (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-ff443dd83efb3ea4459abc5e7294ca4e</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703057</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Fragment 0 (discarded)" target="Images">
+      <data key="d8">Entity Images belongs to Discarded Fragment 0 (discarded)&lt;SEP&gt;Entity Images belongs to Discarded Fragment 0 (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-ff443dd83efb3ea4459abc5e7294ca4e</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703058</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Discarded Manufacturing Process Description (discarded)">
+      <data key="d8">Entity Content Analysis belongs to Discarded Manufacturing Process Description (discarded)&lt;SEP&gt;Entity Content Analysis belongs to Discarded Manufacturing Process Description (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-37b1a0758b3c97f58a0236cff06eabf1</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703061</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Discarded Fragment (discarded)">
+      <data key="d8">Entity Content Analysis belongs to Discarded Fragment (discarded)&lt;SEP&gt;Entity Content Analysis belongs to Discarded Fragment (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-8c86bd470b6661f6d53741445affb9ee</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703062</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Discarded Content">
+      <data key="d7">2.0</data>
+      <data key="d8">Content Analysis involves categorizing content as relevant or discarded based on its significance and relevance to the analysis.&lt;SEP&gt;Content Analysis involves identifying and removing discarded content from a document or image.</data>
+      <data key="d9">analysis,content categorization,relevance,removal</data>
+      <data key="d10">chunk-ff443dd83efb3ea4459abc5e7294ca4e&lt;SEP&gt;chunk-8c86bd470b6661f6d53741445affb9ee</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703055</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Text">
+      <data key="d7">1.0</data>
+      <data key="d8">Content Analysis involves processing text data to extract meaningful information.</data>
+      <data key="d9">content analysis,text processing</data>
+      <data key="d10">chunk-ff443dd83efb3ea4459abc5e7294ca4e</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703055</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Images">
+      <data key="d7">1.0</data>
+      <data key="d8">Content Analysis can also involve processing image data to extract meaningful information.</data>
+      <data key="d9">content analysis,image processing</data>
+      <data key="d10">chunk-ff443dd83efb3ea4459abc5e7294ca4e</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703056</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Zipperle-Antriebstechnik">
+      <data key="d7">1.0</data>
+      <data key="d8">Content Analysis is related to Zipperle-Antriebstechnik's manufacturing services.</data>
+      <data key="d9">company service,manufacturing</data>
+      <data key="d10">chunk-37b1a0758b3c97f58a0236cff06eabf1</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703058</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Standard Parts">
+      <data key="d7">1.0</data>
+      <data key="d8">Content Analysis is related to the manufacturing of standard parts.</data>
+      <data key="d9">industry application,manufacturing</data>
+      <data key="d10">chunk-37b1a0758b3c97f58a0236cff06eabf1</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703059</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Document">
+      <data key="d7">1.0</data>
+      <data key="d8">Content Analysis involves analyzing and processing documents to extract meaningful information.</data>
+      <data key="d9">analysis,processing</data>
+      <data key="d10">chunk-8c86bd470b6661f6d53741445affb9ee</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703061</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Image">
+      <data key="d7">1.0</data>
+      <data key="d8">Content Analysis also involves analyzing and processing images to extract meaningful information.</data>
+      <data key="d9">analysis,processing</data>
+      <data key="d10">chunk-8c86bd470b6661f6d53741445affb9ee</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703061</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content" target="Discarded Fragment (discarded)">
+      <data key="d8">Entity Discarded Content belongs to Discarded Fragment (discarded)&lt;SEP&gt;Entity Discarded Content belongs to Discarded Fragment (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-8c86bd470b6661f6d53741445affb9ee</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703059</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Text" target="Discarded Fragment (discarded)">
+      <data key="d8">Entity Text belongs to Discarded Fragment (discarded)&lt;SEP&gt;Entity Text belongs to Discarded Fragment (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-8c86bd470b6661f6d53741445affb9ee</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703060</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Manufacturing Process Description (discarded)" target="Zipperle-Antriebstechnik">
+      <data key="d8">Entity Zipperle-Antriebstechnik belongs to Discarded Manufacturing Process Description (discarded)&lt;SEP&gt;Entity Zipperle-Antriebstechnik belongs to Discarded Manufacturing Process Description (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-37b1a0758b3c97f58a0236cff06eabf1</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703059</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Manufacturing Process Description (discarded)" target="mailbox@zipperle-antriebstechnik.de">
+      <data key="d8">Entity mailbox@zipperle-antriebstechnik.de belongs to Discarded Manufacturing Process Description (discarded)&lt;SEP&gt;Entity mailbox@zipperle-antriebstechnik.de belongs to Discarded Manufacturing Process Description (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-37b1a0758b3c97f58a0236cff06eabf1</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703060</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Manufacturing Process Description (discarded)" target="Standard Parts">
+      <data key="d8">Entity Standard Parts belongs to Discarded Manufacturing Process Description (discarded)&lt;SEP&gt;Entity Standard Parts belongs to Discarded Manufacturing Process Description (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-37b1a0758b3c97f58a0236cff06eabf1</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703060</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zipperle-Antriebstechnik" target="mailbox@zipperle-antriebstechnik.de">
+      <data key="d7">1.0</data>
+      <data key="d8">Zipperle-Antriebstechnik's email address is mailbox@zipperle-antriebstechnik.de.</data>
+      <data key="d9">company contact,email</data>
+      <data key="d10">chunk-37b1a0758b3c97f58a0236cff06eabf1</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703057</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zipperle-Antriebstechnik" target="Standard Parts">
+      <data key="d7">1.0</data>
+      <data key="d8">Zipperle-Antriebstechnik provides manufacturing services for standard parts.</data>
+      <data key="d9">company service,manufacturing</data>
+      <data key="d10">chunk-37b1a0758b3c97f58a0236cff06eabf1</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703057</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Fragment (discarded)" target="Document">
+      <data key="d8">Entity Document belongs to Discarded Fragment (discarded)&lt;SEP&gt;Entity Document belongs to Discarded Fragment (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-8c86bd470b6661f6d53741445affb9ee</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703060</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Fragment (discarded)" target="Image">
+      <data key="d8">Entity Image belongs to Discarded Fragment (discarded)&lt;SEP&gt;Entity Image belongs to Discarded Fragment (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-8c86bd470b6661f6d53741445affb9ee</data>
+      <data key="d7">20.0</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703061</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Document" target="Image">
+      <data key="d7">1.0</data>
+      <data key="d8">Documents and images are related in that they can both contain content that is analyzed and processed through Content Analysis.</data>
+      <data key="d9">content,relationship</data>
+      <data key="d10">chunk-8c86bd470b6661f6d53741445affb9ee</data>
+      <data key="d11">2_tabs_1_page.pdf</data>
+      <data key="d12">1766703059</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

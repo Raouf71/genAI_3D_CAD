@@ -1,0 +1,74 @@
+{
+  "Kegelräder<SEP>Polyacetal": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702405,
+    "update_time": 1766702405,
+    "_id": "Kegelräder<SEP>Polyacetal"
+  },
+  "Drehmoment<SEP>S. 14": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702405,
+    "update_time": 1766702405,
+    "_id": "Drehmoment<SEP>S. 14"
+  },
+  "Kegelräder<SEP>Übersetzung 1:2": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702405,
+    "update_time": 1766702405,
+    "_id": "Kegelräder<SEP>Übersetzung 1:2"
+  },
+  "Ausführung<SEP>Kegelräder": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702406,
+    "update_time": 1766702406,
+    "_id": "Ausführung<SEP>Kegelräder"
+  },
+  "Kegelräder<SEP>geradverzahnt": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702406,
+    "update_time": 1766702406,
+    "_id": "Kegelräder<SEP>geradverzahnt"
+  },
+  "Kegelräder<SEP>gespritzt": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702406,
+    "update_time": 1766702406,
+    "_id": "Kegelräder<SEP>gespritzt"
+  },
+  "Eingriffswinkel<SEP>Kegelräder": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702407,
+    "update_time": 1766702407,
+    "_id": "Eingriffswinkel<SEP>Kegelräder"
+  },
+  "Bohrung<SEP>Kegelräder": {
+    "chunk_ids": [
+      "chunk-9d60ca1b6038eecd62b025f61bff076f"
+    ],
+    "count": 1,
+    "create_time": 1766702407,
+    "update_time": 1766702407,
+    "_id": "Bohrung<SEP>Kegelräder"
+  }
+}
