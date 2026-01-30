@@ -1,0 +1,22 @@
+# Residential Rooftop (space/weight limited)
+
+Power Output Range: >= 370 W and <= 420 W
+Maximum Efficiency: >= 22 %
+
+Max Dimensions:
+  Length: <= 1900 mm
+  Width: <= 1000 mm
+  Height: <= 40 mm
+
+Max Weight: <= 22 kg
+
+Certifications (must include):
+  IEC61215
+  UL1703
+
+Temperature coefficient of P_max
+  between -0.2 %/K to -0.5 %/K
+
+Warranty (minimum):
+  Product Warranty: >= 10 years
+  Performance Warranty: >= 10 years
