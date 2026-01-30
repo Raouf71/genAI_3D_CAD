@@ -1,0 +1,878 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        313,
+                        122,
+                        498,
+                        268
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                313,
+                                122,
+                                498,
+                                268
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        122,
+                                        498,
+                                        268
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                313,
+                                                122,
+                                                498,
+                                                268
+                                            ],
+                                            "score": 0.475,
+                                            "type": "image",
+                                            "image_path": "a96d54d21bdea236a523e241fa1e4e82f7cbe0cd531496e7378542e4b0f2f6b9.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        122,
+                                        498,
+                                        140.25
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        140.25,
+                                        498,
+                                        158.5
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        158.5,
+                                        498,
+                                        176.75
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        176.75,
+                                        498,
+                                        195.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        195.0,
+                                        498,
+                                        213.25
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        213.25,
+                                        498,
+                                        231.5
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        231.5,
+                                        498,
+                                        249.75
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        249.75,
+                                        498,
+                                        268.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image_caption",
+                            "bbox": [
+                                303,
+                                283,
+                                518,
+                                299
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        302,
+                                        283,
+                                        517,
+                                        298
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                302,
+                                                283,
+                                                517,
+                                                298
+                                            ],
+                                            "score": 0.98,
+                                            "content": "D: the diameter of the original node",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 16
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 13.25
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        84,
+                        136,
+                        254,
+                        268
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                84,
+                                136,
+                                254,
+                                268
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        84,
+                                        136,
+                                        254,
+                                        268
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                84,
+                                                136,
+                                                254,
+                                                268
+                                            ],
+                                            "score": 0.282,
+                                            "type": "image",
+                                            "image_path": "de1c1821d955f44aac2ac652250fe83a3cfa3ed5e1d314ea5c1dc7e501c6f9b3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        84,
+                                        136,
+                                        254,
+                                        154.85714285714286
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        84,
+                                        154.85714285714286,
+                                        254,
+                                        173.71428571428572
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        84,
+                                        173.71428571428572,
+                                        254,
+                                        192.57142857142858
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        84,
+                                        192.57142857142858,
+                                        254,
+                                        211.42857142857144
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        84,
+                                        211.42857142857144,
+                                        254,
+                                        230.2857142857143
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        84,
+                                        230.2857142857143,
+                                        254,
+                                        249.14285714285717
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        84,
+                                        249.14285714285717,
+                                        254,
+                                        268.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image_caption",
+                            "bbox": [
+                                99,
+                                283,
+                                290,
+                                299
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        282,
+                                        289,
+                                        299
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                99,
+                                                282,
+                                                289,
+                                                299
+                                            ],
+                                            "score": 0.963,
+                                            "content": "B: outer diameter C:Thickness",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 15
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "type": "image_caption",
+                            "bbox": [
+                                187,
+                                307,
+                                388,
+                                323
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        187,
+                                        306,
+                                        388,
+                                        324
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                187,
+                                                306,
+                                                388,
+                                                324
+                                            ],
+                                            "score": 0.975,
+                                            "content": "b: original diameter of tooth root",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 17
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        120,
+                        345,
+                        478,
+                        739
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                120,
+                                345,
+                                478,
+                                739
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        345,
+                                        478,
+                                        739
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                120,
+                                                345,
+                                                478,
+                                                739
+                                            ],
+                                            "score": 0.978,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>Number OfTeeth</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>D</td><td rowspan=1 colspan=1>b</td></tr><tr><td rowspan=1 colspan=1>1 M45 Teeth</td><td rowspan=1 colspan=1>47</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1>42.5</td></tr><tr><td rowspan=1 colspan=1>1M46 Teeth</td><td rowspan=1 colspan=1>48</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1>43.5</td></tr><tr><td rowspan=1 colspan=1>1 M47 Teeth</td><td rowspan=1 colspan=1>49</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>47</td><td rowspan=1 colspan=1>44.5</td></tr><tr><td rowspan=1 colspan=1>1 M 48 Teeth</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>48</td><td rowspan=1 colspan=1>45.5</td></tr><tr><td rowspan=1 colspan=1>1 M 49 Teeth</td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>49</td><td rowspan=1 colspan=1>46.5</td></tr><tr><td rowspan=1 colspan=1>1 M 50Teeth</td><td rowspan=1 colspan=1>52</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>47.5</td></tr><tr><td rowspan=1 colspan=1>1 M51 Teeth</td><td rowspan=1 colspan=1>53</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1>48.5</td></tr><tr><td rowspan=1 colspan=1>1 M52 Teeth</td><td rowspan=1 colspan=1>54</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>52</td><td rowspan=1 colspan=1>49.5</td></tr><tr><td rowspan=1 colspan=1>1 M 53 Teeth</td><td rowspan=1 colspan=1>55</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>53</td><td rowspan=1 colspan=1>50.5</td></tr><tr><td rowspan=1 colspan=1>1M54Teeth</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>54</td><td rowspan=1 colspan=1>51.5</td></tr><tr><td rowspan=1 colspan=1>1M55Teeth</td><td rowspan=1 colspan=1>57</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>55</td><td rowspan=1 colspan=1>52.5</td></tr><tr><td rowspan=1 colspan=1>1M56Teeth</td><td rowspan=1 colspan=1>58</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>53.5</td></tr><tr><td rowspan=1 colspan=1>1M 57 Teeth</td><td rowspan=1 colspan=1>59</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>57</td><td rowspan=1 colspan=1>54.5</td></tr><tr><td rowspan=1 colspan=1>1M 58 Teeth</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>58</td><td rowspan=1 colspan=1>55.5</td></tr><tr><td rowspan=1 colspan=1>1M59Teeth</td><td rowspan=1 colspan=1>61</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>59</td><td rowspan=1 colspan=1>56.5</td></tr><tr><td rowspan=1 colspan=1>1M60 Teeth</td><td rowspan=1 colspan=1>62</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>57.5</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "f1fdb46de66b33c7bb3e927c9fd3cfc7efe914cbbd6341ecb1bb5933afe22114.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 19,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        345,
+                                        478,
+                                        476.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        120,
+                                        476.33333333333337,
+                                        478,
+                                        607.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        120,
+                                        607.6666666666667,
+                                        478,
+                                        739.0000000000001
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        313,
+                        122,
+                        498,
+                        268
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                313,
+                                122,
+                                498,
+                                268
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        122,
+                                        498,
+                                        268
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                313,
+                                                122,
+                                                498,
+                                                268
+                                            ],
+                                            "score": 0.475,
+                                            "type": "image",
+                                            "image_path": "a96d54d21bdea236a523e241fa1e4e82f7cbe0cd531496e7378542e4b0f2f6b9.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        122,
+                                        498,
+                                        140.25
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        140.25,
+                                        498,
+                                        158.5
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        158.5,
+                                        498,
+                                        176.75
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        176.75,
+                                        498,
+                                        195.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        195.0,
+                                        498,
+                                        213.25
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        213.25,
+                                        498,
+                                        231.5
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        231.5,
+                                        498,
+                                        249.75
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        249.75,
+                                        498,
+                                        268.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image_caption",
+                            "bbox": [
+                                303,
+                                283,
+                                518,
+                                299
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        302,
+                                        283,
+                                        517,
+                                        298
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                302,
+                                                283,
+                                                517,
+                                                298
+                                            ],
+                                            "score": 0.98,
+                                            "content": "D: the diameter of the original node",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 16
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 13.25
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        84,
+                        136,
+                        254,
+                        268
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                84,
+                                136,
+                                254,
+                                268
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        84,
+                                        136,
+                                        254,
+                                        268
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                84,
+                                                136,
+                                                254,
+                                                268
+                                            ],
+                                            "score": 0.282,
+                                            "type": "image",
+                                            "image_path": "de1c1821d955f44aac2ac652250fe83a3cfa3ed5e1d314ea5c1dc7e501c6f9b3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        84,
+                                        136,
+                                        254,
+                                        154.85714285714286
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        84,
+                                        154.85714285714286,
+                                        254,
+                                        173.71428571428572
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        84,
+                                        173.71428571428572,
+                                        254,
+                                        192.57142857142858
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        84,
+                                        192.57142857142858,
+                                        254,
+                                        211.42857142857144
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        84,
+                                        211.42857142857144,
+                                        254,
+                                        230.2857142857143
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        84,
+                                        230.2857142857143,
+                                        254,
+                                        249.14285714285717
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        84,
+                                        249.14285714285717,
+                                        254,
+                                        268.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image_caption",
+                            "bbox": [
+                                99,
+                                283,
+                                290,
+                                299
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        282,
+                                        289,
+                                        299
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                99,
+                                                282,
+                                                289,
+                                                299
+                                            ],
+                                            "score": 0.963,
+                                            "content": "B: outer diameter C:Thickness",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 15
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "type": "image_caption",
+                            "bbox": [
+                                187,
+                                307,
+                                388,
+                                323
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        187,
+                                        306,
+                                        388,
+                                        324
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                187,
+                                                306,
+                                                388,
+                                                324
+                                            ],
+                                            "score": 0.975,
+                                            "content": "b: original diameter of tooth root",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 17
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        120,
+                        345,
+                        478,
+                        739
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                120,
+                                345,
+                                478,
+                                739
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        345,
+                                        478,
+                                        739
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                120,
+                                                345,
+                                                478,
+                                                739
+                                            ],
+                                            "score": 0.978,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>Number OfTeeth</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>C</td><td rowspan=1 colspan=1>D</td><td rowspan=1 colspan=1>b</td></tr><tr><td rowspan=1 colspan=1>1 M45 Teeth</td><td rowspan=1 colspan=1>47</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1>42.5</td></tr><tr><td rowspan=1 colspan=1>1M46 Teeth</td><td rowspan=1 colspan=1>48</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1>43.5</td></tr><tr><td rowspan=1 colspan=1>1 M47 Teeth</td><td rowspan=1 colspan=1>49</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>47</td><td rowspan=1 colspan=1>44.5</td></tr><tr><td rowspan=1 colspan=1>1 M 48 Teeth</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>48</td><td rowspan=1 colspan=1>45.5</td></tr><tr><td rowspan=1 colspan=1>1 M 49 Teeth</td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>49</td><td rowspan=1 colspan=1>46.5</td></tr><tr><td rowspan=1 colspan=1>1 M 50Teeth</td><td rowspan=1 colspan=1>52</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>47.5</td></tr><tr><td rowspan=1 colspan=1>1 M51 Teeth</td><td rowspan=1 colspan=1>53</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1>48.5</td></tr><tr><td rowspan=1 colspan=1>1 M52 Teeth</td><td rowspan=1 colspan=1>54</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>52</td><td rowspan=1 colspan=1>49.5</td></tr><tr><td rowspan=1 colspan=1>1 M 53 Teeth</td><td rowspan=1 colspan=1>55</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>53</td><td rowspan=1 colspan=1>50.5</td></tr><tr><td rowspan=1 colspan=1>1M54Teeth</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>54</td><td rowspan=1 colspan=1>51.5</td></tr><tr><td rowspan=1 colspan=1>1M55Teeth</td><td rowspan=1 colspan=1>57</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>55</td><td rowspan=1 colspan=1>52.5</td></tr><tr><td rowspan=1 colspan=1>1M56Teeth</td><td rowspan=1 colspan=1>58</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>53.5</td></tr><tr><td rowspan=1 colspan=1>1M 57 Teeth</td><td rowspan=1 colspan=1>59</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>57</td><td rowspan=1 colspan=1>54.5</td></tr><tr><td rowspan=1 colspan=1>1M 58 Teeth</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>58</td><td rowspan=1 colspan=1>55.5</td></tr><tr><td rowspan=1 colspan=1>1M59Teeth</td><td rowspan=1 colspan=1>61</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>59</td><td rowspan=1 colspan=1>56.5</td></tr><tr><td rowspan=1 colspan=1>1M60 Teeth</td><td rowspan=1 colspan=1>62</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>57.5</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "f1fdb46de66b33c7bb3e927c9fd3cfc7efe914cbbd6341ecb1bb5933afe22114.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 19,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        345,
+                                        478,
+                                        476.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        120,
+                                        476.33333333333337,
+                                        478,
+                                        607.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        120,
+                                        607.6666666666667,
+                                        478,
+                                        739.0000000000001
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

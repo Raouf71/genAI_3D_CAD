@@ -1,0 +1,916 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Gear Technical Drawing (image)">
+      <data key="d0">Gear Technical Drawing (image)</data>
+      <data key="d1">image</data>
+      <data key="d2">A technical drawing of a gear, showcasing its design and features.</data>
+      <data key="d3">chunk-cc488c9d187cb32c874727d189139d0c</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837490</data>
+    </node>
+    <node id="image_19467c3cdf75f649bc57af4868e888b7">
+      <data key="d0">image_19467c3cdf75f649bc57af4868e888b7</data>
+      <data key="d1">image</data>
+      <data key="d2">{ "detailed_description": "The image depicts a technical drawing of a gear, with various measurement...</data>
+      <data key="d3">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837490</data>
+    </node>
+    <node id="Gear Size Table (table)">
+      <data key="d0">Gear Size Table (table)</data>
+      <data key="d1">table</data>
+      <data key="d2">This table presents a list of gear sizes, ranging from 1 M45 to 1 M60, with corresponding values for B, C, D, and b. The data suggests a consistent relationship between gear sizes and values, and can be used as a reference for engineers and designers working with gears.</data>
+      <data key="d3">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837490</data>
+    </node>
+    <node id="Image Content Analysis">
+      <data key="d0">Image Content Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Image Content Analysis is a process that involves analyzing the visual content of an image.&lt;SEP&gt;Image Content Analysis is a process used to extract meaningful information from images.</data>
+      <data key="d3">chunk-cc488c9d187cb32c874727d189139d0c&lt;SEP&gt;chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837525</data>
+      <data key="d6" />
+    </node>
+    <node id="Image Path">
+      <data key="d0">Image Path</data>
+      <data key="d1">data</data>
+      <data key="d2">Image Path refers to the location where the image is stored, in this case, C:\Users\grabe_stud\llm_cad_projekt\RAG\llm_3d_cad\RAG-Anything\ollama-based\multimodal-rag\mid_size_table_gear\one-time-query\naiv\output_mid_table\gear_medium_size_table\auto\images\de1c1821d955f44aac2ac652250fe83a3cfa3ed5e1d314ea5c1dc7e501c6f9b3.jpg&lt;SEP&gt;Image Path is a file path that stores the location of an image.</data>
+      <data key="d3">chunk-cc488c9d187cb32c874727d189139d0c&lt;SEP&gt;chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837525</data>
+      <data key="d6" />
+    </node>
+    <node id="Captions">
+      <data key="d0">Captions</data>
+      <data key="d1">content</data>
+      <data key="d2">Captions are the text descriptions provided for the image, including B: outer diameter C:Thickness and b: original diameter of tooth root&lt;SEP&gt;Captions are text descriptions that provide additional context or information about an image.</data>
+      <data key="d3">chunk-cc488c9d187cb32c874727d189139d0c&lt;SEP&gt;chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837525</data>
+      <data key="d6" />
+    </node>
+    <node id="Footnotes">
+      <data key="d0">Footnotes</data>
+      <data key="d1">content</data>
+      <data key="d2">Footnotes are supplementary notes or references that provide additional context or information, but in this case, there are none.&lt;SEP&gt;Footnotes are supplementary notes or comments that provide additional information or clarification about an image.</data>
+      <data key="d3">chunk-cc488c9d187cb32c874727d189139d0c&lt;SEP&gt;chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837525</data>
+      <data key="d6" />
+    </node>
+    <node id="Visual Analysis">
+      <data key="d0">Visual Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Visual Analysis is the process of examining and interpreting the visual content of an image.</data>
+      <data key="d3">chunk-cc488c9d187cb32c874727d189139d0c&lt;SEP&gt;chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837525</data>
+      <data key="d6" />
+    </node>
+    <node id="Gear Technical Drawing">
+      <data key="d0">Gear Technical Drawing</data>
+      <data key="d1">image</data>
+      <data key="d2">Gear Technical Drawing is a technical illustration of a gear.</data>
+      <data key="d3">chunk-cc488c9d187cb32c874727d189139d0c</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837525</data>
+      <data key="d6" />
+    </node>
+    <node id="Technical Drawing">
+      <data key="d0">Technical Drawing</data>
+      <data key="d1">concept</data>
+      <data key="d2">Technical Drawing is a type of drawing that represents the design or specifications of a technical object, in this case, a gear.&lt;SEP&gt;Technical Drawing is a type of drawing that is used to illustrate the design and features of an object.</data>
+      <data key="d3">chunk-cc488c9d187cb32c874727d189139d0c&lt;SEP&gt;chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837525</data>
+      <data key="d6" />
+    </node>
+    <node id="Gear">
+      <data key="d0">Gear</data>
+      <data key="d1">object</data>
+      <data key="d2">Gear refers to the mechanical component with interlocking teeth that transmit rotational motion.&lt;SEP&gt;Gear is a mechanical component with teeth that transmit rotational motion.</data>
+      <data key="d3">chunk-cc488c9d187cb32c874727d189139d0c&lt;SEP&gt;chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837525</data>
+      <data key="d6" />
+    </node>
+    <node id="Image">
+      <data key="d0">Image</data>
+      <data key="d1">object</data>
+      <data key="d2">Image refers to the visual representation of the technical drawing.&lt;SEP&gt;Image is a visual representation of a scene or object.</data>
+      <data key="d3">chunk-cc488c9d187cb32c874727d189139d0c&lt;SEP&gt;chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837527</data>
+      <data key="d6" />
+    </node>
+    <node id="Central Hub">
+      <data key="d0">Central Hub</data>
+      <data key="d1">content</data>
+      <data key="d2">Central Hub is the central part of the gear that connects the teeth.</data>
+      <data key="d3">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837527</data>
+      <data key="d6" />
+    </node>
+    <node id="Outer Diameter">
+      <data key="d0">Outer Diameter</data>
+      <data key="d1">content</data>
+      <data key="d2">Outer Diameter is the distance from one edge of the gear to the other, measured across the outermost points.</data>
+      <data key="d3">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837527</data>
+      <data key="d6" />
+    </node>
+    <node id="Thickness">
+      <data key="d0">Thickness</data>
+      <data key="d1">content</data>
+      <data key="d2">Thickness refers to the measurement of the gear's depth or width.</data>
+      <data key="d3">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837527</data>
+      <data key="d6" />
+    </node>
+    <node id="Tooth Root">
+      <data key="d0">Tooth Root</data>
+      <data key="d1">content</data>
+      <data key="d2">Tooth Root is the base of the gear tooth, where it connects to the central hub.</data>
+      <data key="d3">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837527</data>
+      <data key="d6" />
+    </node>
+    <node id="Background">
+      <data key="d0">Background</data>
+      <data key="d1">content</data>
+      <data key="d2">Background refers to the area surrounding the gear in the image, which is a plain white or light gray color.</data>
+      <data key="d3">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837527</data>
+      <data key="d6" />
+    </node>
+    <node id="TABLE_AS_JSON">
+      <data key="d0">TABLE_AS_JSON</data>
+      <data key="d1">data</data>
+      <data key="d2">TABLE_AS_JSON is a JSON object containing metadata and table data.</data>
+      <data key="d3">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837527</data>
+      <data key="d6" />
+    </node>
+    <node id="metadata">
+      <data key="d0">metadata</data>
+      <data key="d1">data</data>
+      <data key="d2">metadata is a JSON object containing image path, caption, footnotes, and summary.</data>
+      <data key="d3">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837527</data>
+      <data key="d6" />
+    </node>
+    <node id="image_path">
+      <data key="d0">image_path</data>
+      <data key="d1">data</data>
+      <data key="d2">image_path is a string representing the path to an image.</data>
+      <data key="d3">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837529</data>
+      <data key="d6" />
+    </node>
+    <node id="caption">
+      <data key="d0">caption</data>
+      <data key="d1">data</data>
+      <data key="d2">caption is a string representing a brief description of the image.</data>
+      <data key="d3">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837529</data>
+      <data key="d6" />
+    </node>
+    <node id="footnotes">
+      <data key="d0">footnotes</data>
+      <data key="d1">data</data>
+      <data key="d2">footnotes is a list of strings representing additional information.</data>
+      <data key="d3">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837529</data>
+      <data key="d6" />
+    </node>
+    <node id="summary">
+      <data key="d0">summary</data>
+      <data key="d1">data</data>
+      <data key="d2">summary is a string representing a brief summary.</data>
+      <data key="d3">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837529</data>
+      <data key="d6" />
+    </node>
+    <node id="table">
+      <data key="d0">table</data>
+      <data key="d1">data</data>
+      <data key="d2">table is a JSON object containing table columns and rows.</data>
+      <data key="d3">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837529</data>
+      <data key="d6" />
+    </node>
+    <node id="columns">
+      <data key="d0">columns</data>
+      <data key="d1">data</data>
+      <data key="d2">columns is a list of strings representing table column names.</data>
+      <data key="d3">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837529</data>
+      <data key="d6" />
+    </node>
+    <node id="rows">
+      <data key="d0">rows</data>
+      <data key="d1">data</data>
+      <data key="d2">rows is a list of JSON objects representing table rows.</data>
+      <data key="d3">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837529</data>
+      <data key="d6" />
+    </node>
+    <node id="Number OfTeeth">
+      <data key="d0">Number OfTeeth</data>
+      <data key="d1">data</data>
+      <data key="d2">Number OfTeeth is a string representing the number of teeth in a gear.</data>
+      <data key="d3">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837529</data>
+      <data key="d6" />
+    </node>
+    <node id="B">
+      <data key="d0">B</data>
+      <data key="d1">data</data>
+      <data key="d2">B is a string representing a value.</data>
+      <data key="d3">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837531</data>
+      <data key="d6" />
+    </node>
+    <node id="C">
+      <data key="d0">C</data>
+      <data key="d1">data</data>
+      <data key="d2">C is a string representing a value.</data>
+      <data key="d3">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837531</data>
+      <data key="d6" />
+    </node>
+    <node id="D">
+      <data key="d0">D</data>
+      <data key="d1">data</data>
+      <data key="d2">D is a string representing a value.</data>
+      <data key="d3">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837531</data>
+      <data key="d6" />
+    </node>
+    <node id="b">
+      <data key="d0">b</data>
+      <data key="d1">data</data>
+      <data key="d2">b is a string representing a value.</data>
+      <data key="d3">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d4">gear_medium_size_table.pdf</data>
+      <data key="d5">1765837531</data>
+      <data key="d6" />
+    </node>
+    <edge source="Gear Technical Drawing (image)" target="Image Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image Content Analysis belongs to Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc488c9d187cb32c874727d189139d0c</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837533</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Technical Drawing (image)" target="Image Path">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image Path belongs to Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc488c9d187cb32c874727d189139d0c</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837534</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Technical Drawing (image)" target="Footnotes">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Footnotes belongs to Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc488c9d187cb32c874727d189139d0c</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837534</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Technical Drawing (image)" target="Captions">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Captions belongs to Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc488c9d187cb32c874727d189139d0c</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837535</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Technical Drawing (image)" target="Visual Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Visual Analysis belongs to Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc488c9d187cb32c874727d189139d0c</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837535</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Technical Drawing (image)" target="Technical Drawing">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Technical Drawing belongs to Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc488c9d187cb32c874727d189139d0c</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837536</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Technical Drawing (image)" target="Image">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image belongs to Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc488c9d187cb32c874727d189139d0c</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837537</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Technical Drawing (image)" target="Gear Technical Drawing">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Gear Technical Drawing belongs to Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc488c9d187cb32c874727d189139d0c</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837537</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Technical Drawing (image)" target="Gear">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Gear belongs to Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc488c9d187cb32c874727d189139d0c</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837538</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_19467c3cdf75f649bc57af4868e888b7" target="Image Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image Content Analysis belongs to image_19467c3cdf75f649bc57af4868e888b7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837537</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_19467c3cdf75f649bc57af4868e888b7" target="Image Path">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image Path belongs to image_19467c3cdf75f649bc57af4868e888b7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837537</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_19467c3cdf75f649bc57af4868e888b7" target="Captions">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Captions belongs to image_19467c3cdf75f649bc57af4868e888b7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837538</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_19467c3cdf75f649bc57af4868e888b7" target="Footnotes">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Footnotes belongs to image_19467c3cdf75f649bc57af4868e888b7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837538</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_19467c3cdf75f649bc57af4868e888b7" target="Visual Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Visual Analysis belongs to image_19467c3cdf75f649bc57af4868e888b7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837539</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_19467c3cdf75f649bc57af4868e888b7" target="Technical Drawing">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Technical Drawing belongs to image_19467c3cdf75f649bc57af4868e888b7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837539</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_19467c3cdf75f649bc57af4868e888b7" target="Central Hub">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Central Hub belongs to image_19467c3cdf75f649bc57af4868e888b7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837539</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_19467c3cdf75f649bc57af4868e888b7" target="Outer Diameter">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Outer Diameter belongs to image_19467c3cdf75f649bc57af4868e888b7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837540</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_19467c3cdf75f649bc57af4868e888b7" target="Thickness">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Thickness belongs to image_19467c3cdf75f649bc57af4868e888b7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837540</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_19467c3cdf75f649bc57af4868e888b7" target="Tooth Root">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Tooth Root belongs to image_19467c3cdf75f649bc57af4868e888b7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837541</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_19467c3cdf75f649bc57af4868e888b7" target="Image">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image belongs to image_19467c3cdf75f649bc57af4868e888b7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837542</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_19467c3cdf75f649bc57af4868e888b7" target="Gear">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Gear belongs to image_19467c3cdf75f649bc57af4868e888b7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837543</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_19467c3cdf75f649bc57af4868e888b7" target="Background">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Background belongs to image_19467c3cdf75f649bc57af4868e888b7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837543</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Size Table (table)" target="TABLE_AS_JSON">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity TABLE_AS_JSON belongs to Gear Size Table (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837544</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Size Table (table)" target="metadata">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity metadata belongs to Gear Size Table (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837545</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Size Table (table)" target="image_path">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity image_path belongs to Gear Size Table (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837546</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Size Table (table)" target="caption">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity caption belongs to Gear Size Table (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837546</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Size Table (table)" target="footnotes">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity footnotes belongs to Gear Size Table (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837547</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Size Table (table)" target="summary">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity summary belongs to Gear Size Table (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837547</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Size Table (table)" target="table">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity table belongs to Gear Size Table (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837547</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Size Table (table)" target="columns">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity columns belongs to Gear Size Table (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Size Table (table)" target="rows">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity rows belongs to Gear Size Table (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Size Table (table)" target="Number OfTeeth">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Number OfTeeth belongs to Gear Size Table (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Size Table (table)" target="B">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity B belongs to Gear Size Table (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837549</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Size Table (table)" target="C">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity C belongs to Gear Size Table (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837549</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Size Table (table)" target="D">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity D belongs to Gear Size Table (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837549</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Size Table (table)" target="b">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity b belongs to Gear Size Table (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837549</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Content Analysis" target="Gear Technical Drawing">
+      <data key="d7">1.0</data>
+      <data key="d8">Image Content Analysis involves analyzing the visual content of the Gear Technical Drawing.</data>
+      <data key="d9">image analysis,technical illustration</data>
+      <data key="d10">chunk-cc488c9d187cb32c874727d189139d0c</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837532</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Content Analysis" target="Visual Analysis">
+      <data key="d7">3.0</data>
+      <data key="d8">Image Content Analysis is used to extract meaningful information from images, which is then analyzed visually.&lt;SEP&gt;Image Content Analysis is closely related to Visual Analysis.&lt;SEP&gt;Visual Analysis is a key component of Image Content Analysis.</data>
+      <data key="d9">analysis,content extraction,image analysis,image interpretation,image processing,interpretation</data>
+      <data key="d10">chunk-cc488c9d187cb32c874727d189139d0c&lt;SEP&gt;chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837533</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Path" target="Captions">
+      <data key="d7">2.0</data>
+      <data key="d8">The image path and captions provide metadata about the image, including its location and text descriptions.&lt;SEP&gt;The Image Path is associated with Captions.</data>
+      <data key="d9">file path,image metadata,text description</data>
+      <data key="d10">chunk-cc488c9d187cb32c874727d189139d0c&lt;SEP&gt;chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837532</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Captions" target="Image">
+      <data key="d7">1.0</data>
+      <data key="d8">Captions provide additional context for the Image.</data>
+      <data key="d9">text description,visual content</data>
+      <data key="d10">chunk-cc488c9d187cb32c874727d189139d0c</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837533</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Captions" target="Footnotes">
+      <data key="d7">1.0</data>
+      <data key="d8">The captions are the primary text descriptions, while the footnotes are supplementary notes that provide additional context.</data>
+      <data key="d9">supplementary notes,text description</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837535</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Footnotes" target="Image">
+      <data key="d7">1.0</data>
+      <data key="d8">Footnotes are related to the Image.</data>
+      <data key="d9">supplementary notes,visual content</data>
+      <data key="d10">chunk-cc488c9d187cb32c874727d189139d0c</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837532</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Visual Analysis" target="Gear Technical Drawing">
+      <data key="d7">1.0</data>
+      <data key="d8">Visual Analysis involves examining and interpreting the visual content of the Gear Technical Drawing.</data>
+      <data key="d9">image interpretation,technical illustration</data>
+      <data key="d10">chunk-cc488c9d187cb32c874727d189139d0c</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837533</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Visual Analysis" target="Technical Drawing">
+      <data key="d7">1.0</data>
+      <data key="d8">The visual analysis of the image is used to interpret the technical drawing of the gear.</data>
+      <data key="d9">design specification,image interpretation</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837535</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Technical Drawing" target="Technical Drawing">
+      <data key="d7">1.0</data>
+      <data key="d8">The Gear Technical Drawing is an example of a Technical Drawing.</data>
+      <data key="d9">design,illustration</data>
+      <data key="d10">chunk-cc488c9d187cb32c874727d189139d0c</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837534</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear Technical Drawing" target="Gear">
+      <data key="d7">1.0</data>
+      <data key="d8">The Gear Technical Drawing illustrates the design and features of a Gear.</data>
+      <data key="d9">illustration,mechanical component</data>
+      <data key="d10">chunk-cc488c9d187cb32c874727d189139d0c</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837534</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technical Drawing" target="Gear">
+      <data key="d7">1.0</data>
+      <data key="d8">The technical drawing represents the design specifications of the gear, a mechanical component.</data>
+      <data key="d9">design specification,mechanical component</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837539</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear" target="Background">
+      <data key="d7">1.0</data>
+      <data key="d8">The background of the image provides context for the gear, a mechanical component.</data>
+      <data key="d9">image context,mechanical component</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837540</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Central Hub" target="Outer Diameter">
+      <data key="d7">1.0</data>
+      <data key="d8">The central hub is a component of the gear, and its outer diameter is a measurement.</data>
+      <data key="d9">gear component,measurement</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837535</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Central Hub" target="Tooth Root">
+      <data key="d7">1.0</data>
+      <data key="d8">The tooth root connects to the central hub, which is a component of the gear.</data>
+      <data key="d9">connection,gear component</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837536</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Outer Diameter" target="Thickness">
+      <data key="d7">1.0</data>
+      <data key="d8">The outer diameter and thickness are measurements of the gear's dimensions.</data>
+      <data key="d9">depth,gear measurement</data>
+      <data key="d10">chunk-45f25c59c64dcfa3974cb011e6684358</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837536</data>
+      <data key="d13" />
+    </edge>
+    <edge source="TABLE_AS_JSON" target="metadata">
+      <data key="d7">1.0</data>
+      <data key="d8">TABLE_AS_JSON contains metadata about the table data.</data>
+      <data key="d9">data connection,metadata</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837540</data>
+      <data key="d13" />
+    </edge>
+    <edge source="metadata" target="image_path">
+      <data key="d7">1.0</data>
+      <data key="d8">metadata contains the image path.</data>
+      <data key="d9">data connection,image</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837541</data>
+      <data key="d13" />
+    </edge>
+    <edge source="metadata" target="caption">
+      <data key="d7">1.0</data>
+      <data key="d8">metadata contains the caption.</data>
+      <data key="d9">caption,data connection</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837541</data>
+      <data key="d13" />
+    </edge>
+    <edge source="metadata" target="footnotes">
+      <data key="d7">1.0</data>
+      <data key="d8">metadata contains the footnotes.</data>
+      <data key="d9">data connection,footnotes</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837542</data>
+      <data key="d13" />
+    </edge>
+    <edge source="metadata" target="summary">
+      <data key="d7">1.0</data>
+      <data key="d8">metadata contains the summary.</data>
+      <data key="d9">data connection,summary</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837543</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table" target="columns">
+      <data key="d7">1.0</data>
+      <data key="d8">table contains the table columns.</data>
+      <data key="d9">columns,data connection</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837541</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table" target="rows">
+      <data key="d7">1.0</data>
+      <data key="d8">table contains the table rows.</data>
+      <data key="d9">data connection,rows</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837542</data>
+      <data key="d13" />
+    </edge>
+    <edge source="columns" target="rows">
+      <data key="d7">1.0</data>
+      <data key="d8">columns are related to rows in the table.</data>
+      <data key="d9">data connection,table structure</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837544</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Number OfTeeth" target="B">
+      <data key="d7">1.0</data>
+      <data key="d8">Number OfTeeth is related to B.</data>
+      <data key="d9">correlation,data relationship</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837542</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Number OfTeeth" target="C">
+      <data key="d7">1.0</data>
+      <data key="d8">Number OfTeeth is related to C.</data>
+      <data key="d9">correlation,data relationship</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837543</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Number OfTeeth" target="D">
+      <data key="d7">1.0</data>
+      <data key="d8">Number OfTeeth is related to D.</data>
+      <data key="d9">correlation,data relationship</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837543</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Number OfTeeth" target="b">
+      <data key="d7">1.0</data>
+      <data key="d8">Number OfTeeth is related to b.</data>
+      <data key="d9">correlation,data relationship</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837544</data>
+      <data key="d13" />
+    </edge>
+    <edge source="B" target="C">
+      <data key="d7">1.0</data>
+      <data key="d8">B is related to C.</data>
+      <data key="d9">correlation,data relationship</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837543</data>
+      <data key="d13" />
+    </edge>
+    <edge source="B" target="D">
+      <data key="d7">1.0</data>
+      <data key="d8">B is related to D.</data>
+      <data key="d9">correlation,data relationship</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837546</data>
+      <data key="d13" />
+    </edge>
+    <edge source="B" target="b">
+      <data key="d7">1.0</data>
+      <data key="d8">B is related to b.</data>
+      <data key="d9">correlation,data relationship</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837546</data>
+      <data key="d13" />
+    </edge>
+    <edge source="C" target="D">
+      <data key="d7">1.0</data>
+      <data key="d8">C is related to D.</data>
+      <data key="d9">correlation,data relationship</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837545</data>
+      <data key="d13" />
+    </edge>
+    <edge source="C" target="b">
+      <data key="d7">1.0</data>
+      <data key="d8">C is related to b.</data>
+      <data key="d9">correlation,data relationship</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837546</data>
+      <data key="d13" />
+    </edge>
+    <edge source="D" target="b">
+      <data key="d7">1.0</data>
+      <data key="d8">D is related to b.</data>
+      <data key="d9">correlation,data relationship</data>
+      <data key="d10">chunk-3fe0089f0a92ebf26d3751625763699b</data>
+      <data key="d11">gear_medium_size_table.pdf</data>
+      <data key="d12">1765837545</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

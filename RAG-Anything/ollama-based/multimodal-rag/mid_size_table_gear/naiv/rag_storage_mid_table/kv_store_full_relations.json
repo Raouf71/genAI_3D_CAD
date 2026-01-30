@@ -1,0 +1,286 @@
+{
+  "doc-d0f77f34c29772ec3575a4a86c10dd98": {
+    "relation_pairs": [
+      [
+        "B",
+        "C"
+      ],
+      [
+        "C",
+        "Gear Size Table (table)"
+      ],
+      [
+        "D",
+        "Gear Size Table (table)"
+      ],
+      [
+        "Captions",
+        "Image"
+      ],
+      [
+        "B",
+        "b"
+      ],
+      [
+        "columns",
+        "rows"
+      ],
+      [
+        "Footnotes",
+        "Gear Technical Drawing (image)"
+      ],
+      [
+        "caption",
+        "metadata"
+      ],
+      [
+        "C",
+        "b"
+      ],
+      [
+        "D",
+        "b"
+      ],
+      [
+        "Central Hub",
+        "Outer Diameter"
+      ],
+      [
+        "Central Hub",
+        "image_19467c3cdf75f649bc57af4868e888b7"
+      ],
+      [
+        "B",
+        "D"
+      ],
+      [
+        "Gear Size Table (table)",
+        "Number OfTeeth"
+      ],
+      [
+        "Gear Size Table (table)",
+        "TABLE_AS_JSON"
+      ],
+      [
+        "Number OfTeeth",
+        "b"
+      ],
+      [
+        "rows",
+        "table"
+      ],
+      [
+        "Gear Size Table (table)",
+        "image_path"
+      ],
+      [
+        "Captions",
+        "Image Path"
+      ],
+      [
+        "C",
+        "D"
+      ],
+      [
+        "Image Content Analysis",
+        "Visual Analysis"
+      ],
+      [
+        "Tooth Root",
+        "image_19467c3cdf75f649bc57af4868e888b7"
+      ],
+      [
+        "Gear Size Table (table)",
+        "table"
+      ],
+      [
+        "Technical Drawing",
+        "Visual Analysis"
+      ],
+      [
+        "Background",
+        "Gear"
+      ],
+      [
+        "Gear Size Table (table)",
+        "columns"
+      ],
+      [
+        "Gear",
+        "Technical Drawing"
+      ],
+      [
+        "Gear Size Table (table)",
+        "rows"
+      ],
+      [
+        "B",
+        "Number OfTeeth"
+      ],
+      [
+        "Captions",
+        "Footnotes"
+      ],
+      [
+        "Gear Technical Drawing",
+        "Image Content Analysis"
+      ],
+      [
+        "Gear",
+        "Gear Technical Drawing (image)"
+      ],
+      [
+        "Captions",
+        "Gear Technical Drawing (image)"
+      ],
+      [
+        "Thickness",
+        "image_19467c3cdf75f649bc57af4868e888b7"
+      ],
+      [
+        "D",
+        "Number OfTeeth"
+      ],
+      [
+        "Footnotes",
+        "image_19467c3cdf75f649bc57af4868e888b7"
+      ],
+      [
+        "Gear Size Table (table)",
+        "caption"
+      ],
+      [
+        "C",
+        "Number OfTeeth"
+      ],
+      [
+        "Gear Technical Drawing",
+        "Visual Analysis"
+      ],
+      [
+        "Gear Technical Drawing (image)",
+        "Image"
+      ],
+      [
+        "Gear Technical Drawing",
+        "Technical Drawing"
+      ],
+      [
+        "Image",
+        "image_19467c3cdf75f649bc57af4868e888b7"
+      ],
+      [
+        "Gear Technical Drawing (image)",
+        "Image Content Analysis"
+      ],
+      [
+        "Gear Size Table (table)",
+        "footnotes"
+      ],
+      [
+        "Gear Size Table (table)",
+        "summary"
+      ],
+      [
+        "Image Content Analysis",
+        "image_19467c3cdf75f649bc57af4868e888b7"
+      ],
+      [
+        "Gear",
+        "Gear Technical Drawing"
+      ],
+      [
+        "Captions",
+        "image_19467c3cdf75f649bc57af4868e888b7"
+      ],
+      [
+        "Gear",
+        "image_19467c3cdf75f649bc57af4868e888b7"
+      ],
+      [
+        "Gear Technical Drawing",
+        "Gear Technical Drawing (image)"
+      ],
+      [
+        "Central Hub",
+        "Tooth Root"
+      ],
+      [
+        "Gear Size Table (table)",
+        "metadata"
+      ],
+      [
+        "image_path",
+        "metadata"
+      ],
+      [
+        "Technical Drawing",
+        "image_19467c3cdf75f649bc57af4868e888b7"
+      ],
+      [
+        "Image Path",
+        "image_19467c3cdf75f649bc57af4868e888b7"
+      ],
+      [
+        "Gear Technical Drawing (image)",
+        "Visual Analysis"
+      ],
+      [
+        "Footnotes",
+        "Image"
+      ],
+      [
+        "Outer Diameter",
+        "Thickness"
+      ],
+      [
+        "Background",
+        "image_19467c3cdf75f649bc57af4868e888b7"
+      ],
+      [
+        "columns",
+        "table"
+      ],
+      [
+        "metadata",
+        "summary"
+      ],
+      [
+        "Gear Technical Drawing (image)",
+        "Image Path"
+      ],
+      [
+        "Outer Diameter",
+        "image_19467c3cdf75f649bc57af4868e888b7"
+      ],
+      [
+        "Gear Technical Drawing (image)",
+        "Technical Drawing"
+      ],
+      [
+        "TABLE_AS_JSON",
+        "metadata"
+      ],
+      [
+        "Visual Analysis",
+        "image_19467c3cdf75f649bc57af4868e888b7"
+      ],
+      [
+        "Gear Size Table (table)",
+        "b"
+      ],
+      [
+        "B",
+        "Gear Size Table (table)"
+      ],
+      [
+        "footnotes",
+        "metadata"
+      ]
+    ],
+    "count": 69,
+    "create_time": 1765837550,
+    "update_time": 1765837550,
+    "_id": "doc-d0f77f34c29772ec3575a4a86c10dd98"
+  }
+}

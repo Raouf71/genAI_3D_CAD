@@ -1,0 +1,56 @@
+{
+  "chunk-cc488c9d187cb32c874727d189139d0c": {
+    "content": "\nImage Content Analysis:\nImage Path: C:\\Users\\grabe_stud\\llm_cad_projekt\\RAG\\llm_3d_cad\\RAG-Anything\\ollama-based\\multimodal-rag\\mid_size_table_gear\\one-time-query\\naiv\\output_mid_table\\gear_medium_size_table\\auto\\images\\a96d54d21bdea236a523e241fa1e4e82f7cbe0cd531496e7378542e4b0f2f6b9.jpg\nCaptions: D: the diameter of the original node \nFootnotes: None\n\nVisual Analysis: The image depicts a technical drawing of a gear, showcasing its design and features. The gear is circular in shape, with a central hole and teeth that are evenly spaced around its circumference. The gear is positioned at an angle, with its top edge slightly tilted towards the viewer. The background of the image is white, providing a clean and neutral backdrop for the gear. The overall composition and layout of the image are simple and straightforward, with the gear being the central focus. The visual style is technical and precise, with clear lines and shapes that convey a sense of accuracy and attention to detail. The image does not show any text or other visual elements beyond the gear itself. The relationships between the elements are straightforward, with the gear being the only object in the image. The image does not show any actions or activities. The technical details of the image include the use of a central hole and evenly spaced teeth, which are characteristic features of a gear. The image does not include any charts or diagrams. The entity name for this image is 'Gear Technical Drawing'. The entity type is 'image'. The summary of the image is 'A technical drawing of a gear, showcasing its design and features.'",
+    "tokens": 376,
+    "full_doc_id": "doc-d0f77f34c29772ec3575a4a86c10dd98",
+    "chunk_order_index": 0,
+    "file_path": "gear_medium_size_table.pdf",
+    "llm_cache_list": [
+      "default:extract:b5989f0ce5983208ae82ed7ff3903872",
+      "default:extract:4ca7e0da3bf9c3713c9f9b41b3d346de"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Gear Technical Drawing (image)",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1765837489,
+    "update_time": 1765837525,
+    "_id": "chunk-cc488c9d187cb32c874727d189139d0c"
+  },
+  "chunk-45f25c59c64dcfa3974cb011e6684358": {
+    "content": "\nImage Content Analysis:\nImage Path: C:\\Users\\grabe_stud\\llm_cad_projekt\\RAG\\llm_3d_cad\\RAG-Anything\\ollama-based\\multimodal-rag\\mid_size_table_gear\\one-time-query\\naiv\\output_mid_table\\gear_medium_size_table\\auto\\images\\de1c1821d955f44aac2ac652250fe83a3cfa3ed5e1d314ea5c1dc7e501c6f9b3.jpg\nCaptions: B: outer diameter C:Thickness , b: original diameter of tooth root \nFootnotes: None\n\nVisual Analysis: { \"detailed_description\": \"The image depicts a technical drawing of a gear, with various measurements and labels. The gear is represented by a series of interconnected teeth, with a central hub and a outer diameter. The drawing is annotated with several labels and measurements, including the outer diameter (B), thickness (C), and original diameter of the tooth root (b). The image appears to be a technical drawing or blueprint, likely used for engineering or manufacturing purposes. The drawing is rendered in a simple, line-based style, with no additional features or details. The background is a plain white or light gray color, which helps to focus attention on the gear and its measurements. Overall, the image provides a clear and accurate visual representation of the gear's design and dimensions, making it useful for engineers, manufacturers, and others who need to understand the gear's specifications.\" }",
+    "tokens": 320,
+    "full_doc_id": "doc-d0f77f34c29772ec3575a4a86c10dd98",
+    "chunk_order_index": 1,
+    "file_path": "gear_medium_size_table.pdf",
+    "llm_cache_list": [
+      "default:extract:1138c27446961591b8632e98ff87750b",
+      "default:extract:1891eb1906189faf45c16beb6325e274"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_19467c3cdf75f649bc57af4868e888b7",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1765837489,
+    "update_time": 1765837525,
+    "_id": "chunk-45f25c59c64dcfa3974cb011e6684358"
+  },
+  "chunk-3fe0089f0a92ebf26d3751625763699b": {
+    "content": "TABLE_AS_JSON:\n{\n  \"metadata\": {\n    \"image_path\": \"C:\\\\Users\\\\grabe_stud\\\\llm_cad_projekt\\\\RAG\\\\llm_3d_cad\\\\RAG-Anything\\\\ollama-based\\\\multimodal-rag\\\\mid_size_table_gear\\\\one-time-query\\\\naiv\\\\output_mid_table\\\\gear_medium_size_table\\\\auto\\\\images\\\\f1fdb46de66b33c7bb3e927c9fd3cfc7efe914cbbd6341ecb1bb5933afe22114.jpg\",\n    \"caption\": \"\",\n    \"footnotes\": [],\n    \"summary\": \"\"\n  },\n  \"table\": {\n    \"columns\": [\n      \"Number OfTeeth\",\n      \"B\",\n      \"C\",\n      \"D\",\n      \"b\"\n    ],\n    \"rows\": [\n      {\n        \"Number OfTeeth\": \"1 M45 Teeth\",\n        \"B\": \"47\",\n        \"C\": \"10\",\n        \"D\": \"45\",\n        \"b\": \"42.5\"\n      },\n      {\n        \"Number OfTeeth\": \"1M46 Teeth\",\n        \"B\": \"48\",\n        \"C\": \"10\",\n        \"D\": \"46\",\n        \"b\": \"43.5\"\n      },\n      {\n        \"Number OfTeeth\": \"1 M47 Teeth\",\n        \"B\": \"49\",\n        \"C\": \"10\",\n        \"D\": \"47\",\n        \"b\": \"44.5\"\n      },\n      {\n        \"Number OfTeeth\": \"1 M 48 Teeth\",\n        \"B\": \"50\",\n        \"C\": \"10\",\n        \"D\": \"48\",\n        \"b\": \"45.5\"\n      },\n      {\n        \"Number OfTeeth\": \"1 M 49 Teeth\",\n        \"B\": \"51\",\n        \"C\": \"10\",\n        \"D\": \"49\",\n        \"b\": \"46.5\"\n      },\n      {\n        \"Number OfTeeth\": \"1 M 50Teeth\",\n        \"B\": \"52\",\n        \"C\": \"10\",\n        \"D\": \"50\",\n        \"b\": \"47.5\"\n      },\n      {\n        \"Number OfTeeth\": \"1 M51 Teeth\",\n        \"B\": \"53\",\n        \"C\": \"10\",\n        \"D\": \"51\",\n        \"b\": \"48.5\"\n      },\n      {\n        \"Number OfTeeth\": \"1 M52 Teeth\",\n        \"B\": \"54\",\n        \"C\": \"10\",\n        \"D\": \"52\",\n        \"b\": \"49.5\"\n      },\n      {\n        \"Number OfTeeth\": \"1 M 53 Teeth\",\n        \"B\": \"55\",\n        \"C\": \"10\",\n        \"D\": \"53\",\n        \"b\": \"50.5\"\n      },\n      {\n        \"Number OfTeeth\": \"1M54Teeth\",\n        \"B\": \"56\",\n        \"C\": \"10\",\n        \"D\": \"54\",\n        \"b\": \"51.5\"\n      },\n      {\n        \"Number OfTeeth\": \"1M55Teeth\",\n        \"B\": \"57\",\n        \"C\": \"10\",\n        \"D\": \"55\",\n        \"b\": \"52.5\"\n      },\n      {\n        \"Number OfTeeth\": \"1M56Teeth\",\n        \"B\": \"58\",\n        \"C\": \"10\",\n        \"D\": \"56\",\n        \"b\": \"53.5\"\n      },\n      {\n        \"Number OfTeeth\": \"1M 57 Teeth\",\n        \"B\": \"59\",\n        \"C\": \"10\",\n        \"D\": \"57\",\n        \"b\": \"54.5\"\n      },\n      {\n        \"Number OfTeeth\": \"1M 58 Teeth\",\n        \"B\": \"60\",\n        \"C\": \"10\",\n        \"D\": \"58\",\n        \"b\": \"55.5\"\n      },\n      {\n        \"Number OfTeeth\": \"1M59Teeth\",\n        \"B\": \"61\",\n        \"C\": \"10\",\n        \"D\": \"59\",\n        \"b\": \"56.5\"\n      },\n      {\n        \"Number OfTeeth\": \"1M60 Teeth\",\n        \"B\": \"62\",\n        \"C\": \"10\",\n        \"D\": \"60\",\n        \"b\": \"57.5\"\n      }\n    ]\n  }\n}\n",
+    "tokens": 950,
+    "full_doc_id": "doc-d0f77f34c29772ec3575a4a86c10dd98",
+    "chunk_order_index": 2,
+    "file_path": "gear_medium_size_table.pdf",
+    "llm_cache_list": [
+      "default:extract:d29e6ef869283c2c3f82bc74142a1309",
+      "default:extract:d904257abba3333c8cead0ea796c4c7b"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Gear Size Table (table)",
+    "original_type": "table",
+    "page_idx": 0,
+    "create_time": 1765837489,
+    "update_time": 1765837525,
+    "_id": "chunk-3fe0089f0a92ebf26d3751625763699b"
+  }
+}
