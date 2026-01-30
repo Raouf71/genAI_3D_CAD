@@ -1,0 +1,65 @@
+{
+  "Stirnrader aus Polyacetal": {
+    "chunk_ids": [
+      "chunk-0aec83ac5113f778340a3ad27ba647dc"
+    ],
+    "count": 1,
+    "create_time": 1765827289,
+    "update_time": 1765827289,
+    "_id": "Stirnrader aus Polyacetal"
+  },
+  "Modul 1,25": {
+    "chunk_ids": [
+      "chunk-0aec83ac5113f778340a3ad27ba647dc"
+    ],
+    "count": 1,
+    "create_time": 1765827289,
+    "update_time": 1765827289,
+    "_id": "Modul 1,25"
+  },
+  "geradverzahnt": {
+    "chunk_ids": [
+      "chunk-0aec83ac5113f778340a3ad27ba647dc"
+    ],
+    "count": 1,
+    "create_time": 1765827289,
+    "update_time": 1765827289,
+    "_id": "geradverzahnt"
+  },
+  "gespritzt": {
+    "chunk_ids": [
+      "chunk-0aec83ac5113f778340a3ad27ba647dc"
+    ],
+    "count": 1,
+    "create_time": 1765827289,
+    "update_time": 1765827289,
+    "_id": "gespritzt"
+  },
+  "Eingriffswinkel": {
+    "chunk_ids": [
+      "chunk-0aec83ac5113f778340a3ad27ba647dc"
+    ],
+    "count": 1,
+    "create_time": 1765827289,
+    "update_time": 1765827289,
+    "_id": "Eingriffswinkel"
+  },
+  "$2 0 ^ { \\circ }$": {
+    "chunk_ids": [
+      "chunk-0aec83ac5113f778340a3ad27ba647dc"
+    ],
+    "count": 1,
+    "create_time": 1765827289,
+    "update_time": 1765827289,
+    "_id": "$2 0 ^ { \\circ }$"
+  },
+  "MaBanderung": {
+    "chunk_ids": [
+      "chunk-0aec83ac5113f778340a3ad27ba647dc"
+    ],
+    "count": 1,
+    "create_time": 1765827289,
+    "update_time": 1765827289,
+    "_id": "MaBanderung"
+  }
+}

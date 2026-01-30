@@ -1,0 +1,1499 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Stirnrader aus Polyacetal">
+      <data key="d0">Stirnrader aus Polyacetal</data>
+      <data key="d1">concept</data>
+      <data key="d2">Stirnrader aus Polyacetal refers to a type of material or component made from polyacetal.</data>
+      <data key="d3">chunk-0aec83ac5113f778340a3ad27ba647dc</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827289</data>
+      <data key="d6" />
+    </node>
+    <node id="Modul 1,25">
+      <data key="d0">Modul 1,25</data>
+      <data key="d1">concept</data>
+      <data key="d2">Modul 1,25 is a specific module or component with a designation of 1.25.</data>
+      <data key="d3">chunk-0aec83ac5113f778340a3ad27ba647dc</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827289</data>
+      <data key="d6" />
+    </node>
+    <node id="geradverzahnt">
+      <data key="d0">geradverzahnt</data>
+      <data key="d1">concept</data>
+      <data key="d2">geradverzahnt is a term describing a type of gear or component with straight teeth.</data>
+      <data key="d3">chunk-0aec83ac5113f778340a3ad27ba647dc</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827289</data>
+      <data key="d6" />
+    </node>
+    <node id="gespritzt">
+      <data key="d0">gespritzt</data>
+      <data key="d1">concept</data>
+      <data key="d2">gespritzt is a term describing a manufacturing process, specifically injection molding.</data>
+      <data key="d3">chunk-0aec83ac5113f778340a3ad27ba647dc</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827289</data>
+      <data key="d6" />
+    </node>
+    <node id="Eingriffswinkel">
+      <data key="d0">Eingriffswinkel</data>
+      <data key="d1">concept</data>
+      <data key="d2">Eingriffswinkel refers to the angle of engagement for gears or components.</data>
+      <data key="d3">chunk-0aec83ac5113f778340a3ad27ba647dc</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827289</data>
+      <data key="d6" />
+    </node>
+    <node id="$2 0 ^ { \circ }$">
+      <data key="d0">$2 0 ^ { \circ }$</data>
+      <data key="d1">concept</data>
+      <data key="d2">$2 0 ^ { \circ }$ represents a specific angle measurement in degrees.</data>
+      <data key="d3">chunk-0aec83ac5113f778340a3ad27ba647dc</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827289</data>
+      <data key="d6" />
+    </node>
+    <node id="MaBanderung">
+      <data key="d0">MaBanderung</data>
+      <data key="d1">concept</data>
+      <data key="d2">MaBanderung refers to a specific type of banding or marking on components.</data>
+      <data key="d3">chunk-0aec83ac5113f778340a3ad27ba647dc</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827289</data>
+      <data key="d6" />
+    </node>
+    <node id="White Gear with Gray Background (image)">
+      <data key="d0">White Gear with Gray Background (image)</data>
+      <data key="d1">image</data>
+      <data key="d2">A white gear with a circular shape and a series of teeth along its edge, set against a gray background.</data>
+      <data key="d3">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827608</data>
+    </node>
+    <node id="Catalog of Items (table)">
+      <data key="d0">Catalog of Items (table)</data>
+      <data key="d1">table</data>
+      <data key="d2">This table appears to be a catalog of some sort, with each row representing a unique item. The values in the Z2 column are sequential, ranging from 12 to 110, and the values in the DM**[Ncm] column are increasing, with a range of 29.45 to 245.44.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827608</data>
+    </node>
+    <node id="image_cdc5eb3d84319aaacb7d99be5339a2ef">
+      <data key="d0">image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d1">image</data>
+      <data key="d2">{"detailed_description": "The image is a technical drawing of a gear, with various dimensions and me...</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827608</data>
+    </node>
+    <node id="Discarded Text Fragment (discarded)">
+      <data key="d0">Discarded Text Fragment (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">A text snippet from a scanned document, likely containing OCR errors or degraded text, with a bounding box and page index, indicating its origin and potential relevance for document analysis.</data>
+      <data key="d3">chunk-0a2321ae7f775e7b31da71ee8f42bb3b</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827608</data>
+    </node>
+    <node id="Discarded Content on Page 0 (discarded)">
+      <data key="d0">Discarded Content on Page 0 (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">The content is of type 'discarded' with no text provided, located at bounding box coordinates [0, 174, 70, 218] on page 0.</data>
+      <data key="d3">chunk-8ea39efdcaad7106abb23728fa7cb0c0</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827608</data>
+    </node>
+    <node id="Content Analysis">
+      <data key="d0">Content Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Content Analysis is a process of extracting meaningful information from text, images, or other forms of data.&lt;SEP&gt;Content Analysis is a comprehensive analysis of the discarded content, including its structure, key information, and context.</data>
+      <data key="d3">chunk-8ea39efdcaad7106abb23728fa7cb0c0&lt;SEP&gt;chunk-0a2321ae7f775e7b31da71ee8f42bb3b</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827658</data>
+      <data key="d6" />
+    </node>
+    <node id="Discarded Content">
+      <data key="d0">Discarded Content</data>
+      <data key="d1">concept</data>
+      <data key="d2">Discarded Content refers to text or data that is not relevant or useful for a particular analysis or application.&lt;SEP&gt;Discarded Content refers to the content that is removed or discarded from the original text.</data>
+      <data key="d3">chunk-8ea39efdcaad7106abb23728fa7cb0c0&lt;SEP&gt;chunk-0a2321ae7f775e7b31da71ee8f42bb3b</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827658</data>
+      <data key="d6" />
+    </node>
+    <node id="Analysis">
+      <data key="d0">Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Analysis refers to the process of examining and interpreting data or information to extract meaningful insights.</data>
+      <data key="d3">chunk-8ea39efdcaad7106abb23728fa7cb0c0</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827658</data>
+      <data key="d6" />
+    </node>
+    <node id="Image Content Analysis">
+      <data key="d0">Image Content Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Image Content Analysis is a process used to extract and analyze visual content from images.&lt;SEP&gt;Image Content Analysis is a process used to analyze and understand the content of an image.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827658</data>
+      <data key="d6" />
+    </node>
+    <node id="Image Path">
+      <data key="d0">Image Path</data>
+      <data key="d1">category</data>
+      <data key="d2">Image Path refers to the location of an image file on a computer or network.&lt;SEP&gt;The Image Path is a directory or file path where the image is stored.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827658</data>
+      <data key="d6" />
+    </node>
+    <node id="Captions">
+      <data key="d0">Captions</data>
+      <data key="d1">category</data>
+      <data key="d2">Captions are text descriptions or labels that accompany an image, providing context or additional information.&lt;SEP&gt;Captions are text descriptions or labels that provide context or meaning to an image.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827658</data>
+      <data key="d6" />
+    </node>
+    <node id="Footnotes">
+      <data key="d0">Footnotes</data>
+      <data key="d1">category</data>
+      <data key="d2">Footnotes are supplementary notes or references that provide additional context or information about an image.&lt;SEP&gt;Footnotes are additional notes or references that provide further information or context to an image.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827658</data>
+      <data key="d6" />
+    </node>
+    <node id="Visual Analysis">
+      <data key="d0">Visual Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Visual Analysis is the process of examining and interpreting visual content, such as images or videos.&lt;SEP&gt;Visual Analysis is the process of examining and interpreting the visual elements of an image.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827658</data>
+      <data key="d6" />
+    </node>
+    <node id="Gear">
+      <data key="d0">Gear</data>
+      <data key="d1">object</data>
+      <data key="d2">A gear is a mechanical component with teeth that mesh with other gears to transmit rotational motion.&lt;SEP&gt;The gear is a mechanical component with a circular shape and a series of teeth along its edge.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827660</data>
+      <data key="d6" />
+    </node>
+    <node id="Technical Drawing">
+      <data key="d0">Technical Drawing</data>
+      <data key="d1">category</data>
+      <data key="d2">A technical drawing is a detailed illustration of a mechanical component, such as a gear, used for engineering or manufacturing purposes.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827660</data>
+      <data key="d6" />
+    </node>
+    <node id="2D Perspective">
+      <data key="d0">2D Perspective</data>
+      <data key="d1">category</data>
+      <data key="d2">2D Perspective refers to a visual representation of an object or scene in two dimensions, such as a drawing or diagram.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827660</data>
+      <data key="d6" />
+    </node>
+    <node id="White Background">
+      <data key="d0">White Background</data>
+      <data key="d1">category</data>
+      <data key="d2">A white background is a neutral or blank area used to provide context for an image or drawing.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827660</data>
+      <data key="d6" />
+    </node>
+    <node id="World Athletics Championship">
+      <data key="d0">World Athletics Championship</data>
+      <data key="d1">event</data>
+      <data key="d2">The World Athletics Championship is a global sports competition featuring top athletes in track and field.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827660</data>
+      <data key="d6" />
+    </node>
+    <node id="Tokyo">
+      <data key="d0">Tokyo</data>
+      <data key="d1">location</data>
+      <data key="d2">Tokyo is the host city of the World Athletics Championship.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827660</data>
+      <data key="d6" />
+    </node>
+    <node id="Noah Carter">
+      <data key="d0">Noah Carter</data>
+      <data key="d1">person</data>
+      <data key="d2">Noah Carter is a sprinter who set a new record in the 100m sprint at the World Athletics Championship.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827660</data>
+      <data key="d6" />
+    </node>
+    <node id="100m Sprint Record">
+      <data key="d0">100m Sprint Record</data>
+      <data key="d1">category</data>
+      <data key="d2">The 100m sprint record is a benchmark in athletics, recently broken by Noah Carter.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827660</data>
+      <data key="d6" />
+    </node>
+    <node id="Carbon-Fiber Spikes">
+      <data key="d0">Carbon-Fiber Spikes</data>
+      <data key="d1">equipment</data>
+      <data key="d2">Carbon-fiber spikes are advanced sprinting shoes that provide enhanced speed and traction.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827662</data>
+      <data key="d6" />
+    </node>
+    <node id="World Athletics Federation">
+      <data key="d0">World Athletics Federation</data>
+      <data key="d1">organization</data>
+      <data key="d2">The World Athletics Federation is the governing body overseeing the World Athletics Championship and record validations.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827662</data>
+      <data key="d6" />
+    </node>
+    <node id="Image">
+      <data key="d0">Image</data>
+      <data key="d1">object</data>
+      <data key="d2">An image is a visual representation of a scene, object, or concept.&lt;SEP&gt;The image is a visual representation of the gear and background.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827662</data>
+      <data key="d6" />
+    </node>
+    <node id="Scene">
+      <data key="d0">Scene</data>
+      <data key="d1">category</data>
+      <data key="d2">A scene is a visual representation of a setting or environment.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827662</data>
+      <data key="d6" />
+    </node>
+    <node id="Concept">
+      <data key="d0">Concept</data>
+      <data key="d1">category</data>
+      <data key="d2">A concept is an abstract idea or notion.</data>
+      <data key="d3">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827662</data>
+      <data key="d6" />
+    </node>
+    <node id="Background">
+      <data key="d0">Background</data>
+      <data key="d1">category</data>
+      <data key="d2">The background is the area surrounding the main subject of an image, in this case, the gear.</data>
+      <data key="d3">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827662</data>
+      <data key="d6" />
+    </node>
+    <node id="Gray Background">
+      <data key="d0">Gray Background</data>
+      <data key="d1">category</data>
+      <data key="d2">The gray background is a neutral area surrounding the gear.</data>
+      <data key="d3">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827663</data>
+      <data key="d6" />
+    </node>
+    <node id="Text">
+      <data key="d0">Text</data>
+      <data key="d1">concept</data>
+      <data key="d2">Text refers to written or printed material, including books, articles, and documents.</data>
+      <data key="d3">chunk-0a2321ae7f775e7b31da71ee8f42bb3b</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827663</data>
+      <data key="d6" />
+    </node>
+    <node id="Images">
+      <data key="d0">Images</data>
+      <data key="d1">concept</data>
+      <data key="d2">Images are visual representations of data, including photographs, diagrams, and graphics.</data>
+      <data key="d3">chunk-0a2321ae7f775e7b31da71ee8f42bb3b</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827663</data>
+      <data key="d6" />
+    </node>
+    <node id="Data">
+      <data key="d0">Data</data>
+      <data key="d1">concept</data>
+      <data key="d2">Data refers to information in a structured or unstructured format, including numbers, words, and symbols.</data>
+      <data key="d3">chunk-0a2321ae7f775e7b31da71ee8f42bb3b</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827664</data>
+      <data key="d6" />
+    </node>
+    <node id="TABLE_AS_JSON">
+      <data key="d0">TABLE_AS_JSON</data>
+      <data key="d1">category</data>
+      <data key="d2">TABLE_AS_JSON is a JSON object containing metadata and table data.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827664</data>
+      <data key="d6" />
+    </node>
+    <node id="metadata">
+      <data key="d0">metadata</data>
+      <data key="d1">category</data>
+      <data key="d2">metadata is a JSON object containing information about the table, including image path, caption, and footnotes.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827664</data>
+      <data key="d6" />
+    </node>
+    <node id="image_path">
+      <data key="d0">image_path</data>
+      <data key="d1">category</data>
+      <data key="d2">image_path is a string representing the path to an image.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827664</data>
+      <data key="d6" />
+    </node>
+    <node id="caption">
+      <data key="d0">caption</data>
+      <data key="d1">category</data>
+      <data key="d2">caption is a string representing a caption for the table.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827664</data>
+      <data key="d6" />
+    </node>
+    <node id="footnotes">
+      <data key="d0">footnotes</data>
+      <data key="d1">category</data>
+      <data key="d2">footnotes is a list of strings representing footnotes for the table.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827665</data>
+      <data key="d6" />
+    </node>
+    <node id="table">
+      <data key="d0">table</data>
+      <data key="d1">category</data>
+      <data key="d2">table is a JSON object containing table data.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827665</data>
+      <data key="d6" />
+    </node>
+    <node id="columns">
+      <data key="d0">columns</data>
+      <data key="d1">category</data>
+      <data key="d2">columns is a list of strings representing column names.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827665</data>
+      <data key="d6" />
+    </node>
+    <node id="rows">
+      <data key="d0">rows</data>
+      <data key="d1">category</data>
+      <data key="d2">rows is a list of JSON objects representing table rows.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827666</data>
+      <data key="d6" />
+    </node>
+    <node id="Z2">
+      <data key="d0">Z2</data>
+      <data key="d1">category</data>
+      <data key="d2">Z2 is a column name in the table.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827666</data>
+      <data key="d6" />
+    </node>
+    <node id="ZB[mm]">
+      <data key="d0">ZB[mm]</data>
+      <data key="d1">category</data>
+      <data key="d2">ZB[mm] is a column name in the table.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827666</data>
+      <data key="d6" />
+    </node>
+    <node id="0B[mm]">
+      <data key="d0">0B[mm]</data>
+      <data key="d1">category</data>
+      <data key="d2">0B[mm] is a column name in the table.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827666</data>
+      <data key="d6" />
+    </node>
+    <node id="OTK[mm]">
+      <data key="d0">OTK[mm]</data>
+      <data key="d1">category</data>
+      <data key="d2">OTK[mm] is a column name in the table.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827666</data>
+      <data key="d6" />
+    </node>
+    <node id="OKK[mm]">
+      <data key="d0">OKK[mm]</data>
+      <data key="d1">category</data>
+      <data key="d2">OKK[mm] is a column name in the table.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827667</data>
+      <data key="d6" />
+    </node>
+    <node id="ON[mm]">
+      <data key="d0">ON[mm]</data>
+      <data key="d1">category</data>
+      <data key="d2">ON[mm] is a column name in the table.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827667</data>
+      <data key="d6" />
+    </node>
+    <node id="L[mm]">
+      <data key="d0">L[mm]</data>
+      <data key="d1">category</data>
+      <data key="d2">L[mm] is a column name in the table.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827667</data>
+      <data key="d6" />
+    </node>
+    <node id="OFM[mm]">
+      <data key="d0">OFM[mm]</data>
+      <data key="d1">category</data>
+      <data key="d2">OFM[mm] is a column name in the table.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827668</data>
+      <data key="d6" />
+    </node>
+    <node id="Ws[mm]">
+      <data key="d0">Ws[mm]</data>
+      <data key="d1">category</data>
+      <data key="d2">Ws[mm] is a column name in the table.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827668</data>
+      <data key="d6" />
+    </node>
+    <node id="G[g]">
+      <data key="d0">G[g]</data>
+      <data key="d1">category</data>
+      <data key="d2">G[g] is a column name in the table.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827668</data>
+      <data key="d6" />
+    </node>
+    <node id="DM**[Ncm]">
+      <data key="d0">DM**[Ncm]</data>
+      <data key="d1">category</data>
+      <data key="d2">DM**[Ncm] is a column name in the table.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827668</data>
+      <data key="d6" />
+    </node>
+    <node id="Art-Nr.">
+      <data key="d0">Art-Nr.</data>
+      <data key="d1">category</data>
+      <data key="d2">Art-Nr. is a column name in the table.</data>
+      <data key="d3">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d4">gear.pdf</data>
+      <data key="d5">1765827668</data>
+      <data key="d6" />
+    </node>
+    <edge source="Stirnrader aus Polyacetal" target="Modul 1,25">
+      <data key="d7">1.0</data>
+      <data key="d8">Stirnrader aus Polyacetal is a component or material associated with Modul 1,25.</data>
+      <data key="d9">component relationship,material</data>
+      <data key="d10">chunk-0aec83ac5113f778340a3ad27ba647dc</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827290</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Modul 1,25" target="geradverzahnt">
+      <data key="d7">1.0</data>
+      <data key="d8">Modul 1,25 is a component associated with geradverzahnt gear type.</data>
+      <data key="d9">component relationship,gear type</data>
+      <data key="d10">chunk-0aec83ac5113f778340a3ad27ba647dc</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827291</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Modul 1,25" target="gespritzt">
+      <data key="d7">1.0</data>
+      <data key="d8">Modul 1,25 is a component manufactured using gespritzt process.</data>
+      <data key="d9">component relationship,manufacturing process</data>
+      <data key="d10">chunk-0aec83ac5113f778340a3ad27ba647dc</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827291</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Modul 1,25" target="Eingriffswinkel">
+      <data key="d7">1.0</data>
+      <data key="d8">Modul 1,25 is a component with a specified Eingriffswinkel angle of engagement.</data>
+      <data key="d9">angle of engagement,component relationship</data>
+      <data key="d10">chunk-0aec83ac5113f778340a3ad27ba647dc</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827291</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Modul 1,25" target="$2 0 ^ { \circ }$">
+      <data key="d7">1.0</data>
+      <data key="d8">Modul 1,25 is a component with a specified angle measurement of $2 0 ^ { \circ }$.</data>
+      <data key="d9">angle measurement,component relationship</data>
+      <data key="d10">chunk-0aec83ac5113f778340a3ad27ba647dc</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827291</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Modul 1,25" target="MaBanderung">
+      <data key="d7">1.0</data>
+      <data key="d8">Modul 1,25 is a component with MaBanderung marking.</data>
+      <data key="d9">component relationship,marking</data>
+      <data key="d10">chunk-0aec83ac5113f778340a3ad27ba647dc</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827292</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Gear with Gray Background (image)" target="Image Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image Content Analysis belongs to White Gear with Gray Background (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827678</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Gear with Gray Background (image)" target="Image Path">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image Path belongs to White Gear with Gray Background (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827679</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Gear with Gray Background (image)" target="Captions">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Captions belongs to White Gear with Gray Background (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827680</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Gear with Gray Background (image)" target="Footnotes">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Footnotes belongs to White Gear with Gray Background (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827681</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Gear with Gray Background (image)" target="Visual Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Visual Analysis belongs to White Gear with Gray Background (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827681</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Gear with Gray Background (image)" target="Background">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Background belongs to White Gear with Gray Background (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827681</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Gear with Gray Background (image)" target="Tokyo">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Tokyo belongs to White Gear with Gray Background (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827681</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Gear with Gray Background (image)" target="Gear">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Gear belongs to White Gear with Gray Background (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827682</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Gear with Gray Background (image)" target="World Athletics Championship">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity World Athletics Championship belongs to White Gear with Gray Background (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827682</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Gear with Gray Background (image)" target="Noah Carter">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Noah Carter belongs to White Gear with Gray Background (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827683</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Gear with Gray Background (image)" target="100m Sprint Record">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity 100m Sprint Record belongs to White Gear with Gray Background (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827683</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Gear with Gray Background (image)" target="Carbon-Fiber Spikes">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Carbon-Fiber Spikes belongs to White Gear with Gray Background (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827684</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Gear with Gray Background (image)" target="World Athletics Federation">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity World Athletics Federation belongs to White Gear with Gray Background (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827684</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Gear with Gray Background (image)" target="Image">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image belongs to White Gear with Gray Background (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827685</data>
+      <data key="d13" />
+    </edge>
+    <edge source="White Gear with Gray Background (image)" target="Gray Background">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Gray Background belongs to White Gear with Gray Background (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827686</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="TABLE_AS_JSON">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity TABLE_AS_JSON belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827688</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="metadata">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity metadata belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827689</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="image_path">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity image_path belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827690</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="caption">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity caption belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827690</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="footnotes">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity footnotes belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827690</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="table">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity table belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827691</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="columns">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity columns belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827691</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="rows">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity rows belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827691</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="Z2">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Z2 belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827692</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="ZB[mm]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity ZB[mm] belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827692</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="0B[mm]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity 0B[mm] belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827692</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="OTK[mm]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity OTK[mm] belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827693</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="OKK[mm]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity OKK[mm] belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827693</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="ON[mm]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity ON[mm] belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827693</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="L[mm]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity L[mm] belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827693</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="OFM[mm]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity OFM[mm] belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827694</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="Ws[mm]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Ws[mm] belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827694</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="G[g]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity G[g] belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827694</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="DM**[Ncm]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity DM**[Ncm] belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827695</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Catalog of Items (table)" target="Art-Nr.">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Art-Nr. belongs to Catalog of Items (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827695</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="Image Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image Content Analysis belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827673</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="Image Path">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image Path belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827674</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="Captions">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Captions belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827674</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="Footnotes">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Footnotes belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827675</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="Visual Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Visual Analysis belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827675</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="Gear">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Gear belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827675</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="Technical Drawing">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Technical Drawing belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827675</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="2D Perspective">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity 2D Perspective belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827676</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="White Background">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity White Background belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827676</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="World Athletics Championship">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity World Athletics Championship belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827676</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="Tokyo">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Tokyo belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827677</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="Noah Carter">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Noah Carter belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827677</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="100m Sprint Record">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity 100m Sprint Record belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827677</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="Carbon-Fiber Spikes">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Carbon-Fiber Spikes belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827678</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="World Athletics Federation">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity World Athletics Federation belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827678</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="Image">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827679</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="Scene">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Scene belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827680</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_cdc5eb3d84319aaacb7d99be5339a2ef" target="Concept">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Concept belongs to image_cdc5eb3d84319aaacb7d99be5339a2ef</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827680</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Text Fragment (discarded)" target="Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Content Analysis belongs to Discarded Text Fragment (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0a2321ae7f775e7b31da71ee8f42bb3b</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827683</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Text Fragment (discarded)" target="Discarded Content">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content belongs to Discarded Text Fragment (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0a2321ae7f775e7b31da71ee8f42bb3b</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827683</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Text Fragment (discarded)" target="Text">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Text belongs to Discarded Text Fragment (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0a2321ae7f775e7b31da71ee8f42bb3b</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827684</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Text Fragment (discarded)" target="Images">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Images belongs to Discarded Text Fragment (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0a2321ae7f775e7b31da71ee8f42bb3b</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827685</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Text Fragment (discarded)" target="Data">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Data belongs to Discarded Text Fragment (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-0a2321ae7f775e7b31da71ee8f42bb3b</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827686</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content on Page 0 (discarded)" target="Discarded Content">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content belongs to Discarded Content on Page 0 (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-8ea39efdcaad7106abb23728fa7cb0c0</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827670</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content on Page 0 (discarded)" target="Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Content Analysis belongs to Discarded Content on Page 0 (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-8ea39efdcaad7106abb23728fa7cb0c0</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827671</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content on Page 0 (discarded)" target="Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Analysis belongs to Discarded Content on Page 0 (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-8ea39efdcaad7106abb23728fa7cb0c0</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827672</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Discarded Content">
+      <data key="d7">2.0</data>
+      <data key="d8">Content Analysis involves identifying and processing relevant data, while discarded content is irrelevant or useless for the analysis.&lt;SEP&gt;Content Analysis involves analyzing the discarded content to extract meaningful information.</data>
+      <data key="d9">analysis,content removal,data processing,relevance</data>
+      <data key="d10">chunk-8ea39efdcaad7106abb23728fa7cb0c0&lt;SEP&gt;chunk-0a2321ae7f775e7b31da71ee8f42bb3b</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827669</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Analysis">
+      <data key="d7">1.0</data>
+      <data key="d8">Analysis is a crucial step in Content Analysis, involving the examination and interpretation of data or information.</data>
+      <data key="d9">methodology,process</data>
+      <data key="d10">chunk-8ea39efdcaad7106abb23728fa7cb0c0</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827670</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Data">
+      <data key="d7">1.0</data>
+      <data key="d8">Data is processed and analyzed through content analysis to extract meaningful information.</data>
+      <data key="d9">analysis,data processing</data>
+      <data key="d10">chunk-0a2321ae7f775e7b31da71ee8f42bb3b</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827683</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Content Analysis" target="Visual Analysis">
+      <data key="d7">2.0</data>
+      <data key="d8">Image Content Analysis is used to extract and analyze visual content from images, which is then interpreted through Visual Analysis.&lt;SEP&gt;Image Content Analysis involves Visual Analysis to understand the visual elements of an image.</data>
+      <data key="d9">content extraction,image analysis,visual interpretation</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827669</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Content Analysis" target="Gray Background">
+      <data key="d7">1.0</data>
+      <data key="d8">Image Content Analysis also involves examining the gray background as part of the image content.</data>
+      <data key="d9">image analysis,visual context</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827679</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Content Analysis" target="Gear">
+      <data key="d7">1.0</data>
+      <data key="d8">Image Content Analysis involves examining the gear as part of the image content.</data>
+      <data key="d9">image analysis,object description</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827680</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Path" target="Captions">
+      <data key="d7">1.0</data>
+      <data key="d8">Image Path is used to store metadata about an image, including Captions that provide context or additional information.</data>
+      <data key="d9">context,image metadata</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827669</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Path" target="Gear">
+      <data key="d7">1.0</data>
+      <data key="d8">The gear is present in the image, stored at the specified Image Path.</data>
+      <data key="d9">image content,object placement</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827678</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Captions" target="Footnotes">
+      <data key="d7">1.0</data>
+      <data key="d8">Captions are often accompanied by Footnotes that provide additional context or references.</data>
+      <data key="d9">references,supplementary notes</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827670</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Visual Analysis" target="Gear">
+      <data key="d7">2.0</data>
+      <data key="d8">The gear is a mechanical component with a circular shape and a series of teeth along its edge, as described in the Visual Analysis.&lt;SEP&gt;Visual Analysis is used to interpret the visual content of an image, including the depiction of a Gear.</data>
+      <data key="d9">image interpretation,mechanical component,object description,visual interpretation</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827671</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear" target="Technical Drawing">
+      <data key="d7">1.0</data>
+      <data key="d8">A Gear is depicted in a Technical Drawing, which provides design specifications or instructions for production.</data>
+      <data key="d9">design specification,mechanical component</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827672</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear" target="Background">
+      <data key="d7">1.0</data>
+      <data key="d8">The gear is placed against a gray background, providing a neutral backdrop for the gear.</data>
+      <data key="d9">object placement,visual context</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827677</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gear" target="Gray Background">
+      <data key="d7">1.0</data>
+      <data key="d8">The gear is placed against a gray background, providing a neutral backdrop for the gear.</data>
+      <data key="d9">object placement,visual context</data>
+      <data key="d10">chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827678</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technical Drawing" target="2D Perspective">
+      <data key="d7">1.0</data>
+      <data key="d8">A Technical Drawing is a visual representation of a mechanical component, such as a Gear, in 2D Perspective.</data>
+      <data key="d9">design specification,visual representation</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827671</data>
+      <data key="d13" />
+    </edge>
+    <edge source="2D Perspective" target="White Background">
+      <data key="d7">1.0</data>
+      <data key="d8">A 2D Perspective is often depicted on a White Background, which provides a clean and neutral context for the design specification.</data>
+      <data key="d9">design specification,visual context</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827672</data>
+      <data key="d13" />
+    </edge>
+    <edge source="World Athletics Championship" target="Tokyo">
+      <data key="d7">1.0</data>
+      <data key="d8">The World Athletics Championship is being hosted in Tokyo.</data>
+      <data key="d9">event location,international competition</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827671</data>
+      <data key="d13" />
+    </edge>
+    <edge source="World Athletics Championship" target="Noah Carter">
+      <data key="d7">2.0</data>
+      <data key="d8">Noah Carter is competing at the World Athletics Championship.</data>
+      <data key="d9">athlete participation,competition</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827673</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Noah Carter" target="100m Sprint Record">
+      <data key="d7">2.0</data>
+      <data key="d8">Noah Carter set a new 100m sprint record at the championship.</data>
+      <data key="d9">athlete achievement,record-breaking</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827671</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Noah Carter" target="Carbon-Fiber Spikes">
+      <data key="d7">2.0</data>
+      <data key="d8">Noah Carter used carbon-fiber spikes to enhance performance during the race.</data>
+      <data key="d9">athletic equipment,performance boost</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77&lt;SEP&gt;chunk-208c0098189405134d852479ed13a618</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827672</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image" target="Scene">
+      <data key="d7">1.0</data>
+      <data key="d8">An image is a visual representation of a Scene.</data>
+      <data key="d9">context,visual representation</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827672</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image" target="Concept">
+      <data key="d7">1.0</data>
+      <data key="d8">A Concept can be represented through an Image.</data>
+      <data key="d9">idea,visual representation</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827674</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Scene" target="Concept">
+      <data key="d7">1.0</data>
+      <data key="d8">A Scene is often associated with a Concept or idea.</data>
+      <data key="d9">environment,idea</data>
+      <data key="d10">chunk-051131f8fe12c3a243870847345c4b77</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827673</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Text" target="Images">
+      <data key="d7">1.0</data>
+      <data key="d8">Text and images are forms of data representation, with text conveying written information and images conveying visual information.</data>
+      <data key="d9">data representation,multimedia</data>
+      <data key="d10">chunk-0a2321ae7f775e7b31da71ee8f42bb3b</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827682</data>
+      <data key="d13" />
+    </edge>
+    <edge source="TABLE_AS_JSON" target="metadata">
+      <data key="d7">1.0</data>
+      <data key="d8">TABLE_AS_JSON contains metadata about the table.</data>
+      <data key="d9">data structure,metadata</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827684</data>
+      <data key="d13" />
+    </edge>
+    <edge source="metadata" target="image_path">
+      <data key="d7">1.0</data>
+      <data key="d8">metadata contains information about an image.</data>
+      <data key="d9">image,metadata</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827685</data>
+      <data key="d13" />
+    </edge>
+    <edge source="metadata" target="caption">
+      <data key="d7">1.0</data>
+      <data key="d8">metadata contains a caption for the table.</data>
+      <data key="d9">metadata,text</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827686</data>
+      <data key="d13" />
+    </edge>
+    <edge source="metadata" target="footnotes">
+      <data key="d7">1.0</data>
+      <data key="d8">metadata contains footnotes for the table.</data>
+      <data key="d9">metadata,text</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827687</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table" target="columns">
+      <data key="d7">1.0</data>
+      <data key="d8">table contains column data.</data>
+      <data key="d9">data structure,table</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827685</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table" target="rows">
+      <data key="d7">1.0</data>
+      <data key="d8">table contains row data.</data>
+      <data key="d9">data structure,table</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827686</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Z2" target="ZB[mm]">
+      <data key="d7">1.0</data>
+      <data key="d8">Z2 is related to ZB[mm] in the table.</data>
+      <data key="d9">column relationship,table</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827686</data>
+      <data key="d13" />
+    </edge>
+    <edge source="ZB[mm]" target="0B[mm]">
+      <data key="d7">1.0</data>
+      <data key="d8">ZB[mm] is related to 0B[mm] in the table.</data>
+      <data key="d9">column relationship,table</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827687</data>
+      <data key="d13" />
+    </edge>
+    <edge source="0B[mm]" target="OTK[mm]">
+      <data key="d7">1.0</data>
+      <data key="d8">0B[mm] is related to OTK[mm] in the table.</data>
+      <data key="d9">column relationship,table</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827688</data>
+      <data key="d13" />
+    </edge>
+    <edge source="OTK[mm]" target="OKK[mm]">
+      <data key="d7">1.0</data>
+      <data key="d8">OTK[mm] is related to OKK[mm] in the table.</data>
+      <data key="d9">column relationship,table</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827687</data>
+      <data key="d13" />
+    </edge>
+    <edge source="OKK[mm]" target="ON[mm]">
+      <data key="d7">1.0</data>
+      <data key="d8">OKK[mm] is related to ON[mm] in the table.</data>
+      <data key="d9">column relationship,table</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827688</data>
+      <data key="d13" />
+    </edge>
+    <edge source="ON[mm]" target="L[mm]">
+      <data key="d7">1.0</data>
+      <data key="d8">ON[mm] is related to L[mm] in the table.</data>
+      <data key="d9">column relationship,table</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827687</data>
+      <data key="d13" />
+    </edge>
+    <edge source="L[mm]" target="OFM[mm]">
+      <data key="d7">1.0</data>
+      <data key="d8">L[mm] is related to OFM[mm] in the table.</data>
+      <data key="d9">column relationship,table</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827689</data>
+      <data key="d13" />
+    </edge>
+    <edge source="OFM[mm]" target="Ws[mm]">
+      <data key="d7">1.0</data>
+      <data key="d8">OFM[mm] is related to Ws[mm] in the table.</data>
+      <data key="d9">column relationship,table</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827688</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Ws[mm]" target="G[g]">
+      <data key="d7">1.0</data>
+      <data key="d8">Ws[mm] is related to G[g] in the table.</data>
+      <data key="d9">column relationship,table</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827689</data>
+      <data key="d13" />
+    </edge>
+    <edge source="G[g]" target="DM**[Ncm]">
+      <data key="d7">1.0</data>
+      <data key="d8">G[g] is related to DM**[Ncm] in the table.</data>
+      <data key="d9">column relationship,table</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827689</data>
+      <data key="d13" />
+    </edge>
+    <edge source="DM**[Ncm]" target="Art-Nr.">
+      <data key="d7">1.0</data>
+      <data key="d8">DM**[Ncm] is related to Art-Nr. in the table.</data>
+      <data key="d9">column relationship,table</data>
+      <data key="d10">chunk-1b2925476c3988cd47bf043d627fcc03</data>
+      <data key="d11">gear.pdf</data>
+      <data key="d12">1765827690</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>
