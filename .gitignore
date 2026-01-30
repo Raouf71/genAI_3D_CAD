@@ -3,3 +3,4 @@ llamaindex-venv
 .vscode
 llamaindex/my-keyz.env
 llamaindex/notes.md
+llamaindex/full-pipeline-templates/solar-panels/solar-panel-venv/

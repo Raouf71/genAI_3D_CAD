@@ -1,10 +1,13 @@
+"""
+Solar Panel Expert - Streamlit Frontend
+Integrates with modular backend for solar panel datasheet comparison.
+"""
+
 import streamlit as st
 import os
-import json
 import asyncio
-from pathlib import Path
 import tempfile
-from typing import Optional
+from pathlib import Path
 
 # Page configuration
 st.set_page_config(
@@ -13,22 +16,32 @@ st.set_page_config(
     layout="wide"
 )
 
-# Import your backend modules
-# Note: These imports should work if your backend code is in the same directory
-# or properly installed as a package
+# Import backend modules
 try:
-    from llama_cloud_services import LlamaExtract, EU_BASE_URL
-    from llama_cloud.core.api_error import ApiError
-    from llama_cloud import ExtractConfig
-    from llama_index.llms.openai import OpenAI
-    IMPORTS_AVAILABLE = True
-except ImportError:
-    IMPORTS_AVAILABLE = False
-    st.warning("⚠️ Backend dependencies not fully installed. Some features may not work.")
-
-# Import your workflow classes (assuming they're in a separate file or same directory)
-# If your backend code is in a file called 'backend.py', uncomment and adjust:
-# from backend import SolarPanelComparisonWorkflow, SolarPanelSchema, ComparisonReportOutput
+    import sys
+    # Add parent directory to path so we can import backend
+    sys.path.insert(0, str(Path(__file__).parent.parent))
+    
+    from backend import (
+        SolarPanelComparisonWorkflow,
+        create_extraction_agent,
+        config,
+    )
+    from backend.config import DEFAULT_REQUIREMENTS
+    # import nest_asyncio
+    # nest_asyncio.apply()
+    BACKEND_AVAILABLE = True
+except ImportError as e:
+    BACKEND_AVAILABLE = False
+    DEFAULT_REQUIREMENTS = {
+        "max_power": 450,
+        "min_power": 400,
+        "max_length": 2000,
+        "max_weight": 25,
+        "warranty": 12,
+    }
+    st.error(f"⚠️ Backend modules not found: {e}")
+    st.info("Make sure the 'backend' directory is in the parent directory of streamlit_app.py")
 
 # Initialize session state
 if 'reports' not in st.session_state:
@@ -40,17 +53,17 @@ if 'llama_api_key' not in st.session_state:
 if 'openai_api_key' not in st.session_state:
     st.session_state.openai_api_key = ""
 if 'max_power' not in st.session_state:
-    st.session_state.max_power = 450
+    st.session_state.max_power = DEFAULT_REQUIREMENTS.get("max_power", 450)
 if 'min_power' not in st.session_state:
-    st.session_state.min_power = 400
+    st.session_state.min_power = DEFAULT_REQUIREMENTS.get("min_power", 400)
 if 'max_length' not in st.session_state:
-    st.session_state.max_length = 2000
+    st.session_state.max_length = DEFAULT_REQUIREMENTS.get("max_length", 2000)
 if 'max_weight' not in st.session_state:
-    st.session_state.max_weight = 25
+    st.session_state.max_weight = DEFAULT_REQUIREMENTS.get("max_weight", 25)
 if 'warranty' not in st.session_state:
-    st.session_state.warranty = 12
+    st.session_state.warranty = DEFAULT_REQUIREMENTS.get("warranty", 12)
 
-# Custom CSS for better styling
+# Custom CSS
 st.markdown("""
     <style>
     .main-header {
@@ -84,15 +97,6 @@ st.markdown("""
         padding: 10px;
         color: #721c24;
         margin: 10px 0;
-    }
-    .report-container {
-        background-color: #f8f9fa;
-        border: 1px solid #dee2e6;
-        border-radius: 8px;
-        padding: 20px;
-        margin: 10px 0;
-        max-height: 600px;
-        overflow-y: auto;
     }
     .section-divider {
         border-top: 2px solid #e9ecef;
@@ -271,80 +275,12 @@ if generate_button:
         st.error("❌ Please configure your LlamaExtract API key.")
     elif not st.session_state.openai_api_key:
         st.error("❌ Please configure your OpenAI API key.")
-    elif not IMPORTS_AVAILABLE:
-        st.error("❌ Backend dependencies are not installed. Please install required packages.")
+    elif not BACKEND_AVAILABLE:
+        st.error("❌ Backend modules are not available. Please check your installation.")
     else:
         # Process each uploaded file
         with st.spinner("🔄 Processing datasheets and generating comparison reports..."):
             try:
-                # Import backend components here to avoid issues if not installed
-                from pydantic import BaseModel, Field
-                from typing import List, Literal
-                from llama_index.core.workflow import (
-                    Event, StartEvent, StopEvent, Context, Workflow, step
-                )
-                from llama_index.llms.openai import OpenAI
-                from llama_index.core.prompts import ChatPromptTemplate
-                
-                # Define schemas (copying from your backend)
-                class PowerRange(BaseModel):
-                    min_power: float = Field(..., description="Minimum power output in Watts")
-                    max_power: float = Field(..., description="Maximum power output in Watts")
-                    unit: str = Field("W", description="Power unit")
-                
-                class SolarPanelSpec(BaseModel):
-                    module_name: str = Field(..., description="Name or model of the solar panel module")
-                    power_output: PowerRange = Field(..., description="Power output range")
-                    maximum_efficiency: float = Field(..., description="Maximum module efficiency in percentage")
-                    temperature_coefficient: float = Field(..., description="Temperature coefficient in %/K")
-                    max_length: int = Field(..., description="Maximum length of product in mm")
-                    max_weight: int = Field(..., description="Maximum weight of product in kg")
-                    warranty: int = Field(..., description="Minimum number of years for product to be in warranty")
-                    certifications: List[str] = Field([], description="List of certifications")
-                    page_citations: dict = Field(..., description="Mapping of each extracted field to its page numbers")
-                
-                class SolarPanelSchema(BaseModel):
-                    specs: List[SolarPanelSpec] = Field(..., description="List of extracted solar panel specifications")
-                
-                class DetailItem(BaseModel):
-                    status: Literal["PASS", "FAIL"] = Field(..., description="PASS or FAIL")
-                    explanation: str = Field(..., description="Why it passed or failed")
-                
-                class ComparisonDetails(BaseModel):
-                    maximum_power: DetailItem
-                    minimum_power: DetailItem
-                    max_length: DetailItem
-                    max_weight: DetailItem
-                    certification: DetailItem
-                    efficiency: DetailItem
-                    temperature_coefficient: DetailItem
-                    warranty: DetailItem
-                
-                class ComparisonReportOutput(BaseModel):
-                    component_name: str
-                    meets_requirements: bool
-                    summary: str
-                    details: ComparisonDetails
-                
-                # Initialize LlamaExtract
-                llama_extract = LlamaExtract(base_url=EU_BASE_URL)
-                
-                # Create or get agent
-                try:
-                    existing_agent = llama_extract.get_agent(name="solar-panel-datasheet")
-                    if existing_agent:
-                        llama_extract.delete_agent(existing_agent.id)
-                except ApiError as e:
-                    if e.status_code != 404:
-                        raise
-                
-                extract_config = ExtractConfig(extraction_mode="BALANCED")
-                agent = llama_extract.create_agent(
-                    name="solar-panel-datasheet",
-                    data_schema=SolarPanelSchema,
-                    config=extract_config
-                )
-                
                 # Create requirements text from parameters
                 requirements_text = f"""
 Solar Panel Design Requirements:
@@ -366,72 +302,10 @@ Solar Panel Design Requirements:
    - Good temperature coefficient preferred
 """
                 
-                # Define workflow (simplified inline version)
-                class DatasheetParseEvent(Event):
-                    datasheet_content: dict
+                # Create extraction agent
+                agent = create_extraction_agent()
                 
-                class RequirementsLoadEvent(Event):
-                    requirements_text: str
-                
-                class SolarPanelComparisonWorkflow(Workflow):
-                    def __init__(self, agent: LlamaExtract, requirements_text: str, **kwargs):
-                        super().__init__(**kwargs)
-                        self.agent = agent
-                        self.requirements_text = requirements_text
-                    
-                    @step
-                    async def parse_datasheet(self, ctx: Context, ev: StartEvent) -> DatasheetParseEvent:
-                        datasheet_path = ev.datasheet_path
-                        extraction_result = await self.agent.aextract(datasheet_path)
-                        datasheet_dict = extraction_result.data
-                        await ctx.store.set("datasheet_content", datasheet_dict)
-                        return DatasheetParseEvent(datasheet_content=datasheet_dict)
-                    
-                    @step
-                    async def load_requirements(self, ctx: Context, ev: DatasheetParseEvent) -> RequirementsLoadEvent:
-                        return RequirementsLoadEvent(requirements_text=self.requirements_text)
-                    
-                    @step
-                    async def generate_comparison_report(self, ctx: Context, ev: RequirementsLoadEvent) -> StopEvent:
-                        datasheet_content = await ctx.store.get("datasheet_content")
-                        
-                        prompt_str = """
-You are an expert renewable energy engineer.
-
-Compare the following solar panel datasheet information with the design requirements.
-
-Design Requirements:
-{requirements_text}
-
-Extracted Datasheet Information:
-{datasheet_content}
-
-Generate a detailed comparison report in JSON format with the following schema:
-  - component_name: string
-  - meets_requirements: boolean
-  - summary: string
-  - details: dictionary of comparisons for each parameter
-
-For each parameter (Maximum Power, Minimum Power, Max Length, Max Weight, Certification, Efficiency, Temperature Coefficient, Warranty),
-indicate PASS or FAIL and provide brief explanations and recommendations.
-"""
-                        prompt = ChatPromptTemplate.from_messages([("user", prompt_str)])
-                        
-                        llm = OpenAI(model="gpt-4o", api_key=st.session_state.openai_api_key)
-                        
-                        report_output = await llm.astructured_predict(
-                            ComparisonReportOutput,
-                            prompt,
-                            requirements_text=ev.requirements_text,
-                            datasheet_content=str(datasheet_content),
-                        )
-                        
-                        return StopEvent(result={"report": report_output, "datasheet_content": datasheet_content})
-                
-                # Process files
-                import nest_asyncio
-                nest_asyncio.apply()
-                
+                # Process each file
                 for uploaded_file in st.session_state.uploaded_files:
                     # Save uploaded file temporarily
                     with tempfile.NamedTemporaryFile(delete=False, suffix='.pdf') as tmp_file:
@@ -439,15 +313,22 @@ indicate PASS or FAIL and provide brief explanations and recommendations.
                         tmp_path = tmp_file.name
                     
                     try:
-                        # Run workflow
+                        # Create workflow
                         workflow = SolarPanelComparisonWorkflow(
                             agent=agent,
                             requirements_text=requirements_text,
+                            openai_api_key=st.session_state.openai_api_key,
                             verbose=False,
-                            timeout=180
+                            timeout=config.WORKFLOW_TIMEOUT
                         )
                         
-                        result = asyncio.run(workflow.run(datasheet_path=tmp_path))
+                        # Run workflow
+                        async def run_one(workflow, tmp_path: str):
+                            handler = workflow.run(datasheet_path=tmp_path)   # schedules tasks (coroutines) inside loop
+                            result = await handler                            # wait for completion
+                            return result
+
+                        result = asyncio.run(run_one(workflow, tmp_path))     # creates the event loop
                         
                         # Store report
                         report_data = {
@@ -466,7 +347,8 @@ indicate PASS or FAIL and provide brief explanations and recommendations.
             
             except Exception as e:
                 st.error(f"❌ Error generating reports: {str(e)}")
-                st.exception(e)
+                with st.expander("🔍 View Error Details"):
+                    st.exception(e)
 
 # Comparison Reports Section
 st.markdown('<div class="section-divider"></div>', unsafe_allow_html=True)
@@ -500,7 +382,7 @@ if st.session_state.reports:
             
             details = report_obj.details
             
-            # Create a table-like display
+            # Create parameter list
             params = [
                 ("⚡ Maximum Power", details.maximum_power),
                 ("🔋 Minimum Power", details.minimum_power),
