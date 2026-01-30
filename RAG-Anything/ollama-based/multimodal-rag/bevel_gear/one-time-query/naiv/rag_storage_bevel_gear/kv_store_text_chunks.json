@@ -1,0 +1,160 @@
+{
+  "chunk-a51c78a49a42ea238802cc660193ebd1": {
+    "tokens": 91,
+    "content": "Kegelräder aus Zink (ZnAl4Cu1) \n\nÜbersetzung 1:1 \n\nAusführung: geradverzahnt, gegossen, Eingriffswinkel $2 0 ^ { \\circ }$ , Bohrungen mit Toleranz H 9 spanabhebend bearbeitet.   \nMaßänderung vorbehalten. \n\n\\*\\*) Bitte Angaben zu Drehmoment auf S. 14 beachten.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-43dfedb460a1351c9a7ef9da79bac15a",
+    "file_path": "bevel_gear.pdf",
+    "llm_cache_list": [
+      "default:extract:2edc8d881b6db61915f6c8c0bda6d42d",
+      "default:extract:2e47d09cae44e5b6e4d136ced61a9f90"
+    ],
+    "create_time": 1765844360,
+    "update_time": 1765844374,
+    "_id": "chunk-a51c78a49a42ea238802cc660193ebd1"
+  },
+  "chunk-dc55262e2c0b9a1d647284ed866d4965": {
+    "content": "\nImage Content Analysis:\nImage Path: C:\\Users\\grabe_stud\\llm_cad_projekt\\RAG\\llm_3d_cad\\RAG-Anything\\ollama-based\\multimodal-rag\\bevel_gear\\one-time-query\\naiv\\output_bevel_gear\\bevel_gear\\auto\\images\\f5b13f8b5e14698d40ba8b09088a0d831065b93f3ed8b42f3c58d745e4153cc3.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image is a technical drawing of a bevel gear, featuring a 3D representation of the gear with various dimensions and measurements labeled. The gear is depicted in a top-down view, with the teeth and flanks clearly visible. The drawing includes several annotations and labels, including the gear's diameter, pitch circle diameter, and addendum circle diameter. The background of the image is white, providing a clean and clear visual representation of the gear's design. The overall composition and layout of the image are well-organized and easy to follow, making it clear that the image is intended for technical or engineering purposes.",
+    "tokens": 255,
+    "full_doc_id": "doc-43dfedb460a1351c9a7ef9da79bac15a",
+    "chunk_order_index": 1,
+    "file_path": "bevel_gear.pdf",
+    "llm_cache_list": [
+      "default:extract:c41eeff00211af1fc83465791eb75c42",
+      "default:extract:0a54b829da22de50767efe1f9e850946"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Bevel Gear Technical Drawing (image)",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1765844546,
+    "update_time": 1765844611,
+    "_id": "chunk-dc55262e2c0b9a1d647284ed866d4965"
+  },
+  "chunk-f0263403d423742dd5cc7f07935e8886": {
+    "content": "\nImage Content Analysis:\nImage Path: C:\\Users\\grabe_stud\\llm_cad_projekt\\RAG\\llm_3d_cad\\RAG-Anything\\ollama-based\\multimodal-rag\\bevel_gear\\one-time-query\\naiv\\output_bevel_gear\\bevel_gear\\auto\\images\\8350a69bafa49ba9f73ed1eb25342b446c3a3c19576ebc8ed7bd6f38b7cbce66.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: { \"detailed_description\": \"The image depicts a metal gear component, likely made of steel or another metal alloy, with a cylindrical body and a gear-like structure attached to the top. The gear has a series of teeth that are evenly spaced and have a sharp, angular shape. The teeth are also slightly curved, giving the gear a slightly rounded appearance. The gear is positioned at an angle, with the teeth facing towards the top-left corner of the image. The background of the image is a dark gray color, which helps to highlight the details of the gear. The overall composition of the image is simple, with the gear being the only object in the frame. The layout is straightforward, with the gear taking up most of the space in the image. The visual style of the image is technical, with a focus on showcasing the details of the gear. The lighting is likely artificial, as there are no shadows or reflections that would suggest natural light. The technical details of the image include the use of a metal material for the gear, which is likely made of a high-quality alloy. The gear's design is also notable, with the teeth being evenly spaced and the gear being slightly curved. The image does not show any actions or activities, as it is simply a static image of a metal gear. Overall, the image is a technical representation of a metal gear component, with a focus on showcasing its details and design.\" }",
+    "tokens": 417,
+    "full_doc_id": "doc-43dfedb460a1351c9a7ef9da79bac15a",
+    "chunk_order_index": 2,
+    "file_path": "bevel_gear.pdf",
+    "llm_cache_list": [
+      "default:extract:eff173e02af47768195802cd73fbd9fc",
+      "default:extract:135d77bee47cac4576a67572f9a36943"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_1308036b9e8f08899b03d9adeaf404e7",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1765844546,
+    "update_time": 1765844611,
+    "_id": "chunk-f0263403d423742dd5cc7f07935e8886"
+  },
+  "chunk-cc0a8250528fa45bb4851504ad8c1f63": {
+    "content": "TABLE_AS_JSON:\n{\n  \"metadata\": {\n    \"image_path\": \"C:\\\\Users\\\\grabe_stud\\\\llm_cad_projekt\\\\RAG\\\\llm_3d_cad\\\\RAG-Anything\\\\ollama-based\\\\multimodal-rag\\\\bevel_gear\\\\one-time-query\\\\naiv\\\\output_bevel_gear\\\\bevel_gear\\\\auto\\\\images\\\\f5cd3a5cf84ebe152a8e7a1b18d26e18a45453d30b5517a75e4c2013ec32dd6b.jpg\",\n    \"caption\": \"\",\n    \"footnotes\": [],\n    \"summary\": \"\"\n  },\n  \"table\": {\n    \"columns\": [\n      \"M\",\n      \"z\",\n      \"B[mm]|\",\n      \"ON[mm]\",\n      \"OTK[mm]\",\n      \"OKK[mm]\",\n      \"E[mm]\",\n      \"NL[mm]\",\n      \"ZB\",\n      \"Q\",\n      \"L|[mm]|\",\n      \"G[g]\",\n      \"DM**[Ncm]\",\n      \"Art.-Nr.\"\n    ],\n    \"rows\": [\n      {\n        \"M\": \"1,0\",\n        \"z\": \"16\",\n        \"B[mm]|\": \"6\",\n        \"ON[mm]\": \"12\",\n        \"OTK[mm]\": \"16\",\n        \"OKK[mm]\": \"17,7\",\n        \"E[mm]\": \"17,9\",\n        \"NL[mm]\": \"7.5\",\n        \"ZB\": \"4.5\",\n        \"Q\": \"13\",\n        \"L|[mm]|\": \"13\",\n        \"G[g]\": \"7\",\n        \"DM**[Ncm]\": \"21,82\",\n        \"Art.-Nr.\": \"KD1016-1:1ZN\"\n      },\n      {\n        \"M\": \"1,5\",\n        \"z\": \"16\",\n        \"B[mm]|\": \"8\",\n        \"ON[mm]\": \"19\",\n        \"OTK[mm]\": \"24\",\n        \"OKK[mm]\": \"26\",\n        \"E[mm]\": \"25,2\",\n        \"NL[mm]\": \"10,7\",\n        \"ZB\": \"6,9\",\n        \"Q\": \"17\",\n        \"L|[mm]|\": \"18,6\",\n        \"G[g]\": \"27\",\n        \"DM**[Ncm]\": \"73,13\",\n        \"Art.-Nr.\": \"KD1516-1:1ZN\"\n      },\n      {\n        \"M\": \"2,0\",\n        \"z\": \"16\",\n        \"B[mm]|\": \"10\",\n        \"ON[mm]\": \"23\",\n        \"OTK[mm]\": \"32\",\n        \"OKK[mm]\": \"34,8\",\n        \"E[mm]\": \"30\",\n        \"NL[mm]\": \"10\",\n        \"ZB\": \"9,6\",\n        \"Q\": \"19,2\",\n        \"L|[mm]|\": \"21,3\",\n        \"G[g]\": \"52\",\n        \"DM**[Ncm]\": \"185,77\",\n        \"Art.-Nr.\": \"KD2016-1:1ZN\"\n      },\n      {\n        \"M\": \"2.5\",\n        \"z\": \"16\",\n        \"B[mm]|\": \"12\",\n        \"ON[mm]\": \"26\",\n        \"OTK[mm]\": \"40\",\n        \"OKK[mm]\": \"43.3\",\n        \"E[mm]\": \"36,2\",\n        \"NL[mm]\": \"12\",\n        \"ZB\": \"12,3\",\n        \"Q\": \"23\",\n        \"L|[mm]|\": \"25,5\",\n        \"G[g]\": \"88\",\n        \"DM**[Ncm]\": \"357,06\",\n        \"Art.-Nr.\": \"KD2516-1:1ZN\"\n      },\n      {\n        \"M\": \"3,0\",\n        \"z\": \"16\",\n        \"B[mm]|\": \"14\",\n        \"ON[mm]\": \"30\",\n        \"OTK[mm]\": \"48\",\n        \"OKK[mm]\": \"52,3\",\n        \"E[mm]\": \"42,5\",\n        \"NL[mm]\": \"13\",\n        \"ZB\": \"14\",\n        \"Q\": \"26\",\n        \"L|[mm]|\": \"29,3\",\n        \"G[g]\": \"146\",\n        \"DM**[Ncm]\": \"576,86\",\n        \"Art.-Nr.\": \"KD3016-1:1ZN\"\n      },\n      {\n        \"M\": \"3.5\",\n        \"z\": \"16\",\n        \"B[mm]|\": \"16\",\n        \"ON[mm]\": \"34\",\n        \"OTK[mm]\": \"56\",\n        \"OKK[mm]\": \"61,4\",\n        \"E[mm]\": \"49,2\",\n        \"NL[mm]\": \"14\",\n        \"ZB\": \"15,5\",\n        \"Q\": \"29,2\",\n        \"L|[mm]|\": \"33,2\",\n        \"G[g]\": \"228\",\n        \"DM**[Ncm]\": \"898,94\",\n        \"Art.-Nr.\": \"KD3516-1:1ZN\"\n      }\n    ]\n  }\n}\n",
+    "tokens": 1188,
+    "full_doc_id": "doc-43dfedb460a1351c9a7ef9da79bac15a",
+    "chunk_order_index": 3,
+    "file_path": "bevel_gear.pdf",
+    "llm_cache_list": [
+      "default:extract:a548f6e0a95cf279f07a6945dbd2b22b",
+      "default:extract:8154fe02239a40f5a68f3e7331ba6ca0"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Bevel Gear Dimensions (table)",
+    "original_type": "table",
+    "page_idx": 0,
+    "create_time": 1765844546,
+    "update_time": 1765844611,
+    "_id": "chunk-cc0a8250528fa45bb4851504ad8c1f63"
+  },
+  "chunk-e807696b3f1023278a64c75626f362ff": {
+    "content": "Discarded Content Analysis:\nContent: {'type': 'discarded', 'text': 'Gerne bearbeiten wir diese Standardteile auf Ihren Wunsch hin durch Einbringung von veränderten Bohrungsdurchmessern, zusätzlichen Bohrungen, Gewinden, Nuten etc. Außerdem fertigen wir auch spezifisch nach Ihren Zeichnungen. Ihre Anfrage senden Sie an mailbox@zipperle-antriebstechnik.de ', 'bbox': [95, 922, 882, 947], 'page_idx': 0}\n\nAnalysis: A comprehensive analysis of the content including:\n- Content structure: The content is a JSON object with specific keys (type, text, bbox, page_idx).\n- Key information: The content is a discarded document of type 'discarded' with a text describing a customization service for standard parts.\n- Relationships: The content is related to a specific page (page_idx = 0) and has a bounding box (bbox) indicating its location on the page.\n- Context and significance: The content is likely a part of a larger document or database, and its significance lies in its potential to be reused or referenced in the future.\n- Relevant details for knowledge retrieval: The content's type, text, and bounding box information can be used to retrieve related documents or information.",
+    "tokens": 261,
+    "full_doc_id": "doc-43dfedb460a1351c9a7ef9da79bac15a",
+    "chunk_order_index": 4,
+    "file_path": "bevel_gear.pdf",
+    "llm_cache_list": [
+      "default:extract:19ea60d851f75c1f5176c9f13b4b3e63",
+      "default:extract:1b6a83b68843dd6340148d16a39d821c"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Customization Service for Standard Parts (discarded)",
+    "original_type": "discarded",
+    "page_idx": 0,
+    "create_time": 1765844546,
+    "update_time": 1765844611,
+    "_id": "chunk-e807696b3f1023278a64c75626f362ff"
+  },
+  "chunk-852487bcd0da16544613477c064ab4db": {
+    "content": "Discarded Content Analysis:\nContent: {'type': 'discarded', 'text': '', 'bbox': [927, 124, 1000, 167], 'page_idx': 0}\n\nAnalysis: A discarded content analysis with the following key findings:",
+    "tokens": 53,
+    "full_doc_id": "doc-43dfedb460a1351c9a7ef9da79bac15a",
+    "chunk_order_index": 5,
+    "file_path": "bevel_gear.pdf",
+    "llm_cache_list": [
+      "default:extract:563bbd6aa7117467d7fb2edd63b38f36",
+      "default:extract:a0100d933d0ae9060a8e47265a6f1356"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Discarded Content 0 (discarded)",
+    "original_type": "discarded",
+    "page_idx": 0,
+    "create_time": 1765844546,
+    "update_time": 1765844625,
+    "_id": "chunk-852487bcd0da16544613477c064ab4db"
+  },
+  "chunk-cef827c48511f28c26d198e488d621c1": {
+    "content": "Discarded Content Analysis:\nContent: {'type': 'discarded', 'text': 'zipperle Antriebstechnik ', 'bbox': [643, 30, 904, 91], 'page_idx': 0}\n\nAnalysis: The content is a discarded item with a type of 'discarded' and a text description of 'zipperle Antriebstechnik '. The content has a bounding box with coordinates [643, 30, 904, 91] and is located on page 0. The entity type is 'discarded' and the entity name is 'zipperle Antriebstechnik '. The summary is that the content is a discarded item with a type of 'discarded' and a text description.",
+    "tokens": 151,
+    "full_doc_id": "doc-43dfedb460a1351c9a7ef9da79bac15a",
+    "chunk_order_index": 6,
+    "file_path": "bevel_gear.pdf",
+    "llm_cache_list": [
+      "default:extract:cc9c87b1352a8dba82a05247acb2965c",
+      "default:extract:e5647948dbeac62c8337c5fff5151112"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "zipperle Antriebstechnik  (discarded)",
+    "original_type": "discarded",
+    "page_idx": 0,
+    "create_time": 1765844546,
+    "update_time": 1765844625,
+    "_id": "chunk-cef827c48511f28c26d198e488d621c1"
+  },
+  "chunk-3c6ca14cfda283983d49d58cbc5da322": {
+    "content": "Discarded Content Analysis:\nContent: {'type': 'discarded', 'text': '15 ', 'bbox': [926, 925, 1000, 952], 'page_idx': 0}\n\nAnalysis: This discarded content is a fragment of text with a bounding box, indicating it was part of a larger document. The content is empty, with only a space character. The context suggests it may be a leftover from a document processing or OCR (Optical Character Recognition) operation.",
+    "tokens": 100,
+    "full_doc_id": "doc-43dfedb460a1351c9a7ef9da79bac15a",
+    "chunk_order_index": 7,
+    "file_path": "bevel_gear.pdf",
+    "llm_cache_list": [
+      "default:extract:8cb6c5fe8aba761cfec081a0c3adce71",
+      "default:extract:9d43bc1f82b303ee9e7a10b4510f865f"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Discarded Text Fragment (discarded)",
+    "original_type": "discarded",
+    "page_idx": 0,
+    "create_time": 1765844546,
+    "update_time": 1765844625,
+    "_id": "chunk-3c6ca14cfda283983d49d58cbc5da322"
+  },
+  "chunk-c5548d22edd11433b81e01a1ec0fc708": {
+    "content": "Discarded Content Analysis:\nContent: {'type': 'discarded', 'text': '', 'bbox': [907, 246, 919, 303], 'page_idx': 0}\n\nAnalysis: The discarded content is a page element with the following characteristics: it is located at position [907, 246, 919, 303] on page 0 and has no text. It is classified as a discarded entity, which may indicate a deleted or redundant section.",
+    "tokens": 97,
+    "full_doc_id": "doc-43dfedb460a1351c9a7ef9da79bac15a",
+    "chunk_order_index": 8,
+    "file_path": "bevel_gear.pdf",
+    "llm_cache_list": [
+      "default:extract:0da0161608235f28a4bf18faefdc1174",
+      "default:extract:5ac1f982bb26697445e90a5e56e1968c"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Discarded Page Element (discarded)",
+    "original_type": "discarded",
+    "page_idx": 0,
+    "create_time": 1765844546,
+    "update_time": 1765844625,
+    "_id": "chunk-c5548d22edd11433b81e01a1ec0fc708"
+  }
+}

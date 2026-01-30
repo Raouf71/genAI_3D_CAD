@@ -1,0 +1,1955 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Kegelräder aus Zink">
+      <data key="d0">Kegelräder aus Zink</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Kegelräder aus Zink sind ein Material mit bestimmten Eigenschaften.</data>
+      <data key="d3">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844374</data>
+      <data key="d6" />
+    </node>
+    <node id="Zink">
+      <data key="d0">Zink</data>
+      <data key="d1">material</data>
+      <data key="d2">Zink ist ein Element, das in verschiedenen Anwendungen verwendet wird.</data>
+      <data key="d3">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844374</data>
+      <data key="d6" />
+    </node>
+    <node id="Übersetzung 1:1">
+      <data key="d0">Übersetzung 1:1</data>
+      <data key="d1">concept</data>
+      <data key="d2">Übersetzung 1:1 bezieht sich auf eine spezifische Art der Materialverarbeitung.</data>
+      <data key="d3">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844374</data>
+      <data key="d6" />
+    </node>
+    <node id="Ausführung">
+      <data key="d0">Ausführung</data>
+      <data key="d1">concept</data>
+      <data key="d2">Ausführung bezieht sich auf die spezifischen Eigenschaften eines Materials.</data>
+      <data key="d3">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844374</data>
+      <data key="d6" />
+    </node>
+    <node id="geradverzahnt">
+      <data key="d0">geradverzahnt</data>
+      <data key="d1">concept</data>
+      <data key="d2">geradverzahnt bezieht sich auf die Art der Materialverarbeitung.</data>
+      <data key="d3">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844374</data>
+      <data key="d6" />
+    </node>
+    <node id="gegossen">
+      <data key="d0">gegossen</data>
+      <data key="d1">concept</data>
+      <data key="d2">gegossen bezieht sich auf die Art der Materialherstellung.</data>
+      <data key="d3">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844374</data>
+      <data key="d6" />
+    </node>
+    <node id="Eingriffswinkel">
+      <data key="d0">Eingriffswinkel</data>
+      <data key="d1">concept</data>
+      <data key="d2">Eingriffswinkel bezieht sich auf die spezifischen Eigenschaften eines Materials.</data>
+      <data key="d3">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844374</data>
+      <data key="d6" />
+    </node>
+    <node id="Bohrungen">
+      <data key="d0">Bohrungen</data>
+      <data key="d1">concept</data>
+      <data key="d2">Bohrungen bezieht sich auf die Art der Materialbearbeitung.</data>
+      <data key="d3">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844374</data>
+      <data key="d6" />
+    </node>
+    <node id="Toleranz">
+      <data key="d0">Toleranz</data>
+      <data key="d1">concept</data>
+      <data key="d2">Toleranz bezieht sich auf die spezifischen Eigenschaften eines Materials.</data>
+      <data key="d3">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844376</data>
+      <data key="d6" />
+    </node>
+    <node id="H 9">
+      <data key="d0">H 9</data>
+      <data key="d1">concept</data>
+      <data key="d2">H 9 bezieht sich auf eine spezifische Art der Materialbearbeitung.</data>
+      <data key="d3">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844376</data>
+      <data key="d6" />
+    </node>
+    <node id="S. 14">
+      <data key="d0">S. 14</data>
+      <data key="d1">content</data>
+      <data key="d2">S. 14 bezieht sich auf eine spezifische Seite in einem Dokument.</data>
+      <data key="d3">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844377</data>
+      <data key="d6" />
+    </node>
+    <node id="Bevel Gear Technical Drawing (image)">
+      <data key="d0">Bevel Gear Technical Drawing (image)</data>
+      <data key="d1">image</data>
+      <data key="d2">A technical drawing of a bevel gear, featuring a 3D representation of the gear with various dimensions and measurements labeled.</data>
+      <data key="d3">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844547</data>
+    </node>
+    <node id="image_1308036b9e8f08899b03d9adeaf404e7">
+      <data key="d0">image_1308036b9e8f08899b03d9adeaf404e7</data>
+      <data key="d1">image</data>
+      <data key="d2">{ "detailed_description": "The image depicts a metal gear component, likely made of steel or another...</data>
+      <data key="d3">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844547</data>
+    </node>
+    <node id="Bevel Gear Dimensions (table)">
+      <data key="d0">Bevel Gear Dimensions (table)</data>
+      <data key="d1">table</data>
+      <data key="d2">This table presents the dimensions and measurements of various bevel gears, including the outer diameter, inner diameter, and other key parameters. The data suggests a trend in the dimensions and measurements, with the values increasing as the gear size increases.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844547</data>
+    </node>
+    <node id="Customization Service for Standard Parts (discarded)">
+      <data key="d0">Customization Service for Standard Parts (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">A discarded document describing a customization service for standard parts, allowing modifications such as changed hole diameters, additional holes, threads, and nuts. Customization requests can be sent to mailbox@zipperle-antriebstechnik.de.</data>
+      <data key="d3">chunk-e807696b3f1023278a64c75626f362ff</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844547</data>
+    </node>
+    <node id="Discarded Content 0 (discarded)">
+      <data key="d0">Discarded Content 0 (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">A discarded content with no text, located at page index 0, bounding box coordinates [927, 124, 1000, 167].</data>
+      <data key="d3">chunk-852487bcd0da16544613477c064ab4db</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844547</data>
+    </node>
+    <node id="zipperle Antriebstechnik  (discarded)">
+      <data key="d0">zipperle Antriebstechnik  (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">Discarded item with type 'discarded' and text description 'zipperle Antriebstechnik '. Located on page 0 with bounding box [643, 30, 904, 91].</data>
+      <data key="d3">chunk-cef827c48511f28c26d198e488d621c1</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844547</data>
+    </node>
+    <node id="Discarded Text Fragment (discarded)">
+      <data key="d0">Discarded Text Fragment (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">A discarded text fragment with a bounding box, likely from a document processing or OCR operation.</data>
+      <data key="d3">chunk-3c6ca14cfda283983d49d58cbc5da322</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844547</data>
+    </node>
+    <node id="Discarded Page Element (discarded)">
+      <data key="d0">Discarded Page Element (discarded)</data>
+      <data key="d1">discarded</data>
+      <data key="d2">A discarded page element with no text, located at [907, 246, 919, 303] on page 0.</data>
+      <data key="d3">chunk-c5548d22edd11433b81e01a1ec0fc708</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844547</data>
+    </node>
+    <node id="Content Analysis">
+      <data key="d0">Content Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Content Analysis is a process of examining and interpreting the meaning of content, including text, images, and other forms of media.&lt;SEP&gt;Content Analysis is a process used to extract meaningful information from text data.&lt;SEP&gt;Content Analysis is a process used to extract meaningful information from text.&lt;SEP&gt;Content Analysis is a process used to extract meaningful information from a given text.</data>
+      <data key="d3">chunk-852487bcd0da16544613477c064ab4db&lt;SEP&gt;chunk-cef827c48511f28c26d198e488d621c1&lt;SEP&gt;chunk-e807696b3f1023278a64c75626f362ff&lt;SEP&gt;chunk-c5548d22edd11433b81e01a1ec0fc708</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844625</data>
+      <data key="d6" />
+    </node>
+    <node id="Discarded Content">
+      <data key="d0">Discarded Content</data>
+      <data key="d1">concept</data>
+      <data key="d2">Discarded Content refers to content that is no longer relevant, useful, or applicable.&lt;SEP&gt;Discarded Content refers to items that are no longer relevant or useful in the analysis.&lt;SEP&gt;Discarded Content refers to content that is not relevant or useful for the analysis.</data>
+      <data key="d3">chunk-852487bcd0da16544613477c064ab4db&lt;SEP&gt;chunk-cef827c48511f28c26d198e488d621c1&lt;SEP&gt;chunk-e807696b3f1023278a64c75626f362ff</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844625</data>
+      <data key="d6" />
+    </node>
+    <node id="Analysis">
+      <data key="d0">Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Analysis is a process of examining and interpreting the meaning of content, including text, images, and other forms of media.&lt;SEP&gt;Analysis refers to the process of examining and interpreting data or information to extract meaningful insights or conclusions.&lt;SEP&gt;Analysis is a process used to extract meaningful information from text data.&lt;SEP&gt;Analysis is a process used to extract meaningful information from text.</data>
+      <data key="d3">chunk-852487bcd0da16544613477c064ab4db&lt;SEP&gt;chunk-3c6ca14cfda283983d49d58cbc5da322&lt;SEP&gt;chunk-cef827c48511f28c26d198e488d621c1&lt;SEP&gt;chunk-e807696b3f1023278a64c75626f362ff</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844625</data>
+      <data key="d6" />
+    </node>
+    <node id="TABLE_AS_JSON">
+      <data key="d0">TABLE_AS_JSON</data>
+      <data key="d1">category</data>
+      <data key="d2">TABLE_AS_JSON is a metadata object containing information about the table.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844625</data>
+      <data key="d6" />
+    </node>
+    <node id="metadata">
+      <data key="d0">metadata</data>
+      <data key="d1">category</data>
+      <data key="d2">metadata is a component of TABLE_AS_JSON containing image path, caption, footnotes, and summary.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844625</data>
+      <data key="d6" />
+    </node>
+    <node id="image_path">
+      <data key="d0">image_path</data>
+      <data key="d1">category</data>
+      <data key="d2">image_path is a metadata field within TABLE_AS_JSON containing the path to an image.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844625</data>
+      <data key="d6" />
+    </node>
+    <node id="caption">
+      <data key="d0">caption</data>
+      <data key="d1">category</data>
+      <data key="d2">caption is a metadata field within TABLE_AS_JSON containing a brief description of the table.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844625</data>
+      <data key="d6" />
+    </node>
+    <node id="footnotes">
+      <data key="d0">footnotes</data>
+      <data key="d1">category</data>
+      <data key="d2">footnotes is a metadata field within TABLE_AS_JSON containing additional notes or explanations.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844625</data>
+      <data key="d6" />
+    </node>
+    <node id="summary">
+      <data key="d0">summary</data>
+      <data key="d1">category</data>
+      <data key="d2">summary is a metadata field within TABLE_AS_JSON containing a concise summary of the table.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844627</data>
+      <data key="d6" />
+    </node>
+    <node id="table">
+      <data key="d0">table</data>
+      <data key="d1">category</data>
+      <data key="d2">table is a component of TABLE_AS_JSON containing column and row data.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844627</data>
+      <data key="d6" />
+    </node>
+    <node id="columns">
+      <data key="d0">columns</data>
+      <data key="d1">category</data>
+      <data key="d2">columns is a component of table containing column names.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844627</data>
+      <data key="d6" />
+    </node>
+    <node id="rows">
+      <data key="d0">rows</data>
+      <data key="d1">category</data>
+      <data key="d2">rows is a component of table containing row data.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844627</data>
+      <data key="d6" />
+    </node>
+    <node id="M">
+      <data key="d0">M</data>
+      <data key="d1">category</data>
+      <data key="d2">M is a column within table containing values for the M parameter.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844627</data>
+      <data key="d6" />
+    </node>
+    <node id="z">
+      <data key="d0">z</data>
+      <data key="d1">category</data>
+      <data key="d2">z is a column within table containing values for the z parameter.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844627</data>
+      <data key="d6" />
+    </node>
+    <node id="B[mm]|">
+      <data key="d0">B[mm]|</data>
+      <data key="d1">category</data>
+      <data key="d2">B[mm]| is a column within table containing values for the B[mm]| parameter.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844627</data>
+      <data key="d6" />
+    </node>
+    <node id="ON[mm]">
+      <data key="d0">ON[mm]</data>
+      <data key="d1">category</data>
+      <data key="d2">ON[mm] is a column within table containing values for the ON[mm] parameter.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844627</data>
+      <data key="d6" />
+    </node>
+    <node id="OTK[mm]">
+      <data key="d0">OTK[mm]</data>
+      <data key="d1">category</data>
+      <data key="d2">OTK[mm] is a column within table containing values for the OTK[mm] parameter.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844629</data>
+      <data key="d6" />
+    </node>
+    <node id="OKK[mm]">
+      <data key="d0">OKK[mm]</data>
+      <data key="d1">category</data>
+      <data key="d2">OKK[mm] is a column within table containing values for the OKK[mm] parameter.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844629</data>
+      <data key="d6" />
+    </node>
+    <node id="E[mm]">
+      <data key="d0">E[mm]</data>
+      <data key="d1">category</data>
+      <data key="d2">E[mm] is a column within table containing values for the E[mm] parameter.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844629</data>
+      <data key="d6" />
+    </node>
+    <node id="NL[mm]">
+      <data key="d0">NL[mm]</data>
+      <data key="d1">category</data>
+      <data key="d2">NL[mm] is a column within table containing values for the NL[mm] parameter.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844629</data>
+      <data key="d6" />
+    </node>
+    <node id="ZB">
+      <data key="d0">ZB</data>
+      <data key="d1">category</data>
+      <data key="d2">ZB is a column within table containing values for the ZB parameter.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844629</data>
+      <data key="d6" />
+    </node>
+    <node id="Q">
+      <data key="d0">Q</data>
+      <data key="d1">category</data>
+      <data key="d2">Q is a column within table containing values for the Q parameter.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844629</data>
+      <data key="d6" />
+    </node>
+    <node id="L|[mm]|">
+      <data key="d0">L|[mm]|</data>
+      <data key="d1">category</data>
+      <data key="d2">L|[mm]| is a column within table containing values for the L|[mm]| parameter.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844629</data>
+      <data key="d6" />
+    </node>
+    <node id="G[g]">
+      <data key="d0">G[g]</data>
+      <data key="d1">category</data>
+      <data key="d2">G[g] is a column within table containing values for the G[g] parameter.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844629</data>
+      <data key="d6" />
+    </node>
+    <node id="DM**[Ncm]">
+      <data key="d0">DM**[Ncm]</data>
+      <data key="d1">category</data>
+      <data key="d2">DM**[Ncm] is a column within table containing values for the DM**[Ncm] parameter.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844631</data>
+      <data key="d6" />
+    </node>
+    <node id="Art.-Nr.">
+      <data key="d0">Art.-Nr.</data>
+      <data key="d1">category</data>
+      <data key="d2">Art.-Nr. is a column within table containing values for the Art.-Nr. parameter.</data>
+      <data key="d3">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844631</data>
+      <data key="d6" />
+    </node>
+    <node id="Discarded Content Analysis">
+      <data key="d0">Discarded Content Analysis</data>
+      <data key="d1">content</data>
+      <data key="d2">Discarded Content Analysis is a page element with the following characteristics: it is located at position [907, 246, 919, 303] on page 0 and has no text.&lt;SEP&gt;Discarded Content Analysis is a type of content that is discarded during the analysis process, typically due to its irrelevance or lack of significance.</data>
+      <data key="d3">chunk-3c6ca14cfda283983d49d58cbc5da322&lt;SEP&gt;chunk-c5548d22edd11433b81e01a1ec0fc708</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844631</data>
+      <data key="d6" />
+    </node>
+    <node id="Content">
+      <data key="d0">Content</data>
+      <data key="d1">content</data>
+      <data key="d2">Content refers to the information or data being analyzed, which in this case is a fragment of text with a bounding box.</data>
+      <data key="d3">chunk-3c6ca14cfda283983d49d58cbc5da322&lt;SEP&gt;chunk-c5548d22edd11433b81e01a1ec0fc708</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844631</data>
+      <data key="d6" />
+    </node>
+    <node id="Text">
+      <data key="d0">Text</data>
+      <data key="d1">content</data>
+      <data key="d2">Text is the raw material being analyzed, which can include various forms of data such as images, audio, or written content.</data>
+      <data key="d3">chunk-3c6ca14cfda283983d49d58cbc5da322</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844631</data>
+      <data key="d6" />
+    </node>
+    <node id="BBox">
+      <data key="d0">BBox</data>
+      <data key="d1">concept</data>
+      <data key="d2">BBox is a concept in computer vision that refers to the bounding box of an object or region of interest in an image.</data>
+      <data key="d3">chunk-3c6ca14cfda283983d49d58cbc5da322</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844631</data>
+      <data key="d6" />
+    </node>
+    <node id="Page Index">
+      <data key="d0">Page Index</data>
+      <data key="d1">concept</data>
+      <data key="d2">Page Index is a concept in document analysis that refers to the index or identifier of a page in a document.</data>
+      <data key="d3">chunk-3c6ca14cfda283983d49d58cbc5da322</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844631</data>
+      <data key="d6" />
+    </node>
+    <node id="Image Content Analysis">
+      <data key="d0">Image Content Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Image Content Analysis is a process used to analyze and understand the content of an image.</data>
+      <data key="d3">chunk-dc55262e2c0b9a1d647284ed866d4965&lt;SEP&gt;chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844631</data>
+      <data key="d6" />
+    </node>
+    <node id="Image Path">
+      <data key="d0">Image Path</data>
+      <data key="d1">category</data>
+      <data key="d2">The Image Path is a directory or file path where the image is stored.</data>
+      <data key="d3">chunk-dc55262e2c0b9a1d647284ed866d4965&lt;SEP&gt;chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844633</data>
+      <data key="d6" />
+    </node>
+    <node id="Captions">
+      <data key="d0">Captions</data>
+      <data key="d1">category</data>
+      <data key="d2">Captions are text descriptions or labels that provide context or meaning to an image.&lt;SEP&gt;Captions are text descriptions that provide context or information about an image.</data>
+      <data key="d3">chunk-dc55262e2c0b9a1d647284ed866d4965&lt;SEP&gt;chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844633</data>
+      <data key="d6" />
+    </node>
+    <node id="Footnotes">
+      <data key="d0">Footnotes</data>
+      <data key="d1">category</data>
+      <data key="d2">Footnotes are additional notes or references that provide further information about an image.&lt;SEP&gt;Footnotes are additional notes or references that provide further information or context.</data>
+      <data key="d3">chunk-dc55262e2c0b9a1d647284ed866d4965&lt;SEP&gt;chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844633</data>
+      <data key="d6" />
+    </node>
+    <node id="Visual Analysis">
+      <data key="d0">Visual Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Visual Analysis is a process used to analyze and understand the visual content of an image.&lt;SEP&gt;Visual Analysis is the process of examining and interpreting visual data, such as images.</data>
+      <data key="d3">chunk-dc55262e2c0b9a1d647284ed866d4965&lt;SEP&gt;chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844633</data>
+      <data key="d6" />
+    </node>
+    <node id="Technical Drawing">
+      <data key="d0">Technical Drawing</data>
+      <data key="d1">category</data>
+      <data key="d2">Technical drawings are detailed illustrations or diagrams used to represent technical information.</data>
+      <data key="d3">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844633</data>
+      <data key="d6" />
+    </node>
+    <node id="Bevel Gear">
+      <data key="d0">Bevel Gear</data>
+      <data key="d1">category</data>
+      <data key="d2">A bevel gear is a type of gear that is used to transmit power or motion between two shafts at an angle.</data>
+      <data key="d3">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844633</data>
+      <data key="d6" />
+    </node>
+    <node id="3D Representation">
+      <data key="d0">3D Representation</data>
+      <data key="d1">category</data>
+      <data key="d2">A 3D representation is a visual representation of an object or scene in three dimensions.</data>
+      <data key="d3">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844634</data>
+      <data key="d6" />
+    </node>
+    <node id="Dimensions">
+      <data key="d0">Dimensions</data>
+      <data key="d1">category</data>
+      <data key="d2">Dimensions are measurements or specifications used to describe the size or shape of an object.</data>
+      <data key="d3">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844634</data>
+      <data key="d6" />
+    </node>
+    <node id="Measurements">
+      <data key="d0">Measurements</data>
+      <data key="d1">category</data>
+      <data key="d2">Measurements are quantitative values used to describe the size or shape of an object.</data>
+      <data key="d3">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844634</data>
+      <data key="d6" />
+    </node>
+    <node id="Annotations">
+      <data key="d0">Annotations</data>
+      <data key="d1">category</data>
+      <data key="d2">Annotations are labels or notes used to provide additional information or context.</data>
+      <data key="d3">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844635</data>
+      <data key="d6" />
+    </node>
+    <node id="Labels">
+      <data key="d0">Labels</data>
+      <data key="d1">category</data>
+      <data key="d2">Labels are text descriptions or labels used to identify or describe an object or feature.</data>
+      <data key="d3">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844635</data>
+      <data key="d6" />
+    </node>
+    <node id="Background">
+      <data key="d0">Background</data>
+      <data key="d1">category</data>
+      <data key="d2">The background of an image is the area or region that is not part of the main subject or object.</data>
+      <data key="d3">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844635</data>
+      <data key="d6" />
+    </node>
+    <node id="Composition">
+      <data key="d0">Composition</data>
+      <data key="d1">category</data>
+      <data key="d2">Composition refers to the arrangement or organization of visual elements within an image.</data>
+      <data key="d3">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844635</data>
+      <data key="d6" />
+    </node>
+    <node id="Layout">
+      <data key="d0">Layout</data>
+      <data key="d1">category</data>
+      <data key="d2">Layout refers to the arrangement or organization of visual elements within an image.</data>
+      <data key="d3">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844635</data>
+      <data key="d6" />
+    </node>
+    <node id="Image">
+      <data key="d0">Image</data>
+      <data key="d1">category</data>
+      <data key="d2">The image is a visual representation of the metal gear component.&lt;SEP&gt;The image is a visual representation of the technical drawing.</data>
+      <data key="d3">chunk-dc55262e2c0b9a1d647284ed866d4965&lt;SEP&gt;chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844636</data>
+      <data key="d6" />
+    </node>
+    <node id="zipperle Antriebstechnik">
+      <data key="d0">zipperle Antriebstechnik</data>
+      <data key="d1">organization</data>
+      <data key="d2">zipperle Antriebstechnik is a company that is mentioned in the discarded content.</data>
+      <data key="d3">chunk-cef827c48511f28c26d198e488d621c1</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844636</data>
+      <data key="d6" />
+    </node>
+    <node id="detailed_description">
+      <data key="d0">detailed_description</data>
+      <data key="d1">category</data>
+      <data key="d2">The detailed description is a text description that provides a detailed explanation of the image content.</data>
+      <data key="d3">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844636</data>
+      <data key="d6" />
+    </node>
+    <node id="metal gear component">
+      <data key="d0">metal gear component</data>
+      <data key="d1">category</data>
+      <data key="d2">The metal gear component is a type of mechanical component used in machinery or equipment.</data>
+      <data key="d3">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844637</data>
+      <data key="d6" />
+    </node>
+    <node id="steel">
+      <data key="d0">steel</data>
+      <data key="d1">material</data>
+      <data key="d2">Steel is a type of metal alloy used in the construction of machinery or equipment.</data>
+      <data key="d3">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844637</data>
+      <data key="d6" />
+    </node>
+    <node id="gear-like structure">
+      <data key="d0">gear-like structure</data>
+      <data key="d1">category</data>
+      <data key="d2">The gear-like structure is a type of mechanical component used in machinery or equipment.</data>
+      <data key="d3">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844637</data>
+      <data key="d6" />
+    </node>
+    <node id="World Athletics Championship">
+      <data key="d0">World Athletics Championship</data>
+      <data key="d1">event</data>
+      <data key="d2">The World Athletics Championship is a global sports competition featuring top athletes in track and field.</data>
+      <data key="d3">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844637</data>
+      <data key="d6" />
+    </node>
+    <node id="Tokyo">
+      <data key="d0">Tokyo</data>
+      <data key="d1">location</data>
+      <data key="d2">Tokyo is the host city of the World Athletics Championship.</data>
+      <data key="d3">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844637</data>
+      <data key="d6" />
+    </node>
+    <node id="Noah Carter">
+      <data key="d0">Noah Carter</data>
+      <data key="d1">person</data>
+      <data key="d2">Noah Carter is a sprinter who set a new record in the 100m sprint at the World Athletics Championship.</data>
+      <data key="d3">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844638</data>
+      <data key="d6" />
+    </node>
+    <node id="100m Sprint Record">
+      <data key="d0">100m Sprint Record</data>
+      <data key="d1">category</data>
+      <data key="d2">The 100m sprint record is a benchmark in athletics, recently broken by Noah Carter.</data>
+      <data key="d3">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844638</data>
+      <data key="d6" />
+    </node>
+    <node id="Carbon-Fiber Spikes">
+      <data key="d0">Carbon-Fiber Spikes</data>
+      <data key="d1">equipment</data>
+      <data key="d2">Carbon-fiber spikes are advanced sprinting shoes that provide enhanced speed and traction.</data>
+      <data key="d3">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844638</data>
+      <data key="d6" />
+    </node>
+    <node id="World Athletics Federation">
+      <data key="d0">World Athletics Federation</data>
+      <data key="d1">organization</data>
+      <data key="d2">The World Athletics Federation is the governing body overseeing the World Athletics Championship and record validations.</data>
+      <data key="d3">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844639</data>
+      <data key="d6" />
+    </node>
+    <node id="Zipperle-Antriebstechnik">
+      <data key="d0">Zipperle-Antriebstechnik</data>
+      <data key="d1">organization</data>
+      <data key="d2">Zipperle-Antriebstechnik is a company that provides customization services for standard parts.</data>
+      <data key="d3">chunk-e807696b3f1023278a64c75626f362ff</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844639</data>
+      <data key="d6" />
+    </node>
+    <node id="Mailbox">
+      <data key="d0">Mailbox</data>
+      <data key="d1">concept</data>
+      <data key="d2">Mailbox is a system for receiving and sending electronic messages.</data>
+      <data key="d3">chunk-e807696b3f1023278a64c75626f362ff</data>
+      <data key="d4">bevel_gear.pdf</data>
+      <data key="d5">1765844639</data>
+      <data key="d6" />
+    </node>
+    <edge source="Kegelräder aus Zink" target="Zink">
+      <data key="d7">1.0</data>
+      <data key="d8">Kegelräder aus Zink sind ein Material, das Zink enthält.</data>
+      <data key="d9">Material composition,properties</data>
+      <data key="d10">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844377</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kegelräder aus Zink" target="Übersetzung 1:1">
+      <data key="d7">1.0</data>
+      <data key="d8">Kegelräder aus Zink werden durch Übersetzung 1:1 hergestellt.</data>
+      <data key="d9">manufacturing,material processing</data>
+      <data key="d10">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844377</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kegelräder aus Zink" target="Ausführung">
+      <data key="d7">1.0</data>
+      <data key="d8">Kegelräder aus Zink haben bestimmte Eigenschaften.</data>
+      <data key="d9">material properties,specifications</data>
+      <data key="d10">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844377</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kegelräder aus Zink" target="geradverzahnt">
+      <data key="d7">1.0</data>
+      <data key="d8">Kegelräder aus Zink werden geradverzahnt hergestellt.</data>
+      <data key="d9">manufacturing,material processing</data>
+      <data key="d10">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844378</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kegelräder aus Zink" target="gegossen">
+      <data key="d7">1.0</data>
+      <data key="d8">Kegelräder aus Zink werden gegossen hergestellt.</data>
+      <data key="d9">manufacturing,material processing</data>
+      <data key="d10">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844378</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kegelräder aus Zink" target="Eingriffswinkel">
+      <data key="d7">1.0</data>
+      <data key="d8">Kegelräder aus Zink haben bestimmte Eingriffswinkel.</data>
+      <data key="d9">material properties,specifications</data>
+      <data key="d10">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844378</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kegelräder aus Zink" target="Bohrungen">
+      <data key="d7">1.0</data>
+      <data key="d8">Kegelräder aus Zink werden durch Bohrungen bearbeitet.</data>
+      <data key="d9">manufacturing,material processing</data>
+      <data key="d10">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844378</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kegelräder aus Zink" target="Toleranz">
+      <data key="d7">1.0</data>
+      <data key="d8">Kegelräder aus Zink haben bestimmte Toleranzen.</data>
+      <data key="d9">material properties,specifications</data>
+      <data key="d10">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844379</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kegelräder aus Zink" target="H 9">
+      <data key="d7">1.0</data>
+      <data key="d8">Kegelräder aus Zink werden durch H 9 bearbeitet.</data>
+      <data key="d9">manufacturing,material processing</data>
+      <data key="d10">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844379</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kegelräder aus Zink" target="S. 14">
+      <data key="d7">1.0</data>
+      <data key="d8">Die Eigenschaften von Kegelräder aus Zink werden auf S. 14 dokumentiert.</data>
+      <data key="d9">material documentation,specifications</data>
+      <data key="d10">chunk-a51c78a49a42ea238802cc660193ebd1</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844379</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Technical Drawing (image)" target="Image Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image Content Analysis belongs to Bevel Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844657</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Technical Drawing (image)" target="Image Path">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image Path belongs to Bevel Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844658</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Technical Drawing (image)" target="Captions">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Captions belongs to Bevel Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844659</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Technical Drawing (image)" target="Footnotes">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Footnotes belongs to Bevel Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844659</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Technical Drawing (image)" target="Visual Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Visual Analysis belongs to Bevel Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844659</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Technical Drawing (image)" target="Technical Drawing">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Technical Drawing belongs to Bevel Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844659</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Technical Drawing (image)" target="Bevel Gear">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Bevel Gear belongs to Bevel Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844660</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Technical Drawing (image)" target="3D Representation">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity 3D Representation belongs to Bevel Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844660</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Technical Drawing (image)" target="Dimensions">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Dimensions belongs to Bevel Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844660</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Technical Drawing (image)" target="Measurements">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Measurements belongs to Bevel Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844661</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Technical Drawing (image)" target="Annotations">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Annotations belongs to Bevel Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844661</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Technical Drawing (image)" target="Labels">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Labels belongs to Bevel Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844662</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Technical Drawing (image)" target="Background">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Background belongs to Bevel Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844663</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Technical Drawing (image)" target="Composition">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Composition belongs to Bevel Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844664</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Technical Drawing (image)" target="Layout">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Layout belongs to Bevel Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844664</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Technical Drawing (image)" target="Image">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image belongs to Bevel Gear Technical Drawing (image)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844666</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_1308036b9e8f08899b03d9adeaf404e7" target="Image Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image Content Analysis belongs to image_1308036b9e8f08899b03d9adeaf404e7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844664</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_1308036b9e8f08899b03d9adeaf404e7" target="Image Path">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image Path belongs to image_1308036b9e8f08899b03d9adeaf404e7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844665</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_1308036b9e8f08899b03d9adeaf404e7" target="Captions">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Captions belongs to image_1308036b9e8f08899b03d9adeaf404e7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844666</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_1308036b9e8f08899b03d9adeaf404e7" target="Footnotes">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Footnotes belongs to image_1308036b9e8f08899b03d9adeaf404e7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844667</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_1308036b9e8f08899b03d9adeaf404e7" target="Visual Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Visual Analysis belongs to image_1308036b9e8f08899b03d9adeaf404e7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844667</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_1308036b9e8f08899b03d9adeaf404e7" target="detailed_description">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity detailed_description belongs to image_1308036b9e8f08899b03d9adeaf404e7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844667</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_1308036b9e8f08899b03d9adeaf404e7" target="metal gear component">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity metal gear component belongs to image_1308036b9e8f08899b03d9adeaf404e7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844667</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_1308036b9e8f08899b03d9adeaf404e7" target="steel">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity steel belongs to image_1308036b9e8f08899b03d9adeaf404e7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844668</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_1308036b9e8f08899b03d9adeaf404e7" target="gear-like structure">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity gear-like structure belongs to image_1308036b9e8f08899b03d9adeaf404e7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844668</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_1308036b9e8f08899b03d9adeaf404e7" target="World Athletics Championship">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity World Athletics Championship belongs to image_1308036b9e8f08899b03d9adeaf404e7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844668</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_1308036b9e8f08899b03d9adeaf404e7" target="Tokyo">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Tokyo belongs to image_1308036b9e8f08899b03d9adeaf404e7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844669</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_1308036b9e8f08899b03d9adeaf404e7" target="Noah Carter">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Noah Carter belongs to image_1308036b9e8f08899b03d9adeaf404e7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844669</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_1308036b9e8f08899b03d9adeaf404e7" target="100m Sprint Record">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity 100m Sprint Record belongs to image_1308036b9e8f08899b03d9adeaf404e7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844670</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_1308036b9e8f08899b03d9adeaf404e7" target="Carbon-Fiber Spikes">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Carbon-Fiber Spikes belongs to image_1308036b9e8f08899b03d9adeaf404e7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844671</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_1308036b9e8f08899b03d9adeaf404e7" target="World Athletics Federation">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity World Athletics Federation belongs to image_1308036b9e8f08899b03d9adeaf404e7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844671</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_1308036b9e8f08899b03d9adeaf404e7" target="Image">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image belongs to image_1308036b9e8f08899b03d9adeaf404e7</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844672</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="TABLE_AS_JSON">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity TABLE_AS_JSON belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844644</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="metadata">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity metadata belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844645</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="image_path">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity image_path belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844645</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="caption">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity caption belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844646</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="footnotes">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity footnotes belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844646</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="summary">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity summary belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844646</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="table">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity table belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844646</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="columns">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity columns belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844647</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="rows">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity rows belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844647</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="M">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity M belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844647</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="z">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity z belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844648</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="B[mm]|">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity B[mm]| belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844648</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="ON[mm]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity ON[mm] belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844648</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="OTK[mm]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity OTK[mm] belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844648</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="OKK[mm]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity OKK[mm] belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844649</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="E[mm]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity E[mm] belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844649</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="NL[mm]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity NL[mm] belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844649</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="ZB">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity ZB belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844650</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="Q">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Q belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844651</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="L|[mm]|">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity L|[mm]| belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844651</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="G[g]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity G[g] belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844652</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="DM**[Ncm]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity DM**[Ncm] belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844653</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear Dimensions (table)" target="Art.-Nr.">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Art.-Nr. belongs to Bevel Gear Dimensions (table)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844654</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Customization Service for Standard Parts (discarded)" target="Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Content Analysis belongs to Customization Service for Standard Parts (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-e807696b3f1023278a64c75626f362ff</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844670</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Customization Service for Standard Parts (discarded)" target="Discarded Content">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content belongs to Customization Service for Standard Parts (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-e807696b3f1023278a64c75626f362ff</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844670</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Customization Service for Standard Parts (discarded)" target="Zipperle-Antriebstechnik">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Zipperle-Antriebstechnik belongs to Customization Service for Standard Parts (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-e807696b3f1023278a64c75626f362ff</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844671</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Customization Service for Standard Parts (discarded)" target="Mailbox">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Mailbox belongs to Customization Service for Standard Parts (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-e807696b3f1023278a64c75626f362ff</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844672</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Customization Service for Standard Parts (discarded)" target="Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Analysis belongs to Customization Service for Standard Parts (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-e807696b3f1023278a64c75626f362ff</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844673</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content 0 (discarded)" target="Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Content Analysis belongs to Discarded Content 0 (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-852487bcd0da16544613477c064ab4db</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844640</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content 0 (discarded)" target="Discarded Content">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content belongs to Discarded Content 0 (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-852487bcd0da16544613477c064ab4db</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844641</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content 0 (discarded)" target="Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Analysis belongs to Discarded Content 0 (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-852487bcd0da16544613477c064ab4db</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844642</data>
+      <data key="d13" />
+    </edge>
+    <edge source="zipperle Antriebstechnik  (discarded)" target="Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Content Analysis belongs to zipperle Antriebstechnik  (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cef827c48511f28c26d198e488d621c1</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844661</data>
+      <data key="d13" />
+    </edge>
+    <edge source="zipperle Antriebstechnik  (discarded)" target="Discarded Content">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content belongs to zipperle Antriebstechnik  (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cef827c48511f28c26d198e488d621c1</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844662</data>
+      <data key="d13" />
+    </edge>
+    <edge source="zipperle Antriebstechnik  (discarded)" target="zipperle Antriebstechnik">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity zipperle Antriebstechnik belongs to zipperle Antriebstechnik  (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cef827c48511f28c26d198e488d621c1</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844662</data>
+      <data key="d13" />
+    </edge>
+    <edge source="zipperle Antriebstechnik  (discarded)" target="Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Analysis belongs to zipperle Antriebstechnik  (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-cef827c48511f28c26d198e488d621c1</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844663</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Text Fragment (discarded)" target="Discarded Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content Analysis belongs to Discarded Text Fragment (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3c6ca14cfda283983d49d58cbc5da322</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844653</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Text Fragment (discarded)" target="Text">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Text belongs to Discarded Text Fragment (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3c6ca14cfda283983d49d58cbc5da322</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844653</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Text Fragment (discarded)" target="Content">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Content belongs to Discarded Text Fragment (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3c6ca14cfda283983d49d58cbc5da322</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844654</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Text Fragment (discarded)" target="Page Index">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Page Index belongs to Discarded Text Fragment (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3c6ca14cfda283983d49d58cbc5da322</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844655</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Text Fragment (discarded)" target="Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Analysis belongs to Discarded Text Fragment (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3c6ca14cfda283983d49d58cbc5da322</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844656</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Text Fragment (discarded)" target="BBox">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity BBox belongs to Discarded Text Fragment (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3c6ca14cfda283983d49d58cbc5da322</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844657</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Page Element (discarded)" target="Discarded Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content Analysis belongs to Discarded Page Element (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-c5548d22edd11433b81e01a1ec0fc708</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844671</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Page Element (discarded)" target="Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Content Analysis belongs to Discarded Page Element (discarded)</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-c5548d22edd11433b81e01a1ec0fc708</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844672</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Discarded Content">
+      <data key="d7">3.0</data>
+      <data key="d8">Content Analysis is used to categorize and determine the relevance of content, including discarded content.&lt;SEP&gt;Content Analysis involves categorizing content as relevant or discarded.</data>
+      <data key="d9">analysis process,content categorization,relevance</data>
+      <data key="d10">chunk-852487bcd0da16544613477c064ab4db&lt;SEP&gt;chunk-cef827c48511f28c26d198e488d621c1&lt;SEP&gt;chunk-e807696b3f1023278a64c75626f362ff</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844640</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Zipperle-Antriebstechnik">
+      <data key="d7">1.0</data>
+      <data key="d8">Content Analysis is used by Zipperle-Antriebstechnik to analyze and customize standard parts.</data>
+      <data key="d9">company process,customization</data>
+      <data key="d10">chunk-e807696b3f1023278a64c75626f362ff</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844669</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content Analysis" target="Discarded Content Analysis">
+      <data key="d7">1.0</data>
+      <data key="d8">The discarded content analysis is related to the content analysis process, indicating a discarded or redundant section.</data>
+      <data key="d9">content extraction,discarded entity</data>
+      <data key="d10">chunk-c5548d22edd11433b81e01a1ec0fc708</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844671</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content" target="Analysis">
+      <data key="d7">1.0</data>
+      <data key="d8">Analysis determines the relevance of content, categorizing it as discarded or relevant.</data>
+      <data key="d9">categorization,content relevance</data>
+      <data key="d10">chunk-852487bcd0da16544613477c064ab4db</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844640</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content" target="zipperle Antriebstechnik">
+      <data key="d7">1.0</data>
+      <data key="d8">zipperle Antriebstechnik is mentioned in the discarded content, indicating its relevance to the analysis.</data>
+      <data key="d9">company mention,content relevance</data>
+      <data key="d10">chunk-cef827c48511f28c26d198e488d621c1</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844661</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content" target="Zipperle-Antriebstechnik">
+      <data key="d7">1.0</data>
+      <data key="d8">Discarded Content is managed by Zipperle-Antriebstechnik as part of their standard process.</data>
+      <data key="d9">company process,waste management</data>
+      <data key="d10">chunk-e807696b3f1023278a64c75626f362ff</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844670</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Analysis" target="Discarded Content Analysis">
+      <data key="d7">1.0</data>
+      <data key="d8">Discarded Content Analysis is a type of analysis that classifies content as discarded, which is a specific application of the broader concept of analysis.</data>
+      <data key="d9">analysis type,content classification</data>
+      <data key="d10">chunk-3c6ca14cfda283983d49d58cbc5da322</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844652</data>
+      <data key="d13" />
+    </edge>
+    <edge source="TABLE_AS_JSON" target="metadata">
+      <data key="d7">1.0</data>
+      <data key="d8">TABLE_AS_JSON contains metadata about the table, including image path, caption, footnotes, and summary.</data>
+      <data key="d9">metadata content,table metadata</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844640</data>
+      <data key="d13" />
+    </edge>
+    <edge source="TABLE_AS_JSON" target="table">
+      <data key="d7">1.0</data>
+      <data key="d8">TABLE_AS_JSON contains table data.</data>
+      <data key="d9">metadata content,table data</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844643</data>
+      <data key="d13" />
+    </edge>
+    <edge source="metadata" target="image_path">
+      <data key="d7">1.0</data>
+      <data key="d8">metadata contains an image path field.</data>
+      <data key="d9">image path,metadata field</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844641</data>
+      <data key="d13" />
+    </edge>
+    <edge source="metadata" target="caption">
+      <data key="d7">1.0</data>
+      <data key="d8">metadata contains a caption field.</data>
+      <data key="d9">caption,metadata field</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844641</data>
+      <data key="d13" />
+    </edge>
+    <edge source="metadata" target="footnotes">
+      <data key="d7">1.0</data>
+      <data key="d8">metadata contains a footnotes field.</data>
+      <data key="d9">footnotes,metadata field</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844642</data>
+      <data key="d13" />
+    </edge>
+    <edge source="metadata" target="summary">
+      <data key="d7">1.0</data>
+      <data key="d8">metadata contains a summary field.</data>
+      <data key="d9">metadata field,summary</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844644</data>
+      <data key="d13" />
+    </edge>
+    <edge source="metadata" target="table">
+      <data key="d7">1.0</data>
+      <data key="d8">table contains metadata about the table.</data>
+      <data key="d9">metadata content,table metadata</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844645</data>
+      <data key="d13" />
+    </edge>
+    <edge source="table" target="columns">
+      <data key="d7">1.0</data>
+      <data key="d8">table contains columns.</data>
+      <data key="d9">column data,table structure</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844644</data>
+      <data key="d13" />
+    </edge>
+    <edge source="columns" target="rows">
+      <data key="d7">1.0</data>
+      <data key="d8">columns and rows are components of the table.</data>
+      <data key="d9">column data,row data</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844641</data>
+      <data key="d13" />
+    </edge>
+    <edge source="M" target="z">
+      <data key="d7">1.0</data>
+      <data key="d8">M and z are columns within the table.</data>
+      <data key="d9">column data,parameter values</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844641</data>
+      <data key="d13" />
+    </edge>
+    <edge source="B[mm]|" target="ON[mm]">
+      <data key="d7">1.0</data>
+      <data key="d8">B[mm]| and ON[mm] are columns within the table.</data>
+      <data key="d9">column data,parameter values</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844642</data>
+      <data key="d13" />
+    </edge>
+    <edge source="OTK[mm]" target="OKK[mm]">
+      <data key="d7">1.0</data>
+      <data key="d8">OTK[mm] and OKK[mm] are columns within the table.</data>
+      <data key="d9">column data,parameter values</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844642</data>
+      <data key="d13" />
+    </edge>
+    <edge source="E[mm]" target="NL[mm]">
+      <data key="d7">1.0</data>
+      <data key="d8">E[mm] and NL[mm] are columns within the table.</data>
+      <data key="d9">column data,parameter values</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844642</data>
+      <data key="d13" />
+    </edge>
+    <edge source="ZB" target="Q">
+      <data key="d7">1.0</data>
+      <data key="d8">ZB and Q are columns within the table.</data>
+      <data key="d9">column data,parameter values</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844642</data>
+      <data key="d13" />
+    </edge>
+    <edge source="L|[mm]|" target="G[g]">
+      <data key="d7">1.0</data>
+      <data key="d8">L|[mm]| and G[g] are columns within the table.</data>
+      <data key="d9">column data,parameter values</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844643</data>
+      <data key="d13" />
+    </edge>
+    <edge source="DM**[Ncm]" target="Art.-Nr.">
+      <data key="d7">1.0</data>
+      <data key="d8">DM**[Ncm] and Art.-Nr. are columns within the table.</data>
+      <data key="d9">column data,parameter values</data>
+      <data key="d10">chunk-cc0a8250528fa45bb4851504ad8c1f63</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844643</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content Analysis" target="Content">
+      <data key="d7">2.0</data>
+      <data key="d8">The discarded content is a page element classified as a discarded entity, which may indicate a deleted or redundant section.&lt;SEP&gt;Discarded Content Analysis is a type of analysis that classifies content as discarded.</data>
+      <data key="d9">analysis type,content classification,discarded entity,page element</data>
+      <data key="d10">chunk-3c6ca14cfda283983d49d58cbc5da322&lt;SEP&gt;chunk-c5548d22edd11433b81e01a1ec0fc708</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844650</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content Analysis" target="BBox">
+      <data key="d7">1.0</data>
+      <data key="d8">Discarded Content Analysis involves the analysis of bounding boxes.</data>
+      <data key="d9">analysis component,bounding box</data>
+      <data key="d10">chunk-3c6ca14cfda283983d49d58cbc5da322</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844650</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content Analysis" target="Page Index">
+      <data key="d7">1.0</data>
+      <data key="d8">Discarded Content Analysis involves the analysis of page indices.</data>
+      <data key="d9">analysis component,page index</data>
+      <data key="d10">chunk-3c6ca14cfda283983d49d58cbc5da322</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844651</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="Text">
+      <data key="d7">1.0</data>
+      <data key="d8">Content is classified as text, which is a specific type of data that can be analyzed.</data>
+      <data key="d9">content type,text classification</data>
+      <data key="d10">chunk-3c6ca14cfda283983d49d58cbc5da322</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844651</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="BBox">
+      <data key="d7">1.0</data>
+      <data key="d8">Content involves the analysis of bounding boxes.</data>
+      <data key="d9">bounding box,content component</data>
+      <data key="d10">chunk-3c6ca14cfda283983d49d58cbc5da322</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844651</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="Page Index">
+      <data key="d7">1.0</data>
+      <data key="d8">Content involves the analysis of page indices.</data>
+      <data key="d9">content component,page index</data>
+      <data key="d10">chunk-3c6ca14cfda283983d49d58cbc5da322</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844652</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BBox" target="Page Index">
+      <data key="d7">1.0</data>
+      <data key="d8">BBox and Page Index are both components of the analysis process, specifically in the context of document analysis.</data>
+      <data key="d9">analysis component,page index</data>
+      <data key="d10">chunk-3c6ca14cfda283983d49d58cbc5da322</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844653</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Content Analysis" target="Visual Analysis">
+      <data key="d7">2.0</data>
+      <data key="d8">Image Content Analysis is used to analyze the technical details of an image, such as the visual style and composition.&lt;SEP&gt;Image Content Analysis is used to support Visual Analysis.</data>
+      <data key="d9">image analysis,technical details,visual interpretation</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965&lt;SEP&gt;chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844654</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Path" target="Captions">
+      <data key="d7">2.0</data>
+      <data key="d8">The Image Path is a type of metadata that provides information about the image file.&lt;SEP&gt;The Image Path is associated with Captions.</data>
+      <data key="d9">file information,image metadata,text description</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965&lt;SEP&gt;chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844654</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Captions" target="Footnotes">
+      <data key="d7">2.0</data>
+      <data key="d8">Captions provide additional context or information about an image, while footnotes provide further references or notes.&lt;SEP&gt;Captions are linked to Footnotes.</data>
+      <data key="d9">additional information,image context,text reference</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965&lt;SEP&gt;chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844655</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Visual Analysis" target="Technical Drawing">
+      <data key="d7">1.0</data>
+      <data key="d8">Visual Analysis is used to interpret Technical Drawings.</data>
+      <data key="d9">image interpretation,technical illustration</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844655</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Visual Analysis" target="detailed_description">
+      <data key="d7">1.0</data>
+      <data key="d8">Visual Analysis is used to interpret the technical details of an image, such as the composition and visual style.</data>
+      <data key="d9">image interpretation,technical details</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844662</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Technical Drawing" target="Bevel Gear">
+      <data key="d7">1.0</data>
+      <data key="d8">Technical Drawings are used to represent Bevel Gears.</data>
+      <data key="d9">mechanical component,technical illustration</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844655</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bevel Gear" target="3D Representation">
+      <data key="d7">1.0</data>
+      <data key="d8">Bevel Gears are represented in 3D.</data>
+      <data key="d9">3D model,mechanical component</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844656</data>
+      <data key="d13" />
+    </edge>
+    <edge source="3D Representation" target="Dimensions">
+      <data key="d7">1.0</data>
+      <data key="d8">3D Representations include Dimensions.</data>
+      <data key="d9">3D model,measurement</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844657</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Dimensions" target="Measurements">
+      <data key="d7">1.0</data>
+      <data key="d8">Dimensions are based on Measurements.</data>
+      <data key="d9">measurement,specification</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844655</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Measurements" target="Annotations">
+      <data key="d7">1.0</data>
+      <data key="d8">Measurements are annotated.</data>
+      <data key="d9">label,measurement</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844656</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Annotations" target="Labels">
+      <data key="d7">1.0</data>
+      <data key="d8">Annotations are used as Labels.</data>
+      <data key="d9">label,text description</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844657</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Labels" target="Background">
+      <data key="d7">1.0</data>
+      <data key="d8">Labels are used to describe the Background.</data>
+      <data key="d9">image context,text description</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844656</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Background" target="Composition">
+      <data key="d7">1.0</data>
+      <data key="d8">The Background is part of the Composition.</data>
+      <data key="d9">image context,visual arrangement</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844658</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Composition" target="Layout">
+      <data key="d7">1.0</data>
+      <data key="d8">Composition is related to Layout.</data>
+      <data key="d9">image organization,visual arrangement</data>
+      <data key="d10">chunk-dc55262e2c0b9a1d647284ed866d4965</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844657</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image" target="metal gear component">
+      <data key="d7">1.0</data>
+      <data key="d8">The image depicts a metal gear component.</data>
+      <data key="d9">image content,technical details</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844665</data>
+      <data key="d13" />
+    </edge>
+    <edge source="metal gear component" target="steel">
+      <data key="d7">1.0</data>
+      <data key="d8">The metal gear component is made of steel, a type of metal alloy.</data>
+      <data key="d9">material composition,technical details</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844663</data>
+      <data key="d13" />
+    </edge>
+    <edge source="metal gear component" target="gear-like structure">
+      <data key="d7">1.0</data>
+      <data key="d8">The gear-like structure is a type of mechanical component used in machinery or equipment.</data>
+      <data key="d9">mechanical component,technical details</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844664</data>
+      <data key="d13" />
+    </edge>
+    <edge source="World Athletics Championship" target="Tokyo">
+      <data key="d7">1.0</data>
+      <data key="d8">The World Athletics Championship is being hosted in Tokyo.</data>
+      <data key="d9">event location,international competition</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844663</data>
+      <data key="d13" />
+    </edge>
+    <edge source="World Athletics Championship" target="Noah Carter">
+      <data key="d7">2.0</data>
+      <data key="d8">Noah Carter is competing at the World Athletics Championship.&lt;SEP&gt;Noah Carter is participating in the World Athletics Championship.</data>
+      <data key="d9">athlete,athlete participation,competition,event participant</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844666</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Noah Carter" target="100m Sprint Record">
+      <data key="d7">1.0</data>
+      <data key="d8">Noah Carter set a new 100m sprint record at the championship.</data>
+      <data key="d9">athlete achievement,record-breaking</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844664</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Noah Carter" target="Carbon-Fiber Spikes">
+      <data key="d7">1.0</data>
+      <data key="d8">Noah Carter used carbon-fiber spikes to enhance performance during the race.</data>
+      <data key="d9">athletic equipment,performance boost</data>
+      <data key="d10">chunk-f0263403d423742dd5cc7f07935e8886</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844665</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zipperle-Antriebstechnik" target="Mailbox">
+      <data key="d7">2.0</data>
+      <data key="d8">Zipperle-Antriebstechnik uses a mailbox system for customer communication and service.&lt;SEP&gt;Mailbox is used by Zipperle-Antriebstechnik for customer communication and service.</data>
+      <data key="d9">company communication,customer service</data>
+      <data key="d10">chunk-e807696b3f1023278a64c75626f362ff</data>
+      <data key="d11">bevel_gear.pdf</data>
+      <data key="d12">1765844668</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

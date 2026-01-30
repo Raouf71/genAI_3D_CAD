@@ -1,0 +1,28 @@
+{
+  "doc-43dfedb460a1351c9a7ef9da79bac15a": {
+    "status": "processed",
+    "chunks_count": 9,
+    "chunks_list": [
+      "chunk-a51c78a49a42ea238802cc660193ebd1",
+      "chunk-dc55262e2c0b9a1d647284ed866d4965",
+      "chunk-f0263403d423742dd5cc7f07935e8886",
+      "chunk-cc0a8250528fa45bb4851504ad8c1f63",
+      "chunk-e807696b3f1023278a64c75626f362ff",
+      "chunk-852487bcd0da16544613477c064ab4db",
+      "chunk-cef827c48511f28c26d198e488d621c1",
+      "chunk-3c6ca14cfda283983d49d58cbc5da322",
+      "chunk-c5548d22edd11433b81e01a1ec0fc708"
+    ],
+    "content_summary": "Kegelräder aus Zink (ZnAl4Cu1) \n\nÜbersetzung 1:1 \n\nAusführung: geradverzahnt, gegossen, Eingriffswinkel $2 0 ^ { \\circ }$ , Bohrungen mit Toleranz H 9 spanabhebend bearbeitet.   \nMaßänderung vorbehalten. \n\n\\*\\*) Bitte Angaben zu Drehmoment auf S. 14 ...",
+    "content_length": 259,
+    "created_at": "2025-12-16T00:19:20.721309+00:00",
+    "updated_at": "2025-12-16T01:24:33+00:00",
+    "file_path": "bevel_gear.pdf",
+    "track_id": "insert_20251216_011920_63866fcf",
+    "metadata": {
+      "processing_start_time": 1765844360,
+      "processing_end_time": 1765844379
+    },
+    "multimodal_processed": true
+  }
+}

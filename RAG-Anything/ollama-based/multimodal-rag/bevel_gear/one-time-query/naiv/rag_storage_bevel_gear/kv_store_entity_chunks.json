@@ -1,0 +1,101 @@
+{
+  "Kegelräder aus Zink": {
+    "chunk_ids": [
+      "chunk-a51c78a49a42ea238802cc660193ebd1"
+    ],
+    "count": 1,
+    "create_time": 1765844374,
+    "update_time": 1765844374,
+    "_id": "Kegelräder aus Zink"
+  },
+  "Zink": {
+    "chunk_ids": [
+      "chunk-a51c78a49a42ea238802cc660193ebd1"
+    ],
+    "count": 1,
+    "create_time": 1765844374,
+    "update_time": 1765844374,
+    "_id": "Zink"
+  },
+  "Übersetzung 1:1": {
+    "chunk_ids": [
+      "chunk-a51c78a49a42ea238802cc660193ebd1"
+    ],
+    "count": 1,
+    "create_time": 1765844374,
+    "update_time": 1765844374,
+    "_id": "Übersetzung 1:1"
+  },
+  "Ausführung": {
+    "chunk_ids": [
+      "chunk-a51c78a49a42ea238802cc660193ebd1"
+    ],
+    "count": 1,
+    "create_time": 1765844374,
+    "update_time": 1765844374,
+    "_id": "Ausführung"
+  },
+  "geradverzahnt": {
+    "chunk_ids": [
+      "chunk-a51c78a49a42ea238802cc660193ebd1"
+    ],
+    "count": 1,
+    "create_time": 1765844374,
+    "update_time": 1765844374,
+    "_id": "geradverzahnt"
+  },
+  "gegossen": {
+    "chunk_ids": [
+      "chunk-a51c78a49a42ea238802cc660193ebd1"
+    ],
+    "count": 1,
+    "create_time": 1765844374,
+    "update_time": 1765844374,
+    "_id": "gegossen"
+  },
+  "Eingriffswinkel": {
+    "chunk_ids": [
+      "chunk-a51c78a49a42ea238802cc660193ebd1"
+    ],
+    "count": 1,
+    "create_time": 1765844374,
+    "update_time": 1765844374,
+    "_id": "Eingriffswinkel"
+  },
+  "Bohrungen": {
+    "chunk_ids": [
+      "chunk-a51c78a49a42ea238802cc660193ebd1"
+    ],
+    "count": 1,
+    "create_time": 1765844374,
+    "update_time": 1765844374,
+    "_id": "Bohrungen"
+  },
+  "Toleranz": {
+    "chunk_ids": [
+      "chunk-a51c78a49a42ea238802cc660193ebd1"
+    ],
+    "count": 1,
+    "create_time": 1765844376,
+    "update_time": 1765844376,
+    "_id": "Toleranz"
+  },
+  "H 9": {
+    "chunk_ids": [
+      "chunk-a51c78a49a42ea238802cc660193ebd1"
+    ],
+    "count": 1,
+    "create_time": 1765844376,
+    "update_time": 1765844376,
+    "_id": "H 9"
+  },
+  "S. 14": {
+    "chunk_ids": [
+      "chunk-a51c78a49a42ea238802cc660193ebd1"
+    ],
+    "count": 1,
+    "create_time": 1765844377,
+    "update_time": 1765844377,
+    "_id": "S. 14"
+  }
+}

@@ -1,0 +1,143 @@
+[
+    {
+        "type": "text",
+        "text": "Kegelräder aus Zink (ZnAl4Cu1) ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            121,
+            551,
+            147
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Übersetzung 1:1 ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            167,
+            262,
+            189
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ausführung: geradverzahnt, gegossen, Eingriffswinkel $2 0 ^ { \\circ }$ , Bohrungen mit Toleranz H 9 spanabhebend bearbeitet.   \nMaßänderung vorbehalten. ",
+        "bbox": [
+            90,
+            206,
+            623,
+            255
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5b13f8b5e14698d40ba8b09088a0d831065b93f3ed8b42f3c58d745e4153cc3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            97,
+            299,
+            436,
+            545
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8350a69bafa49ba9f73ed1eb25342b446c3a3c19576ebc8ed7bd6f38b7cbce66.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            645,
+            124,
+            917,
+            303
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5cd3a5cf84ebe152a8e7a1b18d26e18a45453d30b5517a75e4c2013ec32dd6b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>M</td><td rowspan=1 colspan=1>z</td><td rowspan=1 colspan=1>B[mm]|</td><td rowspan=1 colspan=1>ON[mm]</td><td rowspan=1 colspan=1>OTK[mm]</td><td rowspan=1 colspan=1>OKK[mm]</td><td rowspan=1 colspan=1>E[mm]</td><td rowspan=1 colspan=1>NL[mm]</td><td rowspan=1 colspan=1>ZB</td><td rowspan=1 colspan=1>Q</td><td rowspan=1 colspan=1>L|[mm]|</td><td rowspan=1 colspan=1>G[g]</td><td rowspan=1 colspan=1>DM**[Ncm]</td><td rowspan=1 colspan=1>Art.-Nr.</td></tr><tr><td rowspan=1 colspan=1>1,0</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>17,7</td><td rowspan=1 colspan=1>17,9</td><td rowspan=1 colspan=1>7.5</td><td rowspan=1 colspan=1>4.5</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>21,82</td><td rowspan=1 colspan=1>KD1016-1:1ZN</td></tr><tr><td rowspan=1 colspan=1>1,5</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1>25,2</td><td rowspan=1 colspan=1>10,7</td><td rowspan=1 colspan=1>6,9</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>18,6</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>73,13</td><td rowspan=1 colspan=1>KD1516-1:1ZN</td></tr><tr><td rowspan=1 colspan=1>2,0</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>34,8</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>9,6</td><td rowspan=1 colspan=1>19,2</td><td rowspan=1 colspan=1>21,3</td><td rowspan=1 colspan=1>52</td><td rowspan=1 colspan=1>185,77</td><td rowspan=1 colspan=1>KD2016-1:1ZN</td></tr><tr><td rowspan=1 colspan=1>2.5</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>43.3</td><td rowspan=1 colspan=1>36,2</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>12,3</td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>25,5</td><td rowspan=1 colspan=1>88</td><td rowspan=1 colspan=1>357,06</td><td rowspan=1 colspan=1>KD2516-1:1ZN</td></tr><tr><td rowspan=1 colspan=1>3,0</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>48</td><td rowspan=1 colspan=1>52,3</td><td rowspan=1 colspan=1>42,5</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1>29,3</td><td rowspan=1 colspan=1>146</td><td rowspan=1 colspan=1>576,86</td><td rowspan=1 colspan=1>KD3016-1:1ZN</td></tr><tr><td rowspan=1 colspan=1>3.5</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>34</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>61,4</td><td rowspan=1 colspan=1>49,2</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>15,5</td><td rowspan=1 colspan=1>29,2</td><td rowspan=1 colspan=1>33,2</td><td rowspan=1 colspan=1>228</td><td rowspan=1 colspan=1>898,94</td><td rowspan=1 colspan=1>KD3516-1:1ZN</td></tr></table>",
+        "bbox": [
+            92,
+            570,
+            630,
+            680
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*\\*) Bitte Angaben zu Drehmoment auf S. 14 beachten. ",
+        "bbox": [
+            94,
+            696,
+            472,
+            711
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "Gerne bearbeiten wir diese Standardteile auf Ihren Wunsch hin durch Einbringung von veränderten Bohrungsdurchmessern, zusätzlichen Bohrungen, Gewinden, Nuten etc. Außerdem fertigen wir auch spezifisch nach Ihren Zeichnungen. Ihre Anfrage senden Sie an mailbox@zipperle-antriebstechnik.de ",
+        "bbox": [
+            95,
+            922,
+            882,
+            947
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            927,
+            124,
+            1000,
+            167
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "zipperle Antriebstechnik ",
+        "bbox": [
+            643,
+            30,
+            904,
+            91
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "15 ",
+        "bbox": [
+            926,
+            925,
+            1000,
+            952
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            907,
+            246,
+            919,
+            303
+        ],
+        "page_idx": 0
+    }
+]
